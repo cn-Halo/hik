@@ -1,0 +1,581 @@
+2018-11-23 09:50:44.297 |-INFO  [http-nio-8008-exec-3] com.pay.aspect.PayAspect [65] -| 【访客验证】 合法访问：ip = 192.168.1.120 ,port = 51485 ,remoteSysName = wky,methodName = pay ,args = [null, null, http://192.168.1.120:9701/website/pay/notifUrl, 2018111, 0.01, 苹果, null, null, null, null, null, null, null, org.apache.catalina.connector.ResponseFacade@783bac05] 
+2018-11-23 09:50:44.308 |-INFO  [http-nio-8008-exec-3] com.pay.service.AlipayService [148] -| 【支付请求参数】 bizContent = {
+  "out_trade_no": "2018111",
+  "total_amount": "0.01",
+  "subject": "苹果",
+  "timeout_express": "90m",
+  "goods_type": "0",
+  "product_code": "FAST_INSTANT_TRADE_PAY"
+}
+2018-11-23 09:51:09.471 |-INFO  [http-nio-8008-exec-5] com.pay.aspect.PayAspect [65] -| 【访客验证】 合法访问：ip = 192.168.1.120 ,port = 51541 ,remoteSysName = wky,methodName = pay ,args = [null, null, http://192.168.1.120:9701/website/pay/notifUrl, 2018111, 0.01, 门诊诊查费, null, null, null, null, null, null, null, org.apache.catalina.connector.ResponseFacade@783bac05] 
+2018-11-23 09:51:09.475 |-INFO  [http-nio-8008-exec-5] com.pay.service.AlipayService [148] -| 【支付请求参数】 bizContent = {
+  "out_trade_no": "2018111",
+  "total_amount": "0.01",
+  "subject": "门诊诊查费",
+  "timeout_express": "90m",
+  "goods_type": "0",
+  "product_code": "FAST_INSTANT_TRADE_PAY"
+}
+2018-11-23 09:51:23.925 |-INFO  [http-nio-8008-exec-4] com.pay.aspect.PayAspect [65] -| 【访客验证】 合法访问：ip = 192.168.1.120 ,port = 51559 ,remoteSysName = wky,methodName = pay ,args = [null, null, http://192.168.1.120:9701/website/pay/notifUrl, 2018111, 0.01, 门诊诊查, null, null, null, null, null, null, null, org.apache.catalina.connector.ResponseFacade@783bac05] 
+2018-11-23 09:51:23.929 |-INFO  [http-nio-8008-exec-4] com.pay.service.AlipayService [148] -| 【支付请求参数】 bizContent = {
+  "out_trade_no": "2018111",
+  "total_amount": "0.01",
+  "subject": "门诊诊查",
+  "timeout_express": "90m",
+  "goods_type": "0",
+  "product_code": "FAST_INSTANT_TRADE_PAY"
+}
+2018-11-23 09:51:49.931 |-INFO  [http-nio-8008-exec-7] com.pay.aspect.PayAspect [65] -| 【访客验证】 合法访问：ip = 192.168.1.120 ,port = 51579 ,remoteSysName = wky,methodName = pay ,args = [null, null, http://192.168.1.120:9701/website/pay/notifUrl, 2018111, 0.01, 门诊诊查费, null, null, null, null, null, null, null, org.apache.catalina.connector.ResponseFacade@783bac05] 
+2018-11-23 09:51:49.933 |-INFO  [http-nio-8008-exec-7] com.pay.service.AlipayService [148] -| 【支付请求参数】 bizContent = {
+  "out_trade_no": "2018111",
+  "total_amount": "0.01",
+  "subject": "门诊诊查费",
+  "timeout_express": "90m",
+  "goods_type": "0",
+  "product_code": "FAST_INSTANT_TRADE_PAY"
+}
+2018-11-23 09:53:33.135 |-INFO  [http-nio-8008-exec-2] com.pay.aspect.PayAspect [65] -| 【访客验证】 合法访问：ip = 192.168.1.120 ,port = 51610 ,remoteSysName = wky,methodName = pay ,args = [null, null, http://192.168.1.120:9701/website/pay/notifUrl, 2018111, 0.01, 门诊诊查费, null, null, null, null, null, null, null, org.apache.catalina.connector.ResponseFacade@783bac05] 
+2018-11-23 09:53:33.138 |-INFO  [http-nio-8008-exec-2] com.pay.service.AlipayService [148] -| 【支付请求参数】 bizContent = {
+  "out_trade_no": "2018111",
+  "total_amount": "0.01",
+  "subject": "门诊诊查费",
+  "timeout_express": "90m",
+  "goods_type": "0",
+  "product_code": "FAST_INSTANT_TRADE_PAY"
+}
+2018-11-23 10:10:35.964 |-INFO  [http-nio-8008-exec-3] com.pay.service.AlipayService [148] -| 【支付请求参数】 bizContent = {
+  "out_trade_no": "GYS2018112215004455",
+  "total_amount": "0.01",
+  "subject": "供应商平台耗材功能年费(1家医院)-苏州双银医疗器械有限公司",
+  "timeout_express": "90m",
+  "goods_type": "0",
+  "product_code": "FAST_INSTANT_TRADE_PAY"
+}
+2018-11-23 10:18:17.057 |-INFO  [http-nio-8008-exec-4] com.pay.aspect.PayAspect [65] -| 【访客验证】 合法访问：ip = 192.168.1.120 ,port = 55281 ,remoteSysName = wky,methodName = pay ,args = [null, null, http://192.168.1.120:9701/website/pay/notifUrl, 2018111, 0.01, 挂号费, null, null, null, null, null, null, null, org.apache.catalina.connector.ResponseFacade@783bac05] 
+2018-11-23 10:18:17.062 |-INFO  [http-nio-8008-exec-4] com.pay.service.AlipayService [148] -| 【支付请求参数】 bizContent = {
+  "out_trade_no": "2018111",
+  "total_amount": "0.01",
+  "subject": "挂号费",
+  "timeout_express": "90m",
+  "goods_type": "0",
+  "product_code": "FAST_INSTANT_TRADE_PAY"
+}
+2018-11-23 10:19:00.310 |-INFO  [http-nio-8008-exec-6] com.pay.aspect.PayAspect [65] -| 【访客验证】 合法访问：ip = 192.168.1.120 ,port = 55384 ,remoteSysName = wky,methodName = pay ,args = [null, null, http://192.168.1.120:9701/website/pay/notifUrl, 2018111, 0.01, 好滋味面包坊, null, null, null, null, null, null, null, org.apache.catalina.connector.ResponseFacade@783bac05] 
+2018-11-23 10:19:00.312 |-INFO  [http-nio-8008-exec-6] com.pay.service.AlipayService [148] -| 【支付请求参数】 bizContent = {
+  "out_trade_no": "2018111",
+  "total_amount": "0.01",
+  "subject": "好滋味面包坊",
+  "timeout_express": "90m",
+  "goods_type": "0",
+  "product_code": "FAST_INSTANT_TRADE_PAY"
+}
+2018-11-23 10:19:42.842 |-INFO  [http-nio-8008-exec-8] com.pay.aspect.PayAspect [65] -| 【访客验证】 合法访问：ip = 192.168.1.120 ,port = 55508 ,remoteSysName = wky,methodName = pay ,args = [null, null, http://192.168.1.120:9701/website/pay/notifUrl, 2018111, 0.01, 挂号费, null, null, null, null, null, null, null, org.apache.catalina.connector.ResponseFacade@783bac05] 
+2018-11-23 10:19:42.845 |-INFO  [http-nio-8008-exec-8] com.pay.service.AlipayService [148] -| 【支付请求参数】 bizContent = {
+  "out_trade_no": "2018111",
+  "total_amount": "0.01",
+  "subject": "挂号费",
+  "timeout_express": "90m",
+  "goods_type": "0",
+  "product_code": "FAST_INSTANT_TRADE_PAY"
+}
+2018-11-23 10:23:33.007 |-INFO  [http-nio-8008-exec-2] com.pay.aspect.PayAspect [65] -| 【访客验证】 合法访问：ip = 192.168.1.120 ,port = 56039 ,remoteSysName = wky,methodName = pay ,args = [null, null, http://192.168.1.120:9701/website/pay/notifUrl, 2018111, 0.01, 挂号费, null, null, null, null, null, null, null, org.apache.catalina.connector.ResponseFacade@783bac05] 
+2018-11-23 10:23:33.014 |-INFO  [http-nio-8008-exec-2] com.pay.service.AlipayService [148] -| 【支付请求参数】 bizContent = {
+  "out_trade_no": "2018111",
+  "total_amount": "0.01",
+  "subject": "挂号费",
+  "timeout_express": "90m",
+  "goods_type": "0",
+  "product_code": "FAST_INSTANT_TRADE_PAY"
+}
+2018-11-23 10:25:22.273 |-INFO  [http-nio-8008-exec-5] com.pay.aspect.PayAspect [65] -| 【访客验证】 合法访问：ip = 192.168.1.120 ,port = 56309 ,remoteSysName = wky,methodName = pay ,args = [null, null, http://192.168.1.120:9701/website/pay/notifUrl, 2018111, 0.01, 门诊诊查费用, null, null, null, null, null, null, null, org.apache.catalina.connector.ResponseFacade@783bac05] 
+2018-11-23 10:25:22.276 |-INFO  [http-nio-8008-exec-5] com.pay.service.AlipayService [148] -| 【支付请求参数】 bizContent = {
+  "out_trade_no": "2018111",
+  "total_amount": "0.01",
+  "subject": "门诊诊查费用",
+  "timeout_express": "90m",
+  "goods_type": "0",
+  "product_code": "FAST_INSTANT_TRADE_PAY"
+}
+2018-11-23 10:25:39.924 |-INFO  [http-nio-8008-exec-4] com.pay.aspect.PayAspect [65] -| 【访客验证】 合法访问：ip = 192.168.1.120 ,port = 56379 ,remoteSysName = wky,methodName = pay ,args = [null, null, http://192.168.1.120:9701/website/pay/notifUrl, 2018111, 0.01, 诊查费, null, null, null, null, null, null, null, org.apache.catalina.connector.ResponseFacade@783bac05] 
+2018-11-23 10:25:39.929 |-INFO  [http-nio-8008-exec-4] com.pay.service.AlipayService [148] -| 【支付请求参数】 bizContent = {
+  "out_trade_no": "2018111",
+  "total_amount": "0.01",
+  "subject": "诊查费",
+  "timeout_express": "90m",
+  "goods_type": "0",
+  "product_code": "FAST_INSTANT_TRADE_PAY"
+}
+2018-11-23 10:26:16.712 |-INFO  [http-nio-8008-exec-6] com.pay.aspect.PayAspect [65] -| 【访客验证】 合法访问：ip = 192.168.1.120 ,port = 56464 ,remoteSysName = wky,methodName = pay ,args = [null, null, http://192.168.1.120:9701/website/pay/notifUrl, 2018111, 0.01, 好苹果, null, null, null, null, null, null, null, org.apache.catalina.connector.ResponseFacade@783bac05] 
+2018-11-23 10:26:16.719 |-INFO  [http-nio-8008-exec-6] com.pay.service.AlipayService [148] -| 【支付请求参数】 bizContent = {
+  "out_trade_no": "2018111",
+  "total_amount": "0.01",
+  "subject": "好苹果",
+  "timeout_express": "90m",
+  "goods_type": "0",
+  "product_code": "FAST_INSTANT_TRADE_PAY"
+}
+2018-11-23 12:30:29.771 |-INFO  [http-nio-8008-exec-2] com.pay.aspect.PayAspect [65] -| 【访客验证】 合法访问：ip = 192.168.1.120 ,port = 59204 ,remoteSysName = wky,methodName = pay ,args = [null, null, http://192.168.1.120:9701/website/pay/notifUrl, 2018111, 0.01, 好滋味面包, null, null, null, null, null, null, null, org.apache.catalina.connector.ResponseFacade@783bac05] 
+2018-11-23 12:30:29.786 |-INFO  [http-nio-8008-exec-2] com.pay.service.AlipayService [148] -| 【支付请求参数】 bizContent = {
+  "out_trade_no": "2018111",
+  "total_amount": "0.01",
+  "subject": "好滋味面包",
+  "timeout_express": "90m",
+  "goods_type": "0",
+  "product_code": "FAST_INSTANT_TRADE_PAY"
+}
+2018-11-23 12:33:33.156 |-INFO  [http-nio-8008-exec-3] com.pay.aspect.PayAspect [65] -| 【访客验证】 合法访问：ip = 192.168.1.120 ,port = 59879 ,remoteSysName = wky,methodName = pay ,args = [null, null, http://192.168.1.120:9701/website/pay/notifUrl, 2018111, 0.01, 好滋味面包, null, null, null, null, null, null, null, org.apache.catalina.connector.ResponseFacade@783bac05] 
+2018-11-23 12:33:33.161 |-INFO  [http-nio-8008-exec-3] com.pay.service.AlipayService [148] -| 【支付请求参数】 bizContent = {
+  "out_trade_no": "2018111",
+  "total_amount": "0.01",
+  "subject": "好滋味面包",
+  "timeout_express": "90m",
+  "goods_type": "0",
+  "product_code": "FAST_INSTANT_TRADE_PAY"
+}
+2018-11-23 12:36:57.621 |-INFO  [http-nio-8008-exec-4] com.pay.service.AlipayService [148] -| 【支付请求参数】 bizContent = {
+  "out_trade_no": "GYS2018112215004455",
+  "total_amount": "0.01",
+  "subject": "供应商平台耗材功能年费(1家医院)-苏州双银医疗器械有限公司",
+  "timeout_express": "90m",
+  "goods_type": "0",
+  "product_code": "FAST_INSTANT_TRADE_PAY"
+}
+2018-11-23 12:41:19.712 |-INFO  [http-nio-8008-exec-7] com.pay.aspect.PayAspect [65] -| 【访客验证】 合法访问：ip = 192.168.1.120 ,port = 61399 ,remoteSysName = wky,methodName = pay ,args = [null, null, http://192.168.1.120:9701/website/pay/notifUrl, 2018111, 0.01, ?????, null, null, null, null, null, null, null, org.apache.catalina.connector.ResponseFacade@783bac05] 
+2018-11-23 12:41:19.718 |-INFO  [http-nio-8008-exec-7] com.pay.service.AlipayService [148] -| 【支付请求参数】 bizContent = {
+  "out_trade_no": "2018111",
+  "total_amount": "0.01",
+  "subject": "?????",
+  "timeout_express": "90m",
+  "goods_type": "0",
+  "product_code": "FAST_INSTANT_TRADE_PAY"
+}
+2018-11-23 12:42:33.608 |-INFO  [http-nio-8008-exec-9] com.pay.aspect.PayAspect [65] -| 【访客验证】 合法访问：ip = 192.168.1.120 ,port = 61636 ,remoteSysName = wky,methodName = pay ,args = [null, null, http://192.168.1.120:9701/website/pay/notifUrl, 2018111, 0.01, ?????, null, null, null, null, null, null, null, org.apache.catalina.connector.ResponseFacade@783bac05] 
+2018-11-23 12:42:33.610 |-INFO  [http-nio-8008-exec-9] com.pay.service.AlipayService [148] -| 【支付请求参数】 bizContent = {
+  "out_trade_no": "2018111",
+  "total_amount": "0.01",
+  "subject": "?????",
+  "timeout_express": "90m",
+  "goods_type": "0",
+  "product_code": "FAST_INSTANT_TRADE_PAY"
+}
+2018-11-23 12:49:07.682 |-INFO  [http-nio-8008-exec-2] com.pay.aspect.PayAspect [85] -| 【未登录拦截】 拦截方法：methodName = navigate
+2018-11-23 12:52:38.805 |-INFO  [http-nio-8008-exec-3] com.pay.aspect.PayAspect [65] -| 【访客验证】 合法访问：ip = 192.168.1.120 ,port = 63525 ,remoteSysName = wky,methodName = pay ,args = [null, null, http://192.168.1.120:9701/website/pay/notifUrl, 2018111, 0.01, ??, null, null, null, null, null, null, null, org.apache.catalina.connector.ResponseFacade@783bac05] 
+2018-11-23 12:52:38.807 |-INFO  [http-nio-8008-exec-3] com.pay.service.AlipayService [148] -| 【支付请求参数】 bizContent = {
+  "out_trade_no": "2018111",
+  "total_amount": "0.01",
+  "subject": "??",
+  "timeout_express": "90m",
+  "goods_type": "0",
+  "product_code": "FAST_INSTANT_TRADE_PAY"
+}
+2018-11-23 13:01:10.708 |-INFO  [http-nio-8008-exec-4] com.pay.aspect.PayAspect [65] -| 【访客验证】 合法访问：ip = 192.168.1.120 ,port = 65132 ,remoteSysName = wky,methodName = pay ,args = [null, null, http://192.168.1.120:9701/website/pay/notifUrl, 2018111, 0.01, ??, null, null, null, null, null, null, null, org.apache.catalina.connector.ResponseFacade@783bac05] 
+2018-11-23 13:01:10.710 |-INFO  [http-nio-8008-exec-4] com.pay.service.AlipayService [148] -| 【支付请求参数】 bizContent = {
+  "out_trade_no": "2018111",
+  "total_amount": "0.01",
+  "subject": "??",
+  "timeout_express": "90m",
+  "goods_type": "0",
+  "product_code": "FAST_INSTANT_TRADE_PAY"
+}
+2018-11-23 13:07:29.599 |-INFO  [http-nio-8008-exec-7] com.pay.aspect.PayAspect [65] -| 【访客验证】 合法访问：ip = 192.168.1.120 ,port = 49669 ,remoteSysName = wky,methodName = pay ,args = [null, null, http://192.168.1.120:9701/website/pay/notifUrl, 2018111, 0.01, ??, null, null, null, null, null, null, null, org.apache.catalina.connector.ResponseFacade@783bac05] 
+2018-11-23 13:07:29.606 |-INFO  [http-nio-8008-exec-7] com.pay.service.AlipayService [148] -| 【支付请求参数】 bizContent = {
+  "out_trade_no": "2018111",
+  "total_amount": "0.01",
+  "subject": "??",
+  "timeout_express": "90m",
+  "goods_type": "0",
+  "product_code": "FAST_INSTANT_TRADE_PAY"
+}
+2018-11-23 13:08:04.061 |-INFO  [http-nio-8008-exec-8] com.pay.aspect.PayAspect [65] -| 【访客验证】 合法访问：ip = 192.168.1.120 ,port = 49769 ,remoteSysName = wky,methodName = pay ,args = [null, null, http://192.168.1.120:9701/website/pay/notifUrl, 2018112, 0.01, ??, null, null, null, null, null, null, null, org.apache.catalina.connector.ResponseFacade@783bac05] 
+2018-11-23 13:08:04.064 |-INFO  [http-nio-8008-exec-8] com.pay.service.AlipayService [148] -| 【支付请求参数】 bizContent = {
+  "out_trade_no": "2018112",
+  "total_amount": "0.01",
+  "subject": "??",
+  "timeout_express": "90m",
+  "goods_type": "0",
+  "product_code": "FAST_INSTANT_TRADE_PAY"
+}
+2018-11-23 13:09:49.398 |-INFO  [http-nio-8008-exec-2] com.pay.aspect.PayAspect [65] -| 【访客验证】 合法访问：ip = 192.168.1.120 ,port = 50004 ,remoteSysName = wky,methodName = pay ,args = [null, null, http://192.168.1.120:9701/website/pay/notifUrl, 2018112, 0.01, ??, null, null, null, null, null, null, null, org.apache.catalina.connector.ResponseFacade@783bac05] 
+2018-11-23 13:09:49.403 |-INFO  [http-nio-8008-exec-2] com.pay.service.AlipayService [148] -| 【支付请求参数】 bizContent = {
+  "out_trade_no": "2018112",
+  "total_amount": "0.01",
+  "subject": "??",
+  "timeout_express": "90m",
+  "goods_type": "0",
+  "product_code": "FAST_INSTANT_TRADE_PAY"
+}
+2018-11-23 13:17:50.501 |-INFO  [http-nio-8008-exec-3] com.pay.aspect.PayAspect [65] -| 【访客验证】 合法访问：ip = 192.168.1.120 ,port = 51289 ,remoteSysName = wky,methodName = pay ,args = [null, null, http://192.168.1.120:9701/website/pay/notifUrl, 2018113, 0.01, %E9%9D%A2%E5%8C%85, null, null, null, null, null, null, null, org.apache.catalina.connector.ResponseFacade@783bac05] 
+2018-11-23 13:17:50.504 |-INFO  [http-nio-8008-exec-3] com.pay.service.AlipayService [148] -| 【支付请求参数】 bizContent = {
+  "out_trade_no": "2018113",
+  "total_amount": "0.01",
+  "subject": "%E9%9D%A2%E5%8C%85",
+  "timeout_express": "90m",
+  "goods_type": "0",
+  "product_code": "FAST_INSTANT_TRADE_PAY"
+}
+2018-11-23 13:20:05.271 |-INFO  [http-nio-8008-exec-4] com.pay.aspect.PayAspect [65] -| 【访客验证】 合法访问：ip = 192.168.1.120 ,port = 51738 ,remoteSysName = wky,methodName = pay ,args = [null, null, http://192.168.1.120:9701/website/pay/notifUrl, 2018114, 0.01, 面包, null, null, null, null, null, null, null, org.apache.catalina.connector.ResponseFacade@783bac05] 
+2018-11-23 13:20:05.274 |-INFO  [http-nio-8008-exec-4] com.pay.service.AlipayService [148] -| 【支付请求参数】 bizContent = {
+  "out_trade_no": "2018114",
+  "total_amount": "0.01",
+  "subject": "面包",
+  "timeout_express": "90m",
+  "goods_type": "0",
+  "product_code": "FAST_INSTANT_TRADE_PAY"
+}
+2018-11-23 13:20:31.727 |-INFO  [http-nio-8008-exec-6] com.pay.aspect.PayAspect [65] -| 【访客验证】 合法访问：ip = 192.168.1.120 ,port = 51833 ,remoteSysName = wky,methodName = pay ,args = [null, null, http://192.168.1.120:9701/website/pay/notifUrl, 2018115, 0.01, 好面包, null, null, null, null, null, null, null, org.apache.catalina.connector.ResponseFacade@783bac05] 
+2018-11-23 13:20:31.732 |-INFO  [http-nio-8008-exec-6] com.pay.service.AlipayService [148] -| 【支付请求参数】 bizContent = {
+  "out_trade_no": "2018115",
+  "total_amount": "0.01",
+  "subject": "好面包",
+  "timeout_express": "90m",
+  "goods_type": "0",
+  "product_code": "FAST_INSTANT_TRADE_PAY"
+}
+2018-11-23 13:24:18.800 |-INFO  [http-nio-8008-exec-9] com.pay.aspect.PayAspect [65] -| 【访客验证】 合法访问：ip = 192.168.1.120 ,port = 52383 ,remoteSysName = wky,methodName = pay ,args = [null, null, http://192.168.1.120:9701/website/pay/notifUrl, 2018115, 0.01, 好面包, null, null, null, null, null, null, null, org.apache.catalina.connector.ResponseFacade@783bac05] 
+2018-11-23 13:24:18.804 |-INFO  [http-nio-8008-exec-9] com.pay.service.AlipayService [148] -| 【支付请求参数】 bizContent = {
+  "out_trade_no": "2018115",
+  "total_amount": "0.01",
+  "subject": "好面包",
+  "timeout_express": "90m",
+  "goods_type": "0",
+  "product_code": "FAST_INSTANT_TRADE_PAY"
+}
+2018-11-23 13:26:56.401 |-INFO  [http-nio-8008-exec-2] com.pay.aspect.PayAspect [65] -| 【访客验证】 合法访问：ip = 192.168.1.120 ,port = 52817 ,remoteSysName = wky,methodName = pay ,args = [null, null, http://192.168.1.120:9701/website/pay/notifUrl, 2018115, 0.01, 好面包, null, null, null, null, null, null, null, org.apache.catalina.connector.ResponseFacade@783bac05] 
+2018-11-23 13:26:56.405 |-INFO  [http-nio-8008-exec-2] com.pay.service.AlipayService [148] -| 【支付请求参数】 bizContent = {
+  "out_trade_no": "2018115",
+  "total_amount": "0.01",
+  "subject": "好面包",
+  "timeout_express": "90m",
+  "goods_type": "0",
+  "product_code": "FAST_INSTANT_TRADE_PAY"
+}
+2018-11-23 13:32:44.754 |-INFO  [http-nio-8008-exec-3] com.pay.aspect.PayAspect [65] -| 【访客验证】 合法访问：ip = 192.168.1.120 ,port = 53826 ,remoteSysName = wky,methodName = pay ,args = [null, null, http://192.168.1.120:9701/website/pay/notifUrl, 2018115, 0.01, 好面包, null, null, null, null, null, null, null, org.apache.catalina.connector.ResponseFacade@783bac05] 
+2018-11-23 13:32:44.760 |-INFO  [http-nio-8008-exec-3] com.pay.service.AlipayService [148] -| 【支付请求参数】 bizContent = {
+  "out_trade_no": "2018115",
+  "total_amount": "0.01",
+  "subject": "好面包",
+  "timeout_express": "90m",
+  "goods_type": "0",
+  "product_code": "FAST_INSTANT_TRADE_PAY"
+}
+2018-11-23 13:33:37.127 |-INFO  [http-nio-8008-exec-4] com.pay.aspect.PayAspect [65] -| 【访客验证】 合法访问：ip = 192.168.1.120 ,port = 53953 ,remoteSysName = wky,methodName = pay ,args = [null, null, http://192.168.1.120:9701/website/pay/notifUrl, 2018115, 0.01, 好面包, null, null, null, null, null, null, null, org.apache.catalina.connector.ResponseFacade@783bac05] 
+2018-11-23 13:33:37.130 |-INFO  [http-nio-8008-exec-4] com.pay.service.AlipayService [148] -| 【支付请求参数】 bizContent = {
+  "out_trade_no": "2018115",
+  "total_amount": "0.01",
+  "subject": "好面包",
+  "timeout_express": "90m",
+  "goods_type": "0",
+  "product_code": "FAST_INSTANT_TRADE_PAY"
+}
+2018-11-23 13:34:54.149 |-INFO  [http-nio-8008-exec-7] com.pay.aspect.PayAspect [65] -| 【访客验证】 合法访问：ip = 192.168.1.120 ,port = 54185 ,remoteSysName = wky,methodName = pay ,args = [null, null, http://192.168.1.120:9701/website/pay/notifUrl, 2018115, 0.01, 好面包, null, null, null, null, null, null, null, org.apache.catalina.connector.ResponseFacade@783bac05] 
+2018-11-23 13:34:54.152 |-INFO  [http-nio-8008-exec-7] com.pay.service.AlipayService [148] -| 【支付请求参数】 bizContent = {
+  "out_trade_no": "2018115",
+  "total_amount": "0.01",
+  "subject": "好面包",
+  "timeout_express": "90m",
+  "goods_type": "0",
+  "product_code": "FAST_INSTANT_TRADE_PAY"
+}
+2018-11-23 13:38:32.099 |-INFO  [http-nio-8008-exec-9] com.pay.aspect.PayAspect [65] -| 【访客验证】 合法访问：ip = 192.168.1.120 ,port = 54698 ,remoteSysName = wky,methodName = pay ,args = [null, null, http://192.168.1.120:9701/website/pay/notifUrl, 2018115, 0.01, å¥½é¢å, null, null, null, null, null, null, null, org.apache.catalina.connector.ResponseFacade@783bac05] 
+2018-11-23 13:38:32.101 |-INFO  [http-nio-8008-exec-9] com.pay.service.AlipayService [148] -| 【支付请求参数】 bizContent = {
+  "out_trade_no": "2018115",
+  "total_amount": "0.01",
+  "subject": "å¥½é¢å",
+  "timeout_express": "90m",
+  "goods_type": "0",
+  "product_code": "FAST_INSTANT_TRADE_PAY"
+}
+2018-11-23 13:45:33.902 |-INFO  [http-nio-8008-exec-3] com.pay.aspect.PayAspect [65] -| 【访客验证】 合法访问：ip = 192.168.1.120 ,port = 56062 ,remoteSysName = wky,methodName = pay ,args = [null, null, http://192.168.1.120:9701/website/pay/notifUrl, 2018116, 0.01, é¢å, null, null, null, null, null, null, null, org.apache.catalina.connector.ResponseFacade@783bac05] 
+2018-11-23 13:45:33.909 |-INFO  [http-nio-8008-exec-3] com.pay.service.AlipayService [148] -| 【支付请求参数】 bizContent = {
+  "out_trade_no": "2018116",
+  "total_amount": "0.01",
+  "subject": "é¢å",
+  "timeout_express": "90m",
+  "goods_type": "0",
+  "product_code": "FAST_INSTANT_TRADE_PAY"
+}
+2018-11-23 13:48:52.667 |-INFO  [http-nio-8008-exec-4] com.pay.service.AlipayService [148] -| 【支付请求参数】 bizContent = {
+  "out_trade_no": "GYS2018112215004455",
+  "total_amount": "0.01",
+  "subject": "供应商平台耗材功能年费(1家医院)-苏州双银医疗器械有限公司",
+  "timeout_express": "90m",
+  "goods_type": "0",
+  "product_code": "FAST_INSTANT_TRADE_PAY"
+}
+2018-11-23 13:52:58.166 |-INFO  [http-nio-8008-exec-7] com.pay.aspect.PayAspect [65] -| 【访客验证】 合法访问：ip = 192.168.1.120 ,port = 57367 ,remoteSysName = wky,methodName = pay ,args = [null, null, http://192.168.1.120:9701/website/pay/notifUrl, 2018116, 0.01, 面包, null, null, null, null, null, null, null, org.apache.catalina.connector.ResponseFacade@783bac05] 
+2018-11-23 13:52:58.168 |-INFO  [http-nio-8008-exec-7] com.pay.service.AlipayService [148] -| 【支付请求参数】 bizContent = {
+  "out_trade_no": "2018116",
+  "total_amount": "0.01",
+  "subject": "面包",
+  "timeout_express": "90m",
+  "goods_type": "0",
+  "product_code": "FAST_INSTANT_TRADE_PAY"
+}
+2018-11-23 13:53:16.026 |-INFO  [http-nio-8008-exec-8] com.pay.aspect.PayAspect [65] -| 【访客验证】 合法访问：ip = 192.168.1.120 ,port = 57432 ,remoteSysName = wky,methodName = pay ,args = [null, null, http://192.168.1.120:9701/website/pay/notifUrl, 2018116, 0.01, 面包, null, null, null, null, null, null, null, org.apache.catalina.connector.ResponseFacade@783bac05] 
+2018-11-23 13:53:16.032 |-INFO  [http-nio-8008-exec-8] com.pay.service.AlipayService [148] -| 【支付请求参数】 bizContent = {
+  "out_trade_no": "2018116",
+  "total_amount": "0.01",
+  "subject": "面包",
+  "timeout_express": "90m",
+  "goods_type": "0",
+  "product_code": "FAST_INSTANT_TRADE_PAY"
+}
+2018-11-23 13:53:48.578 |-INFO  [http-nio-8008-exec-9] com.pay.aspect.PayAspect [65] -| 【访客验证】 合法访问：ip = 192.168.1.120 ,port = 57511 ,remoteSysName = wky,methodName = pay ,args = [null, null, http://192.168.1.120:9701/website/pay/notifUrl, 2018116, 0.01, 好面包, null, null, null, null, null, null, null, org.apache.catalina.connector.ResponseFacade@783bac05] 
+2018-11-23 13:53:48.581 |-INFO  [http-nio-8008-exec-9] com.pay.service.AlipayService [148] -| 【支付请求参数】 bizContent = {
+  "out_trade_no": "2018116",
+  "total_amount": "0.01",
+  "subject": "好面包",
+  "timeout_express": "90m",
+  "goods_type": "0",
+  "product_code": "FAST_INSTANT_TRADE_PAY"
+}
+2018-11-23 14:01:44.430 |-INFO  [main] com.pay.PayApplication [48] -| Starting PayApplication on yzm with PID 26908 (D:\workspace2\sshapp-pro\pay\target\classes started by www78 in D:\workspace2\sshapp-pro\pay)
+2018-11-23 14:01:44.433 |-INFO  [main] com.pay.PayApplication [597] -| The following profiles are active: dev
+2018-11-23 14:01:44.479 |-INFO  [main] org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext [583] -| Refreshing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@3568f9d2: startup date [Fri Nov 23 14:01:44 CST 2018]; root of context hierarchy
+2018-11-23 14:01:44.652 |-INFO  [background-preinit] org.hibernate.validator.internal.util.Version [30] -| HV000001: Hibernate Validator 5.3.5.Final
+2018-11-23 14:01:46.199 |-INFO  [main] org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker [325] -| Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$4867a444] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2018-11-23 14:01:46.922 |-INFO  [main] org.springframework.boot.context.embedded.tomcat.TomcatEmbeddedServletContainer [89] -| Tomcat initialized with port(s): 8008 (http)
+2018-11-23 14:01:46.932 |-INFO  [main] org.apache.catalina.core.StandardService [179] -| Starting service [Tomcat]
+2018-11-23 14:01:46.933 |-INFO  [main] org.apache.catalina.core.StandardEngine [179] -| Starting Servlet Engine: Apache Tomcat/8.5.16
+2018-11-23 14:01:47.049 |-INFO  [localhost-startStop-1] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/pay] [179] -| Initializing Spring embedded WebApplicationContext
+2018-11-23 14:01:47.050 |-INFO  [localhost-startStop-1] org.springframework.web.context.ContextLoader [276] -| Root WebApplicationContext: initialization completed in 2571 ms
+2018-11-23 14:01:47.211 |-INFO  [localhost-startStop-1] org.springframework.boot.web.servlet.ServletRegistrationBean [190] -| Mapping servlet: 'dispatcherServlet' to [/]
+2018-11-23 14:01:47.216 |-INFO  [localhost-startStop-1] org.springframework.boot.web.servlet.FilterRegistrationBean [258] -| Mapping filter: 'characterEncodingFilter' to: [/*]
+2018-11-23 14:01:47.217 |-INFO  [localhost-startStop-1] org.springframework.boot.web.servlet.FilterRegistrationBean [258] -| Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2018-11-23 14:01:47.217 |-INFO  [localhost-startStop-1] org.springframework.boot.web.servlet.FilterRegistrationBean [258] -| Mapping filter: 'httpPutFormContentFilter' to: [/*]
+2018-11-23 14:01:47.217 |-INFO  [localhost-startStop-1] org.springframework.boot.web.servlet.FilterRegistrationBean [258] -| Mapping filter: 'requestContextFilter' to: [/*]
+2018-11-23 14:01:47.837 |-INFO  [main] org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [349] -| Building JPA container EntityManagerFactory for persistence unit 'default'
+2018-11-23 14:01:47.849 |-INFO  [main] org.hibernate.jpa.internal.util.LogHelper [31] -| HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2018-11-23 14:01:47.966 |-INFO  [main] org.hibernate.Version [37] -| HHH000412: Hibernate Core {5.0.12.Final}
+2018-11-23 14:01:47.967 |-INFO  [main] org.hibernate.cfg.Environment [213] -| HHH000206: hibernate.properties not found
+2018-11-23 14:01:47.968 |-INFO  [main] org.hibernate.cfg.Environment [317] -| HHH000021: Bytecode provider name : javassist
+2018-11-23 14:01:48.019 |-INFO  [main] org.hibernate.annotations.common.Version [66] -| HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2018-11-23 14:01:48.260 |-INFO  [main] org.hibernate.dialect.Dialect [156] -| HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-11-23 14:01:48.734 |-INFO  [main] org.hibernate.tool.hbm2ddl.SchemaUpdate [105] -| HHH000228: Running hbm2ddl schema update
+2018-11-23 14:01:49.197 |-INFO  [main] org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [379] -| Initialized JPA EntityManagerFactory for persistence unit 'default'
+2018-11-23 14:01:49.698 |-INFO  [main] org.springframework.web.servlet.view.freemarker.FreeMarkerConfigurer [127] -| ClassTemplateLoader for Spring macros added to FreeMarker configuration
+2018-11-23 14:01:50.367 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/alipay/notify],methods=[POST]}" onto public void com.pay.controller.AlipayController.notify(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws java.lang.Exception
+2018-11-23 14:01:50.368 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/alipay/close]}" onto public java.util.Map<java.lang.String, java.lang.Object> com.pay.controller.AlipayController.close(java.lang.String,java.lang.String)
+2018-11-23 14:01:50.369 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/alipay/query]}" onto public java.util.Map<java.lang.String, java.lang.Object> com.pay.controller.AlipayController.query(java.lang.String)
+2018-11-23 14:01:50.369 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/alipay/pay_test]}" onto public void com.pay.controller.AlipayController.doPost(java.lang.String,javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws javax.servlet.ServletException,java.io.IOException
+2018-11-23 14:01:50.369 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/alipay/returnUrl]}" onto public org.springframework.web.servlet.ModelAndView com.pay.controller.AlipayController.returnUrl()
+2018-11-23 14:01:50.369 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/alipay/query_refund]}" onto public java.util.Map<java.lang.String, java.lang.Object> com.pay.controller.AlipayController.queryRefund(java.lang.String,java.lang.String) throws java.lang.Exception
+2018-11-23 14:01:50.370 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/alipay/refund]}" onto public java.util.Map<java.lang.String, java.lang.Object> com.pay.controller.AlipayController.refund(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String) throws java.lang.Exception
+2018-11-23 14:01:50.370 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/alipay/download_bill]}" onto public java.util.Map<java.lang.String, java.lang.Object> com.pay.controller.AlipayController.downloadBill(java.lang.String,java.lang.String,javax.servlet.http.HttpServletResponse) throws java.lang.Exception
+2018-11-23 14:01:50.370 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/alipay/pay_supplier]}" onto public void com.pay.controller.AlipayController.paySupplier(java.lang.String,javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws java.lang.Exception
+2018-11-23 14:01:50.371 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/alipay/pay],methods=[POST]}" onto public void com.pay.controller.AlipayController.pay(java.lang.String,java.lang.String,java.lang.String,javax.servlet.http.HttpServletResponse) throws java.lang.Exception
+2018-11-23 14:01:50.371 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/alipay/pay2]}" onto public void com.pay.controller.AlipayController.pay(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,javax.servlet.http.HttpServletResponse) throws java.lang.Exception
+2018-11-23 14:01:50.371 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/alipay/my_notify]}" onto public java.util.Map<java.lang.String, java.lang.Object> com.pay.controller.AlipayController.myNotify(java.lang.String)
+2018-11-23 14:01:50.373 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/appParam/save],methods=[POST]}" onto public com.pay.vo.ResponseVO com.pay.controller.AppParamController.save(java.lang.Long,java.lang.String)
+2018-11-23 14:01:50.373 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/appParam/query_one],methods=[GET]}" onto public com.pay.vo.ResponseVO com.pay.controller.AppParamController.queryOne(java.lang.String)
+2018-11-23 14:01:50.373 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/appParam/query_all],methods=[GET]}" onto public java.util.Map<java.lang.String, java.lang.Object> com.pay.controller.AppParamController.queryAll(java.lang.Integer,java.lang.Integer)
+2018-11-23 14:01:50.375 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/common/index],methods=[GET]}" onto public org.springframework.web.servlet.ModelAndView com.pay.controller.CommonController.index(javax.servlet.http.HttpServletRequest)
+2018-11-23 14:01:50.375 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/common/login],methods=[POST]}" onto public com.pay.vo.ResponseVO com.pay.controller.CommonController.login(com.pay.entity.User,javax.servlet.http.HttpServletRequest)
+2018-11-23 14:01:50.375 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/common/register_by_email],methods=[POST]}" onto public com.pay.vo.ResponseVO com.pay.controller.CommonController.registerByEmail(com.pay.entity.User)
+2018-11-23 14:01:50.376 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/common/register_by_phone],methods=[POST]}" onto public com.pay.vo.ResponseVO com.pay.controller.CommonController.registerByPhone(com.pay.entity.User,javax.servlet.http.HttpServletRequest)
+2018-11-23 14:01:50.376 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/common/show_login],methods=[GET]}" onto public org.springframework.web.servlet.ModelAndView com.pay.controller.CommonController.showLogin(javax.servlet.http.HttpServletRequest)
+2018-11-23 14:01:50.376 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/common/navigate],methods=[GET]}" onto public org.springframework.web.servlet.ModelAndView com.pay.controller.CommonController.navigate(java.lang.String,javax.servlet.http.HttpServletRequest)
+2018-11-23 14:01:50.376 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/common/logout],methods=[GET]}" onto public void com.pay.controller.CommonController.logout(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws java.lang.Exception
+2018-11-23 14:01:50.377 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/common/show_register],methods=[GET]}" onto public org.springframework.web.servlet.ModelAndView com.pay.controller.CommonController.showRegister(javax.servlet.http.HttpServletRequest)
+2018-11-23 14:01:50.377 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/givenInvoice/save]}" onto public org.springframework.web.servlet.ModelAndView com.pay.controller.GivenInvoiceController.save(com.pay.entity.GivenInvoice)
+2018-11-23 14:01:50.377 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/givenInvoice/modify]}" onto public org.springframework.web.servlet.ModelAndView com.pay.controller.GivenInvoiceController.modify(com.pay.entity.GivenInvoice)
+2018-11-23 14:01:50.378 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/givenInvoice/query_all]}" onto public java.util.Map<java.lang.String, java.lang.Object> com.pay.controller.GivenInvoiceController.queryAll(java.lang.Integer,java.lang.Integer,java.lang.String)
+2018-11-23 14:01:50.378 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/]}" onto public java.lang.String com.pay.controller.IndexController.index()
+2018-11-23 14:01:50.379 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/invoice/toXml],methods=[POST]}" onto public void com.pay.controller.InvoiceController.generate(java.lang.String,javax.servlet.http.HttpServletResponse) throws java.lang.Exception
+2018-11-23 14:01:50.380 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/invoice/unDraw_toExcel],methods=[POST]}" onto public void com.pay.controller.InvoiceController.unDraw2Excel(javax.servlet.http.HttpServletResponse) throws java.lang.Exception
+2018-11-23 14:01:50.380 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/invoice/toExcel],methods=[POST]}" onto public void com.pay.controller.InvoiceController.invoice2Word(java.lang.String,javax.servlet.http.HttpServletResponse) throws java.lang.Exception
+2018-11-23 14:01:50.381 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/invoice/query_all],methods=[GET]}" onto public java.util.Map<java.lang.String, java.lang.Object> com.pay.controller.InvoiceController.queryAll(java.lang.Integer,java.lang.Integer,java.lang.String)
+2018-11-23 14:01:50.381 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/invoice/save_header],methods=[POST]}" onto public java.util.Map<java.lang.String, java.lang.Object> com.pay.controller.InvoiceController.saveHeader(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String) throws java.lang.Exception
+2018-11-23 14:01:50.381 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/invoice/importExcel],methods=[POST]}" onto public com.pay.vo.ResponseVO com.pay.controller.InvoiceController.importExcel(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws java.lang.Exception
+2018-11-23 14:01:50.382 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/payInfo/query_trade_success]}" onto public java.util.Map<java.lang.String, java.lang.Object> com.pay.controller.PayInfoController.queryTradeSuccess(java.lang.Integer,java.lang.Integer,com.pay.entity.PayInfo)
+2018-11-23 14:01:50.382 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/sms/send_code],methods=[POST]}" onto public com.pay.vo.ResponseVO com.pay.controller.SmsController.sendCode(java.lang.String)
+2018-11-23 14:01:50.383 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/user/save],methods=[POST]}" onto public org.springframework.web.servlet.ModelAndView com.pay.controller.UserController.save(com.pay.entity.User,org.apache.catalina.servlet4preview.http.HttpServletRequest)
+2018-11-23 14:01:50.383 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/user/query_by_username],methods=[GET]}" onto public com.pay.vo.ResponseVO com.pay.controller.UserController.queryByUsername(java.lang.String)
+2018-11-23 14:01:50.384 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/whiteList/delete],methods=[GET]}" onto public void com.pay.controller.WhiteListController.delete(java.lang.Long)
+2018-11-23 14:01:50.384 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/whiteList/save],methods=[POST]}" onto public org.springframework.web.servlet.ModelAndView com.pay.controller.WhiteListController.save(com.pay.entity.WhiteList)
+2018-11-23 14:01:50.385 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/whiteList/query_all],methods=[GET]}" onto public java.util.Map<java.lang.String, java.lang.Object> com.pay.controller.WhiteListController.queryAll(java.lang.Integer,java.lang.Integer,org.apache.catalina.servlet4preview.http.HttpServletRequest)
+2018-11-23 14:01:50.386 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/v2/api-docs],methods=[GET],produces=[application/json || application/hal+json]}" onto public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)
+2018-11-23 14:01:50.388 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/swagger-resources/configuration/security]}" onto org.springframework.http.ResponseEntity<springfox.documentation.swagger.web.SecurityConfiguration> springfox.documentation.swagger.web.ApiResourceController.securityConfiguration()
+2018-11-23 14:01:50.389 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/swagger-resources/configuration/ui]}" onto org.springframework.http.ResponseEntity<springfox.documentation.swagger.web.UiConfiguration> springfox.documentation.swagger.web.ApiResourceController.uiConfiguration()
+2018-11-23 14:01:50.390 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/swagger-resources]}" onto org.springframework.http.ResponseEntity<java.util.List<springfox.documentation.swagger.web.SwaggerResource>> springfox.documentation.swagger.web.ApiResourceController.swaggerResources()
+2018-11-23 14:01:50.392 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+2018-11-23 14:01:50.393 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2018-11-23 14:01:50.723 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter [534] -| Looking for @ControllerAdvice: org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@3568f9d2: startup date [Fri Nov 23 14:01:44 CST 2018]; root of context hierarchy
+2018-11-23 14:01:50.774 |-INFO  [main] org.springframework.web.servlet.handler.SimpleUrlHandlerMapping [362] -| Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2018-11-23 14:01:50.774 |-INFO  [main] org.springframework.web.servlet.handler.SimpleUrlHandlerMapping [362] -| Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2018-11-23 14:01:50.792 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.ExceptionHandlerExceptionResolver [273] -| Detected @ExceptionHandler methods in globalControllerExceptionHandler
+2018-11-23 14:01:50.815 |-INFO  [main] org.springframework.web.servlet.handler.SimpleUrlHandlerMapping [362] -| Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2018-11-23 14:01:51.195 |-INFO  [main] org.springframework.jmx.export.annotation.AnnotationMBeanExporter [431] -| Registering beans for JMX exposure on startup
+2018-11-23 14:01:51.205 |-INFO  [main] org.springframework.context.support.DefaultLifecycleProcessor [343] -| Starting beans in phase 2147483647
+2018-11-23 14:01:51.205 |-INFO  [main] springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [120] -| Context refreshed
+2018-11-23 14:01:51.223 |-INFO  [main] springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [123] -| Found 1 custom documentation plugin(s)
+2018-11-23 14:01:51.237 |-INFO  [main] springfox.documentation.spring.web.scanners.ApiListingReferenceScanner [41] -| Scanning for api listing references
+2018-11-23 14:01:51.560 |-INFO  [main] springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator [40] -| Generating unique operation named: payUsingPOST_1
+2018-11-23 14:01:51.940 |-INFO  [main] springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator [40] -| Generating unique operation named: saveUsingPOST_1
+2018-11-23 14:01:51.978 |-INFO  [main] springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator [40] -| Generating unique operation named: saveUsingPOST_2
+2018-11-23 14:01:51.984 |-INFO  [main] springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator [40] -| Generating unique operation named: queryAllUsingGET_1
+2018-11-23 14:01:51.987 |-INFO  [main] springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator [40] -| Generating unique operation named: saveUsingPOST_3
+2018-11-23 14:01:52.029 |-INFO  [main] org.hibernate.hql.internal.QueryTranslatorFactoryInitiator [47] -| HHH000397: Using ASTQueryTranslatorFactory
+2018-11-23 14:01:52.146 |-INFO  [main] org.apache.coyote.http11.Http11NioProtocol [179] -| Initializing ProtocolHandler ["http-nio-8008"]
+2018-11-23 14:01:52.157 |-INFO  [main] org.apache.coyote.http11.Http11NioProtocol [179] -| Starting ProtocolHandler ["http-nio-8008"]
+2018-11-23 14:01:52.167 |-INFO  [main] org.apache.tomcat.util.net.NioSelectorPool [179] -| Using a shared selector for servlet write/read
+2018-11-23 14:01:52.183 |-INFO  [main] org.springframework.boot.context.embedded.tomcat.TomcatEmbeddedServletContainer [201] -| Tomcat started on port(s): 8008 (http)
+2018-11-23 14:01:52.191 |-INFO  [main] com.pay.PayApplication [57] -| Started PayApplication in 8.796 seconds (JVM running for 9.502)
+2018-11-23 14:01:58.819 |-INFO  [http-nio-8008-exec-2] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/pay] [179] -| Initializing Spring FrameworkServlet 'dispatcherServlet'
+2018-11-23 14:01:58.819 |-INFO  [http-nio-8008-exec-2] org.springframework.web.servlet.DispatcherServlet [489] -| FrameworkServlet 'dispatcherServlet': initialization started
+2018-11-23 14:01:58.845 |-INFO  [http-nio-8008-exec-2] org.springframework.web.servlet.DispatcherServlet [508] -| FrameworkServlet 'dispatcherServlet': initialization completed in 26 ms
+2018-11-23 14:01:58.914 |-INFO  [http-nio-8008-exec-2] com.pay.aspect.PayAspect [65] -| 【访客验证】 合法访问：ip = 192.168.1.120 ,port = 58675 ,remoteSysName = wky,methodName = pay ,args = [null, null, http://192.168.1.120:9701/website/pay/notifUrl, 2018117, 0.01, 好面包, null, null, null, null, null, null, null, org.apache.catalina.connector.ResponseFacade@634431ff] 
+2018-11-23 14:01:58.939 |-INFO  [http-nio-8008-exec-2] com.pay.service.AlipayService [148] -| 【支付请求参数】 bizContent = {
+  "out_trade_no": "2018117",
+  "total_amount": "0.01",
+  "subject": "好面包",
+  "timeout_express": "90m",
+  "goods_type": "0",
+  "product_code": "FAST_INSTANT_TRADE_PAY"
+}
+2018-11-23 14:01:59.021 |-INFO  [http-nio-8008-exec-2] com.pay.service.AlipayService [153] -| [form] :<form name="punchout_form" method="post" action="https://openapi.alipay.com/gateway.do?charset=UTF-8&method=alipay.trade.page.pay&sign=ikJcyJnKbAavmxenwXGWdZr5Hm2IihqyOFfCiRdowdaewBS7ebbtNmRV6TPAr6u%2BxLmHY3kqoEIpMDaleosWngtwmU0e7BJDBdnNCAkQ0tAch2bIZisqJEiFHvlNoKN7Ydoonu4CTS%2FxOKf0pI8y0C9QAWdu10%2F6kwYs8qb9zNV2Y9dQCJYGlyq%2F0f1Emio4wg2ECpciVYNtiWbfHh2zqUEG4Mhv8aAvvl57xlPPk%2BGaCjeQaFTBNG0OP%2BmYjJR%2BcpYJ7EJ3MySC2SrnwC11Lq7TK1U3pAWooaB6ngKIZNR%2BL0Iv3tqpzEmiD8zVIN%2F%2F5xyADTHaXMiQJ%2F4p0%2Bz4%2FQ%3D%3D&return_url=http%3A%2F%2F58.216.212.154%3A8008%2Fpay%2Falipay%2FreturnUrl&notify_url=http%3A%2F%2F58.216.212.154%3A8008%2Fpay%2Falipay%2Fnotify&version=1.0&app_id=2017081008129491&sign_type=RSA2&timestamp=2018-11-23+14%3A01%3A58&alipay_sdk=alipay-sdk-java-dynamicVersionNo&format=json">
+<input type="hidden" name="biz_content" value="{&quot;out_trade_no&quot;:&quot;2018117&quot;,&quot;total_amount&quot;:&quot;0.01&quot;,&quot;subject&quot;:&quot;好面包&quot;,&quot;timeout_express&quot;:&quot;90m&quot;,&quot;goods_type&quot;:&quot;0&quot;,&quot;product_code&quot;:&quot;FAST_INSTANT_TRADE_PAY&quot;}">
+<input type="submit" value="立即支付" style="display:none" >
+</form>
+<script>document.forms[0].submit();</script>
+2018-11-23 14:01:59.458 |-INFO  [http-nio-8008-exec-1] com.pay.aspect.PayAspect [65] -| 【访客验证】 合法访问：ip = 192.168.1.120 ,port = 58676 ,remoteSysName = wky,methodName = pay ,args = [null, null, http://192.168.1.120:9701/website/pay/notifUrl, 2018117, 0.01, 好面包, null, null, null, null, null, null, null, org.apache.catalina.connector.ResponseFacade@634431ff] 
+2018-11-23 14:01:59.461 |-INFO  [http-nio-8008-exec-1] com.pay.service.AlipayService [148] -| 【支付请求参数】 bizContent = {
+  "out_trade_no": "2018117",
+  "total_amount": "0.01",
+  "subject": "好面包",
+  "timeout_express": "90m",
+  "goods_type": "0",
+  "product_code": "FAST_INSTANT_TRADE_PAY"
+}
+2018-11-23 14:01:59.476 |-INFO  [http-nio-8008-exec-1] com.pay.service.AlipayService [153] -| [form] :<form name="punchout_form" method="post" action="https://openapi.alipay.com/gateway.do?charset=UTF-8&method=alipay.trade.page.pay&sign=mhQoVlZhyCrxoX%2Fi76ykGrqM9iQl%2F8z5kOZoWYOhVWXoTfZw%2BwnrnexFcLM48Pa6M95j5CZMp94lRNyEyxp2jL1qOa1KxEJPwUQH3JzX27DKDJ%2FYsIOUpsTdsZnkWq6IDIuNy40v%2FiehYYEPx4RDIgEvA7UyMctOOLUk5EMYGEnPq0G9DGDGtmzxn6x7QnktemctucNIgBBHm1PoO9hLDuJtHirxRxYNwvLFGAUO9rEB2osNGBPT%2FHUvtHltpWGrUzFGk4drXlY%2B5hVCNCHXiWwz%2B4cVDkTFYrWsJdbD%2BmeVC4a1BzWqpXry5CNq3A9hcojMrCVMbrepxdr3eAWo%2BQ%3D%3D&return_url=http%3A%2F%2F58.216.212.154%3A8008%2Fpay%2Falipay%2FreturnUrl&notify_url=http%3A%2F%2F58.216.212.154%3A8008%2Fpay%2Falipay%2Fnotify&version=1.0&app_id=2017081008129491&sign_type=RSA2&timestamp=2018-11-23+14%3A01%3A59&alipay_sdk=alipay-sdk-java-dynamicVersionNo&format=json">
+<input type="hidden" name="biz_content" value="{&quot;out_trade_no&quot;:&quot;2018117&quot;,&quot;total_amount&quot;:&quot;0.01&quot;,&quot;subject&quot;:&quot;好面包&quot;,&quot;timeout_express&quot;:&quot;90m&quot;,&quot;goods_type&quot;:&quot;0&quot;,&quot;product_code&quot;:&quot;FAST_INSTANT_TRADE_PAY&quot;}">
+<input type="submit" value="立即支付" style="display:none" >
+</form>
+<script>document.forms[0].submit();</script>
+2018-11-23 14:02:06.889 |-INFO  [http-nio-8008-exec-4] com.pay.aspect.PayAspect [65] -| 【访客验证】 合法访问：ip = 192.168.1.120 ,port = 58693 ,remoteSysName = wky,methodName = pay ,args = [null, null, http://192.168.1.120:9701/website/pay/notifUrl, 2018117, 0.01, 好面包, null, null, null, null, null, null, null, org.apache.catalina.connector.ResponseFacade@634431ff] 
+2018-11-23 14:02:06.892 |-INFO  [http-nio-8008-exec-4] com.pay.service.AlipayService [148] -| 【支付请求参数】 bizContent = {
+  "out_trade_no": "2018117",
+  "total_amount": "0.01",
+  "subject": "好面包",
+  "timeout_express": "90m",
+  "goods_type": "0",
+  "product_code": "FAST_INSTANT_TRADE_PAY"
+}
+2018-11-23 14:02:06.907 |-INFO  [http-nio-8008-exec-4] com.pay.service.AlipayService [153] -| [form] :<form name="punchout_form" method="post" action="https://openapi.alipay.com/gateway.do?charset=UTF-8&method=alipay.trade.page.pay&sign=Y63X2DIv4BeIlR3uZgE5vrTP7QywtWmxmnD6cwuUetPFN2baM6luPru1g1ilK9FpdHeIrotqiHjd%2Fu%2B6co%2BLSdBIWJjHfmMAcZVtWh0tHA75MNEKYyRu6AQrU6uyPpp3CRHs2wtZ47DqimNdzd21UwVIhKVcxKqKzO0cpxmuU%2BO5gFUvqYuC2ScT8E1qQn9tTyaBgkuWDb6qVkvf8e5CMf6kYqtRvbw6uJPno18sxPvMFOQivbgo7%2FCcgQwL1zZnOB3zrk8gUgMtNROoS36d2TofueravIV%2FqPxLNv8rozh1mdM%2FuK%2FzYd4la24%2FNz%2B7Y7R5Oh4r0EGO9z6xi4iVKg%3D%3D&return_url=http%3A%2F%2F58.216.212.154%3A8008%2Fpay%2Falipay%2FreturnUrl&notify_url=http%3A%2F%2F58.216.212.154%3A8008%2Fpay%2Falipay%2Fnotify&version=1.0&app_id=2017081008129491&sign_type=RSA2&timestamp=2018-11-23+14%3A02%3A06&alipay_sdk=alipay-sdk-java-dynamicVersionNo&format=json">
+<input type="hidden" name="biz_content" value="{&quot;out_trade_no&quot;:&quot;2018117&quot;,&quot;total_amount&quot;:&quot;0.01&quot;,&quot;subject&quot;:&quot;好面包&quot;,&quot;timeout_express&quot;:&quot;90m&quot;,&quot;goods_type&quot;:&quot;0&quot;,&quot;product_code&quot;:&quot;FAST_INSTANT_TRADE_PAY&quot;}">
+<input type="submit" value="立即支付" style="display:none" >
+</form>
+<script>document.forms[0].submit();</script>
+2018-11-23 14:02:07.007 |-INFO  [http-nio-8008-exec-3] com.pay.aspect.PayAspect [65] -| 【访客验证】 合法访问：ip = 192.168.1.120 ,port = 58694 ,remoteSysName = wky,methodName = pay ,args = [null, null, http://192.168.1.120:9701/website/pay/notifUrl, 2018117, 0.01, 好面包, null, null, null, null, null, null, null, org.apache.catalina.connector.ResponseFacade@634431ff] 
+2018-11-23 14:02:07.010 |-INFO  [http-nio-8008-exec-3] com.pay.service.AlipayService [148] -| 【支付请求参数】 bizContent = {
+  "out_trade_no": "2018117",
+  "total_amount": "0.01",
+  "subject": "好面包",
+  "timeout_express": "90m",
+  "goods_type": "0",
+  "product_code": "FAST_INSTANT_TRADE_PAY"
+}
+2018-11-23 14:02:07.025 |-INFO  [http-nio-8008-exec-3] com.pay.service.AlipayService [153] -| [form] :<form name="punchout_form" method="post" action="https://openapi.alipay.com/gateway.do?charset=UTF-8&method=alipay.trade.page.pay&sign=TRyRvxdKrYmKuytouSdzU0K3ROc66abPiXvdfaTJFzBvg0ZNosBJZYY1rLJXVI39LjNiBFzhF%2F5WH17YdMJ46DtlJelKixWbKq8rQSTPJkqet2J5ChrJzRePpjnU352VrnbC0vHRGB5X64QIWDfsiDN0x%2Fzl%2Flduj5e1s5RIz3lhx6xEg%2BhJ3ZNm2CnSx%2BFjS8V%2F81XyfH0%2FQ1LPgQoBUGWrHcDyluNED6DhAgEevGvrZ5y4JUcYZkHmk0kyhBZe3DXpjMw2lEym0sS71QnySlGtUIXSdorWdG6%2B3bV%2F%2BSh0juomiOhSKpGEWOmjzfOgt3MCtDOMnTQOkp7Tszqd%2Bg%3D%3D&return_url=http%3A%2F%2F58.216.212.154%3A8008%2Fpay%2Falipay%2FreturnUrl&notify_url=http%3A%2F%2F58.216.212.154%3A8008%2Fpay%2Falipay%2Fnotify&version=1.0&app_id=2017081008129491&sign_type=RSA2&timestamp=2018-11-23+14%3A02%3A07&alipay_sdk=alipay-sdk-java-dynamicVersionNo&format=json">
+<input type="hidden" name="biz_content" value="{&quot;out_trade_no&quot;:&quot;2018117&quot;,&quot;total_amount&quot;:&quot;0.01&quot;,&quot;subject&quot;:&quot;好面包&quot;,&quot;timeout_express&quot;:&quot;90m&quot;,&quot;goods_type&quot;:&quot;0&quot;,&quot;product_code&quot;:&quot;FAST_INSTANT_TRADE_PAY&quot;}">
+<input type="submit" value="立即支付" style="display:none" >
+</form>
+<script>document.forms[0].submit();</script>
+2018-11-23 14:02:09.561 |-INFO  [http-nio-8008-exec-5] com.pay.aspect.PayAspect [65] -| 【访客验证】 合法访问：ip = 192.168.1.120 ,port = 58700 ,remoteSysName = wky,methodName = pay ,args = [null, null, http://192.168.1.120:9701/website/pay/notifUrl, 2018117, 0.01, 好面包, null, null, null, null, null, null, null, org.apache.catalina.connector.ResponseFacade@634431ff] 
+2018-11-23 14:02:09.564 |-INFO  [http-nio-8008-exec-5] com.pay.service.AlipayService [148] -| 【支付请求参数】 bizContent = {
+  "out_trade_no": "2018117",
+  "total_amount": "0.01",
+  "subject": "好面包",
+  "timeout_express": "90m",
+  "goods_type": "0",
+  "product_code": "FAST_INSTANT_TRADE_PAY"
+}
+2018-11-23 14:02:09.580 |-INFO  [http-nio-8008-exec-5] com.pay.service.AlipayService [153] -| [form] :<form name="punchout_form" method="post" action="https://openapi.alipay.com/gateway.do?charset=UTF-8&method=alipay.trade.page.pay&sign=PDGaYcBBtAcMuVACeqGigwRs2xlg2qIFtQdDNPFknJb0hzxgJM8QLGAuU4Dy6y0G3e9yG6mtL3W8hVebZRvvR8355LB%2Bf8NzYj3KXQa1CtPXmts3LuLfNBbMIPZ5Ilw%2BQOlcCcMmR4RcQlsetJi2BCtdWp%2F7uzslHHvpREZo1KEIcqFRE15FQFjl8MyjgwCakJkRXQjacnAMa%2BBi%2B2fRvr31TLKmuwy97ZwJZas7XHvPbcFP9Jr%2FLQmaKrmxEaA3e1cmFdE4WcX5b2%2Fko1Cc4hdhSCQhTv77MyziMn%2Fi9FycCuI2CvUbmILdJ18rSqV2%2BBqBb11J4GDujW5rirfWIA%3D%3D&return_url=http%3A%2F%2F58.216.212.154%3A8008%2Fpay%2Falipay%2FreturnUrl&notify_url=http%3A%2F%2F58.216.212.154%3A8008%2Fpay%2Falipay%2Fnotify&version=1.0&app_id=2017081008129491&sign_type=RSA2&timestamp=2018-11-23+14%3A02%3A09&alipay_sdk=alipay-sdk-java-dynamicVersionNo&format=json">
+<input type="hidden" name="biz_content" value="{&quot;out_trade_no&quot;:&quot;2018117&quot;,&quot;total_amount&quot;:&quot;0.01&quot;,&quot;subject&quot;:&quot;好面包&quot;,&quot;timeout_express&quot;:&quot;90m&quot;,&quot;goods_type&quot;:&quot;0&quot;,&quot;product_code&quot;:&quot;FAST_INSTANT_TRADE_PAY&quot;}">
+<input type="submit" value="立即支付" style="display:none" >
+</form>
+<script>document.forms[0].submit();</script>
+2018-11-23 14:02:09.707 |-INFO  [http-nio-8008-exec-6] com.pay.aspect.PayAspect [65] -| 【访客验证】 合法访问：ip = 192.168.1.120 ,port = 58703 ,remoteSysName = wky,methodName = pay ,args = [null, null, http://192.168.1.120:9701/website/pay/notifUrl, 2018117, 0.01, 好面包, null, null, null, null, null, null, null, org.apache.catalina.connector.ResponseFacade@634431ff] 
+2018-11-23 14:02:09.710 |-INFO  [http-nio-8008-exec-6] com.pay.service.AlipayService [148] -| 【支付请求参数】 bizContent = {
+  "out_trade_no": "2018117",
+  "total_amount": "0.01",
+  "subject": "好面包",
+  "timeout_express": "90m",
+  "goods_type": "0",
+  "product_code": "FAST_INSTANT_TRADE_PAY"
+}
+2018-11-23 14:02:09.726 |-INFO  [http-nio-8008-exec-6] com.pay.service.AlipayService [153] -| [form] :<form name="punchout_form" method="post" action="https://openapi.alipay.com/gateway.do?charset=UTF-8&method=alipay.trade.page.pay&sign=PDGaYcBBtAcMuVACeqGigwRs2xlg2qIFtQdDNPFknJb0hzxgJM8QLGAuU4Dy6y0G3e9yG6mtL3W8hVebZRvvR8355LB%2Bf8NzYj3KXQa1CtPXmts3LuLfNBbMIPZ5Ilw%2BQOlcCcMmR4RcQlsetJi2BCtdWp%2F7uzslHHvpREZo1KEIcqFRE15FQFjl8MyjgwCakJkRXQjacnAMa%2BBi%2B2fRvr31TLKmuwy97ZwJZas7XHvPbcFP9Jr%2FLQmaKrmxEaA3e1cmFdE4WcX5b2%2Fko1Cc4hdhSCQhTv77MyziMn%2Fi9FycCuI2CvUbmILdJ18rSqV2%2BBqBb11J4GDujW5rirfWIA%3D%3D&return_url=http%3A%2F%2F58.216.212.154%3A8008%2Fpay%2Falipay%2FreturnUrl&notify_url=http%3A%2F%2F58.216.212.154%3A8008%2Fpay%2Falipay%2Fnotify&version=1.0&app_id=2017081008129491&sign_type=RSA2&timestamp=2018-11-23+14%3A02%3A09&alipay_sdk=alipay-sdk-java-dynamicVersionNo&format=json">
+<input type="hidden" name="biz_content" value="{&quot;out_trade_no&quot;:&quot;2018117&quot;,&quot;total_amount&quot;:&quot;0.01&quot;,&quot;subject&quot;:&quot;好面包&quot;,&quot;timeout_express&quot;:&quot;90m&quot;,&quot;goods_type&quot;:&quot;0&quot;,&quot;product_code&quot;:&quot;FAST_INSTANT_TRADE_PAY&quot;}">
+<input type="submit" value="立即支付" style="display:none" >
+</form>
+<script>document.forms[0].submit();</script>
+2018-11-23 14:23:05.726 |-INFO  [http-nio-8008-exec-7] com.pay.aspect.PayAspect [65] -| 【访客验证】 合法访问：ip = 192.168.1.120 ,port = 61512 ,remoteSysName = wky,methodName = pay ,args = [null, null, http://192.168.1.120:9701/website/pay/notifUrl, 2018117, 0.01, 好面包, null, null, null, null, null, null, null, org.apache.catalina.connector.ResponseFacade@634431ff] 
+2018-11-23 14:23:05.734 |-INFO  [http-nio-8008-exec-7] com.pay.service.AlipayService [148] -| 【支付请求参数】 bizContent = {
+  "out_trade_no": "2018117",
+  "total_amount": "0.01",
+  "subject": "好面包",
+  "timeout_express": "90m",
+  "goods_type": "0",
+  "product_code": "FAST_INSTANT_TRADE_PAY"
+}
+2018-11-23 14:23:05.771 |-INFO  [http-nio-8008-exec-7] com.pay.service.AlipayService [153] -| [form] :<form name="punchout_form" method="post" action="https://openapi.alipay.com/gateway.do?charset=UTF-8&method=alipay.trade.page.pay&sign=BPnIVquGs624qrAJr4de3BzUaL3gKV1NDXpGsyIQ7X8QaafzHPgePw8HfzxAavOdpSHIYGgniOnKwkaE%2FU0Ewy1qT3ij4PDH0gATN2j2dsLz7EamnoZhPpvXlpol%2BZq7vV6bc4r1XzMZ6VOaM6sbxtvoJaW0sfrHmtiCQyh0FHcyrsPGMMCEdh%2BDAJxWlAQGzZUqZmgN2Wayn4KY9gy%2FkE0Th5TkdJKGB9n%2Bq7WJQQBa%2Bt2SB6wvfjTIyHKZXG17MORwm4ffEVJEpIgfkyJ9fXl%2FIJIzQytICCftrKuCdQbdego10ilLFE7WTl0ohMjUuSvoLibbxfuWikz68%2BUCww%3D%3D&return_url=http%3A%2F%2F58.216.212.154%3A8008%2Fpay%2Falipay%2FreturnUrl&notify_url=http%3A%2F%2F58.216.212.154%3A8008%2Fpay%2Falipay%2Fnotify&version=1.0&app_id=2017081008129491&sign_type=RSA2&timestamp=2018-11-23+14%3A23%3A05&alipay_sdk=alipay-sdk-java-dynamicVersionNo&format=json">
+<input type="hidden" name="biz_content" value="{&quot;out_trade_no&quot;:&quot;2018117&quot;,&quot;total_amount&quot;:&quot;0.01&quot;,&quot;subject&quot;:&quot;好面包&quot;,&quot;timeout_express&quot;:&quot;90m&quot;,&quot;goods_type&quot;:&quot;0&quot;,&quot;product_code&quot;:&quot;FAST_INSTANT_TRADE_PAY&quot;}">
+<input type="submit" value="立即支付" style="display:none" >
+</form>
+<script>document.forms[0].submit();</script>
+2018-11-23 14:27:57.145 |-INFO  [http-nio-8008-exec-9] com.pay.aspect.PayAspect [65] -| 【访客验证】 合法访问：ip = 192.168.1.120 ,port = 62291 ,remoteSysName = wky,methodName = pay ,args = [null, null, http://192.168.1.120:9701/website/pay/notifUrl, 2018117, 0.01, 好面包, null, null, null, null, null, null, null, org.apache.catalina.connector.ResponseFacade@634431ff] 
+2018-11-23 14:27:57.149 |-INFO  [http-nio-8008-exec-9] com.pay.service.AlipayService [148] -| 【支付请求参数】 bizContent = {
+  "out_trade_no": "2018117",
+  "total_amount": "0.01",
+  "subject": "好面包",
+  "timeout_express": "90m",
+  "goods_type": "0",
+  "product_code": "FAST_INSTANT_TRADE_PAY"
+}
+2018-11-23 14:27:57.164 |-INFO  [http-nio-8008-exec-9] com.pay.service.AlipayService [153] -| [form] :<form name="punchout_form" method="post" action="https://openapi.alipay.com/gateway.do?charset=UTF-8&method=alipay.trade.page.pay&sign=PuYTUQfNalF0csuhL5dc9lMPtpDCA9Fz3b76kW%2Fe%2FGH5Wb2tEknA3phY1wOfkP%2FYaGetJpQ5%2FRorOUGXSgLDMyhvIFdcPU02SDThL16zRUPuz%2BDLn9N5ntVuX%2BcmGTmLqFF%2BL%2BwnqzAdwIdGbKRGkY0edACJNCpQbGS40ZgJenhqsMnCqBUQNzcI%2F%2BZL9RvhVf2nun9%2BiX44EJoFi0NQ5aTYlDqt%2Bc7ks848DVZlMBcclwSTJ8oMr2qToAFM3SXkiwm4b7QakKhyb87tkFhKZKsW61yg1118psfauxkfqsAOeRjrVDKILi4Hmi5fTKWhLw4iPbZz%2BW6qC8hYdE6%2BxA%3D%3D&return_url=http%3A%2F%2F58.216.212.154%3A8008%2Fpay%2Falipay%2FreturnUrl&notify_url=http%3A%2F%2F58.216.212.154%3A8008%2Fpay%2Falipay%2Fnotify&version=1.0&app_id=2017081008129491&sign_type=RSA2&timestamp=2018-11-23+14%3A27%3A57&alipay_sdk=alipay-sdk-java-dynamicVersionNo&format=json">
+<input type="hidden" name="biz_content" value="{&quot;out_trade_no&quot;:&quot;2018117&quot;,&quot;total_amount&quot;:&quot;0.01&quot;,&quot;subject&quot;:&quot;好面包&quot;,&quot;timeout_express&quot;:&quot;90m&quot;,&quot;goods_type&quot;:&quot;0&quot;,&quot;product_code&quot;:&quot;FAST_INSTANT_TRADE_PAY&quot;}">
+<input type="submit" value="立即支付" style="display:none" >
+</form>
+<script>document.forms[0].submit();</script>
+2018-11-23 14:39:26.860 |-INFO  [http-nio-8008-exec-2] com.pay.aspect.PayAspect [65] -| 【访客验证】 合法访问：ip = 192.168.1.120 ,port = 64460 ,remoteSysName = wky,methodName = pay ,args = [null, null, http://192.168.1.120:9701/website/pay/notifUrl, 2018117, 0.01, 好面包, null, null, null, null, null, null, null, org.apache.catalina.connector.ResponseFacade@634431ff] 
+2018-11-23 14:39:26.868 |-INFO  [http-nio-8008-exec-2] com.pay.service.AlipayService [148] -| 【支付请求参数】 bizContent = {
+  "out_trade_no": "2018117",
+  "total_amount": "0.01",
+  "subject": "好面包",
+  "timeout_express": "90m",
+  "goods_type": "0",
+  "product_code": "FAST_INSTANT_TRADE_PAY"
+}
+2018-11-23 14:39:26.903 |-INFO  [http-nio-8008-exec-2] com.pay.service.AlipayService [153] -| [form] :<form name="punchout_form" method="post" action="https://openapi.alipay.com/gateway.do?charset=UTF-8&method=alipay.trade.page.pay&sign=Rm5XaT%2Buw9Algx7KK7mZKs5%2Fzj4g6%2BvcXaZvmpqRV6DMp%2B9xzpdL7bmqPwUb7btlLWBy8PomNe%2BUZX1sgiltLvWEs98CfgKf%2B5kYN5o0dOWfurCB6yQ8kFiZ6oqQBYyLH8WAUSRPSj54JuLGZxcNbl2acg6dJ6vnHj3kyuKrqP9W7XmQALB1ZvwmX5o59yAI8JltvJMKVXX4Y27SwJblFNZs%2F%2Bva2gz41AfOTq3KfbekdfxmB6Y04IiqY%2BHrlAT6T6GDthdHm5Js2ELIjqTnigwonQzUJWy6rPYaV2B9UKAbKqeQGft%2FfvAVhLsRIdcc9VMkv%2BdCcCJfS%2FQgRIzJPA%3D%3D&return_url=http%3A%2F%2F58.216.212.154%3A8008%2Fpay%2Falipay%2FreturnUrl&notify_url=http%3A%2F%2F58.216.212.154%3A8008%2Fpay%2Falipay%2Fnotify&version=1.0&app_id=2017081008129491&sign_type=RSA2&timestamp=2018-11-23+14%3A39%3A26&alipay_sdk=alipay-sdk-java-dynamicVersionNo&format=json">
+<input type="hidden" name="biz_content" value="{&quot;out_trade_no&quot;:&quot;2018117&quot;,&quot;total_amount&quot;:&quot;0.01&quot;,&quot;subject&quot;:&quot;好面包&quot;,&quot;timeout_express&quot;:&quot;90m&quot;,&quot;goods_type&quot;:&quot;0&quot;,&quot;product_code&quot;:&quot;FAST_INSTANT_TRADE_PAY&quot;}">
+<input type="submit" value="立即支付" style="display:none" >
+</form>
+<script>document.forms[0].submit();</script>
+2018-11-23 14:39:48.739 |-INFO  [http-nio-8008-exec-1] com.pay.aspect.PayAspect [65] -| 【访客验证】 合法访问：ip = 192.168.1.120 ,port = 64534 ,remoteSysName = wky,methodName = pay ,args = [null, null, http://192.168.1.120:9701/website/pay/notifUrl, 2018117, 0.01, 门诊诊查费, null, null, null, null, null, null, null, org.apache.catalina.connector.ResponseFacade@634431ff] 
+2018-11-23 14:39:48.744 |-INFO  [http-nio-8008-exec-1] com.pay.service.AlipayService [148] -| 【支付请求参数】 bizContent = {
+  "out_trade_no": "2018117",
+  "total_amount": "0.01",
+  "subject": "门诊诊查费",
+  "timeout_express": "90m",
+  "goods_type": "0",
+  "product_code": "FAST_INSTANT_TRADE_PAY"
+}
+2018-11-23 14:39:48.775 |-INFO  [http-nio-8008-exec-1] com.pay.service.AlipayService [153] -| [form] :<form name="punchout_form" method="post" action="https://openapi.alipay.com/gateway.do?charset=UTF-8&method=alipay.trade.page.pay&sign=RZsCqow4IpCMEsuJ6pq1cWx4A%2BSuescqyoggma4jAJllk%2BYe5VBVtAofnLKAxC%2FmoTSueYrDSBdVs5sNxjJPsDMkrGN8yyU51sIHOMOZQkwBCGg6ELjV3sUnoex%2FKi6OE6t710dqf2tvDN1lkoMmytt4saNYQiIlnQSUtBIGO%2Ffg%2FN%2BYBf5Ocui%2FhqWjtukYLJmBE3rBRE9QNidFjz8NeYE0BZ0f%2FsmvAoTADce%2F3XTLf25p06TcO2eRtalVCtUoAFkw25wCNLx7FDBPM9E7FI3yt1RhNLPLzm9X3EQ1gDCKd0Z8SDdVnnVmuKnpfiUvwCzvSi1X3j4pwFCi%2BjJMBw%3D%3D&return_url=http%3A%2F%2F58.216.212.154%3A8008%2Fpay%2Falipay%2FreturnUrl&notify_url=http%3A%2F%2F58.216.212.154%3A8008%2Fpay%2Falipay%2Fnotify&version=1.0&app_id=2017081008129491&sign_type=RSA2&timestamp=2018-11-23+14%3A39%3A48&alipay_sdk=alipay-sdk-java-dynamicVersionNo&format=json">
+<input type="hidden" name="biz_content" value="{&quot;out_trade_no&quot;:&quot;2018117&quot;,&quot;total_amount&quot;:&quot;0.01&quot;,&quot;subject&quot;:&quot;门诊诊查费&quot;,&quot;timeout_express&quot;:&quot;90m&quot;,&quot;goods_type&quot;:&quot;0&quot;,&quot;product_code&quot;:&quot;FAST_INSTANT_TRADE_PAY&quot;}">
+<input type="submit" value="立即支付" style="display:none" >
+</form>
+<script>document.forms[0].submit();</script>
+2018-11-23 22:21:23.987 |-INFO  [http-nio-8008-exec-8] org.apache.coyote.http11.Http11Processor [181] -| Error parsing HTTP request header
+ Note: further occurrences of HTTP header parsing errors will be logged at DEBUG level.
+java.lang.IllegalArgumentException: Invalid character found in method name. HTTP method names must be tokens
+	at org.apache.coyote.http11.Http11InputBuffer.parseRequestLine(Http11InputBuffer.java:422)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:683)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1455)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:745)

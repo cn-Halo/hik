@@ -1,0 +1,262 @@
+2018-06-07 14:05:14.465 |-INFO  [http-nio-8000-exec-1] com.pay.aspect.PayAspect [85] -| 【未登录拦截】 拦截方法：methodName = navigate
+2018-06-07 14:05:16.942 |-INFO  [http-nio-8000-exec-8] com.pay.aspect.PayAspect [85] -| 【未登录拦截】 拦截方法：methodName = navigate
+2018-06-07 14:05:17.741 |-INFO  [http-nio-8000-exec-10] com.pay.aspect.PayAspect [85] -| 【未登录拦截】 拦截方法：methodName = navigate
+2018-06-07 14:05:17.986 |-INFO  [http-nio-8000-exec-6] com.pay.aspect.PayAspect [85] -| 【未登录拦截】 拦截方法：methodName = navigate
+2018-06-07 14:05:18.173 |-INFO  [http-nio-8000-exec-5] com.pay.aspect.PayAspect [85] -| 【未登录拦截】 拦截方法：methodName = navigate
+2018-06-07 14:05:18.359 |-INFO  [http-nio-8000-exec-4] com.pay.aspect.PayAspect [85] -| 【未登录拦截】 拦截方法：methodName = navigate
+2018-06-07 14:05:18.531 |-INFO  [http-nio-8000-exec-8] com.pay.aspect.PayAspect [85] -| 【未登录拦截】 拦截方法：methodName = navigate
+2018-06-07 14:05:18.702 |-INFO  [http-nio-8000-exec-10] com.pay.aspect.PayAspect [85] -| 【未登录拦截】 拦截方法：methodName = navigate
+2018-06-07 14:05:18.876 |-INFO  [http-nio-8000-exec-6] com.pay.aspect.PayAspect [85] -| 【未登录拦截】 拦截方法：methodName = navigate
+2018-06-07 14:05:19.039 |-INFO  [http-nio-8000-exec-2] com.pay.aspect.PayAspect [85] -| 【未登录拦截】 拦截方法：methodName = navigate
+2018-06-07 14:05:19.198 |-INFO  [http-nio-8000-exec-3] com.pay.aspect.PayAspect [85] -| 【未登录拦截】 拦截方法：methodName = navigate
+2018-06-07 14:05:19.363 |-INFO  [http-nio-8000-exec-7] com.pay.aspect.PayAspect [85] -| 【未登录拦截】 拦截方法：methodName = navigate
+2018-06-07 14:05:19.531 |-INFO  [http-nio-8000-exec-9] com.pay.aspect.PayAspect [85] -| 【未登录拦截】 拦截方法：methodName = navigate
+2018-06-07 14:05:19.698 |-INFO  [http-nio-8000-exec-1] com.pay.aspect.PayAspect [85] -| 【未登录拦截】 拦截方法：methodName = navigate
+2018-06-07 14:05:19.868 |-INFO  [http-nio-8000-exec-2] com.pay.aspect.PayAspect [85] -| 【未登录拦截】 拦截方法：methodName = navigate
+2018-06-07 14:05:20.046 |-INFO  [http-nio-8000-exec-3] com.pay.aspect.PayAspect [85] -| 【未登录拦截】 拦截方法：methodName = navigate
+2018-06-07 14:05:20.220 |-INFO  [http-nio-8000-exec-7] com.pay.aspect.PayAspect [85] -| 【未登录拦截】 拦截方法：methodName = navigate
+2018-06-07 14:05:20.387 |-INFO  [http-nio-8000-exec-9] com.pay.aspect.PayAspect [85] -| 【未登录拦截】 拦截方法：methodName = navigate
+2018-06-07 14:05:20.555 |-INFO  [http-nio-8000-exec-1] com.pay.aspect.PayAspect [85] -| 【未登录拦截】 拦截方法：methodName = navigate
+2018-06-07 14:05:20.734 |-INFO  [http-nio-8000-exec-2] com.pay.aspect.PayAspect [85] -| 【未登录拦截】 拦截方法：methodName = navigate
+2018-06-07 14:05:20.906 |-INFO  [http-nio-8000-exec-3] com.pay.aspect.PayAspect [85] -| 【未登录拦截】 拦截方法：methodName = navigate
+2018-06-07 14:05:21.084 |-INFO  [http-nio-8000-exec-7] com.pay.aspect.PayAspect [85] -| 【未登录拦截】 拦截方法：methodName = navigate
+2018-06-07 14:05:21.259 |-INFO  [http-nio-8000-exec-9] com.pay.aspect.PayAspect [85] -| 【未登录拦截】 拦截方法：methodName = navigate
+2018-06-07 14:05:21.434 |-INFO  [http-nio-8000-exec-1] com.pay.aspect.PayAspect [85] -| 【未登录拦截】 拦截方法：methodName = navigate
+2018-06-07 14:05:21.627 |-INFO  [http-nio-8000-exec-2] com.pay.aspect.PayAspect [85] -| 【未登录拦截】 拦截方法：methodName = navigate
+2018-06-07 14:05:21.809 |-INFO  [http-nio-8000-exec-3] com.pay.aspect.PayAspect [85] -| 【未登录拦截】 拦截方法：methodName = navigate
+2018-06-07 14:19:37.197 |-INFO  [http-nio-8000-exec-2] com.pay.aspect.PayAspect [85] -| 【未登录拦截】 拦截方法：methodName = navigate
+2018-06-07 14:19:38.161 |-INFO  [http-nio-8000-exec-3] com.pay.aspect.PayAspect [85] -| 【未登录拦截】 拦截方法：methodName = navigate
+2018-06-07 14:19:38.590 |-INFO  [http-nio-8000-exec-7] com.pay.aspect.PayAspect [85] -| 【未登录拦截】 拦截方法：methodName = navigate
+2018-06-07 14:19:38.868 |-INFO  [http-nio-8000-exec-9] com.pay.aspect.PayAspect [85] -| 【未登录拦截】 拦截方法：methodName = navigate
+2018-06-07 14:19:39.072 |-INFO  [http-nio-8000-exec-1] com.pay.aspect.PayAspect [85] -| 【未登录拦截】 拦截方法：methodName = navigate
+2018-06-07 14:19:39.263 |-INFO  [http-nio-8000-exec-2] com.pay.aspect.PayAspect [85] -| 【未登录拦截】 拦截方法：methodName = navigate
+2018-06-07 14:19:46.430 |-INFO  [http-nio-8000-exec-4] org.apache.tomcat.util.http.parser.Cookie [179] -| A cookie header was received [40bd001563085fc35165329ea1ff5c5ecbdbbeef; JSESSIONID=9576EE37AA416D3EAF0B30F3CBF8EA4B; Idea-597f8618=3994a678-f712-4f8c-8349-95d1a34be096; _ga=GA1.1.875277425.1508403715; bdshare_firstime=1513332715028; PHPSESSID=kra4935n0btpp943piibsfb6r3] that contained an invalid cookie. That cookie will be ignored.Note: further occurrences of this error will be logged at DEBUG level.
+2018-06-07 14:22:19.055 |-DEBUG [http-nio-8000-exec-3] com.pay.mapper.InvoiceMapper.findAll_COUNT [159] -| ==>  Preparing: SELECT count(0) FROM T_Invoice a, T_PayInfo b, T_WhiteList c WHERE a.outTradeNo = b.outTradeNo AND b.remoteSysCode = c.remoteSysCode 
+2018-06-07 14:22:19.056 |-DEBUG [http-nio-8000-exec-3] com.pay.mapper.InvoiceMapper.findAll_COUNT [159] -| ==> Parameters: 
+2018-06-07 14:22:19.105 |-DEBUG [http-nio-8000-exec-3] com.pay.mapper.InvoiceMapper.findAll_COUNT [159] -| <==      Total: 1
+2018-06-07 14:22:19.106 |-DEBUG [http-nio-8000-exec-3] com.pay.mapper.InvoiceMapper.findAll [159] -| ==>  Preparing: SELECT TOP 10 *, remoteSysName FROM (SELECT ROW_NUMBER() OVER ( ORDER BY a.isDraw, a.createTime) PAGE_ROW_NUMBER, a.*, c.remoteSysName FROM T_Invoice a, T_PayInfo b, T_WhiteList c WHERE a.outTradeNo = b.outTradeNo AND b.remoteSysCode = c.remoteSysCode) AS PAGE_TABLE_ALIAS WHERE PAGE_ROW_NUMBER > 0 ORDER BY PAGE_ROW_NUMBER 
+2018-06-07 14:22:19.107 |-DEBUG [http-nio-8000-exec-3] com.pay.mapper.InvoiceMapper.findAll [159] -| ==> Parameters: 
+2018-06-07 14:22:19.143 |-DEBUG [http-nio-8000-exec-3] com.pay.mapper.InvoiceMapper.findAll [159] -| <==      Total: 10
+2018-06-07 14:22:19.848 |-DEBUG [http-nio-8000-exec-7] com.pay.mapper.GivenInvoiceMapper.findAll_COUNT [159] -| ==>  Preparing: SELECT count(0) FROM T_GivenInvoice 
+2018-06-07 14:22:19.848 |-DEBUG [http-nio-8000-exec-7] com.pay.mapper.GivenInvoiceMapper.findAll_COUNT [159] -| ==> Parameters: 
+2018-06-07 14:22:19.853 |-DEBUG [http-nio-8000-exec-7] com.pay.mapper.GivenInvoiceMapper.findAll_COUNT [159] -| <==      Total: 1
+2018-06-07 14:22:19.853 |-DEBUG [http-nio-8000-exec-7] com.pay.mapper.GivenInvoiceMapper.findAll [159] -| ==>  Preparing: SELECT TOP 10 * FROM (SELECT ROW_NUMBER() OVER ( ORDER BY kprq DESC) PAGE_ROW_NUMBER, * FROM T_GivenInvoice) AS PAGE_TABLE_ALIAS WHERE PAGE_ROW_NUMBER > 0 ORDER BY PAGE_ROW_NUMBER 
+2018-06-07 14:22:19.855 |-DEBUG [http-nio-8000-exec-7] com.pay.mapper.GivenInvoiceMapper.findAll [159] -| ==> Parameters: 
+2018-06-07 14:22:19.867 |-DEBUG [http-nio-8000-exec-7] com.pay.mapper.GivenInvoiceMapper.findAll [159] -| <==      Total: 10
+2018-06-07 14:22:21.520 |-DEBUG [http-nio-8000-exec-1] com.pay.mapper.GivenInvoiceMapper.findAll_COUNT [159] -| ==>  Preparing: SELECT count(0) FROM T_GivenInvoice 
+2018-06-07 14:22:21.520 |-DEBUG [http-nio-8000-exec-1] com.pay.mapper.GivenInvoiceMapper.findAll_COUNT [159] -| ==> Parameters: 
+2018-06-07 14:22:21.524 |-DEBUG [http-nio-8000-exec-1] com.pay.mapper.GivenInvoiceMapper.findAll_COUNT [159] -| <==      Total: 1
+2018-06-07 14:22:21.525 |-DEBUG [http-nio-8000-exec-1] com.pay.mapper.GivenInvoiceMapper.findAll [159] -| ==>  Preparing: SELECT TOP 10 * FROM (SELECT ROW_NUMBER() OVER ( ORDER BY kprq DESC) PAGE_ROW_NUMBER, * FROM T_GivenInvoice) AS PAGE_TABLE_ALIAS WHERE PAGE_ROW_NUMBER > 0 ORDER BY PAGE_ROW_NUMBER 
+2018-06-07 14:22:21.525 |-DEBUG [http-nio-8000-exec-1] com.pay.mapper.GivenInvoiceMapper.findAll [159] -| ==> Parameters: 
+2018-06-07 14:22:21.533 |-DEBUG [http-nio-8000-exec-1] com.pay.mapper.GivenInvoiceMapper.findAll [159] -| <==      Total: 10
+2018-06-07 14:22:23.823 |-DEBUG [http-nio-8000-exec-3] com.pay.mapper.GivenInvoiceMapper.findAll_COUNT [159] -| ==>  Preparing: SELECT count(0) FROM T_GivenInvoice 
+2018-06-07 14:22:23.824 |-DEBUG [http-nio-8000-exec-3] com.pay.mapper.GivenInvoiceMapper.findAll_COUNT [159] -| ==> Parameters: 
+2018-06-07 14:22:23.825 |-DEBUG [http-nio-8000-exec-3] com.pay.mapper.GivenInvoiceMapper.findAll_COUNT [159] -| <==      Total: 1
+2018-06-07 14:22:23.826 |-DEBUG [http-nio-8000-exec-3] com.pay.mapper.GivenInvoiceMapper.findAll [159] -| ==>  Preparing: SELECT TOP 10 * FROM (SELECT ROW_NUMBER() OVER ( ORDER BY kprq DESC) PAGE_ROW_NUMBER, * FROM T_GivenInvoice) AS PAGE_TABLE_ALIAS WHERE PAGE_ROW_NUMBER > 0 ORDER BY PAGE_ROW_NUMBER 
+2018-06-07 14:22:23.826 |-DEBUG [http-nio-8000-exec-3] com.pay.mapper.GivenInvoiceMapper.findAll [159] -| ==> Parameters: 
+2018-06-07 14:22:23.829 |-DEBUG [http-nio-8000-exec-3] com.pay.mapper.GivenInvoiceMapper.findAll [159] -| <==      Total: 10
+2018-06-07 14:22:25.812 |-DEBUG [http-nio-8000-exec-9] com.pay.mapper.GivenInvoiceMapper.findAll_COUNT [159] -| ==>  Preparing: SELECT count(0) FROM T_GivenInvoice 
+2018-06-07 14:22:25.812 |-DEBUG [http-nio-8000-exec-9] com.pay.mapper.GivenInvoiceMapper.findAll_COUNT [159] -| ==> Parameters: 
+2018-06-07 14:22:25.815 |-DEBUG [http-nio-8000-exec-9] com.pay.mapper.GivenInvoiceMapper.findAll_COUNT [159] -| <==      Total: 1
+2018-06-07 14:22:25.816 |-DEBUG [http-nio-8000-exec-9] com.pay.mapper.GivenInvoiceMapper.findAll [159] -| ==>  Preparing: SELECT TOP 10 * FROM (SELECT ROW_NUMBER() OVER ( ORDER BY kprq DESC) PAGE_ROW_NUMBER, * FROM T_GivenInvoice) AS PAGE_TABLE_ALIAS WHERE PAGE_ROW_NUMBER > 0 ORDER BY PAGE_ROW_NUMBER 
+2018-06-07 14:22:25.816 |-DEBUG [http-nio-8000-exec-9] com.pay.mapper.GivenInvoiceMapper.findAll [159] -| ==> Parameters: 
+2018-06-07 14:22:25.819 |-DEBUG [http-nio-8000-exec-9] com.pay.mapper.GivenInvoiceMapper.findAll [159] -| <==      Total: 10
+2018-06-07 14:22:33.793 |-DEBUG [http-nio-8000-exec-1] com.pay.mapper.GivenInvoiceMapper.findAll_COUNT [159] -| ==>  Preparing: SELECT count(0) FROM T_GivenInvoice 
+2018-06-07 14:22:33.793 |-DEBUG [http-nio-8000-exec-1] com.pay.mapper.GivenInvoiceMapper.findAll_COUNT [159] -| ==> Parameters: 
+2018-06-07 14:22:33.797 |-DEBUG [http-nio-8000-exec-1] com.pay.mapper.GivenInvoiceMapper.findAll_COUNT [159] -| <==      Total: 1
+2018-06-07 14:22:33.798 |-DEBUG [http-nio-8000-exec-1] com.pay.mapper.GivenInvoiceMapper.findAll [159] -| ==>  Preparing: SELECT TOP 10 * FROM (SELECT ROW_NUMBER() OVER ( ORDER BY kprq DESC) PAGE_ROW_NUMBER, * FROM T_GivenInvoice) AS PAGE_TABLE_ALIAS WHERE PAGE_ROW_NUMBER > 0 ORDER BY PAGE_ROW_NUMBER 
+2018-06-07 14:22:33.799 |-DEBUG [http-nio-8000-exec-1] com.pay.mapper.GivenInvoiceMapper.findAll [159] -| ==> Parameters: 
+2018-06-07 14:22:33.804 |-DEBUG [http-nio-8000-exec-1] com.pay.mapper.GivenInvoiceMapper.findAll [159] -| <==      Total: 10
+2018-06-07 14:27:30.739 |-DEBUG [http-nio-8000-exec-3] com.pay.mapper.GivenInvoiceMapper.findAll_COUNT [159] -| ==>  Preparing: SELECT count(0) FROM T_GivenInvoice 
+2018-06-07 14:27:30.739 |-DEBUG [http-nio-8000-exec-3] com.pay.mapper.GivenInvoiceMapper.findAll_COUNT [159] -| ==> Parameters: 
+2018-06-07 14:27:30.742 |-DEBUG [http-nio-8000-exec-3] com.pay.mapper.GivenInvoiceMapper.findAll_COUNT [159] -| <==      Total: 1
+2018-06-07 14:27:30.743 |-DEBUG [http-nio-8000-exec-3] com.pay.mapper.GivenInvoiceMapper.findAll [159] -| ==>  Preparing: SELECT TOP 10 * FROM (SELECT ROW_NUMBER() OVER ( ORDER BY kprq DESC) PAGE_ROW_NUMBER, * FROM T_GivenInvoice) AS PAGE_TABLE_ALIAS WHERE PAGE_ROW_NUMBER > 0 ORDER BY PAGE_ROW_NUMBER 
+2018-06-07 14:27:30.744 |-DEBUG [http-nio-8000-exec-3] com.pay.mapper.GivenInvoiceMapper.findAll [159] -| ==> Parameters: 
+2018-06-07 14:27:30.748 |-DEBUG [http-nio-8000-exec-3] com.pay.mapper.GivenInvoiceMapper.findAll [159] -| <==      Total: 10
+2018-06-07 14:40:06.838 |-DEBUG [http-nio-8000-exec-10] com.pay.mapper.GivenInvoiceMapper.findAll_COUNT [159] -| ==>  Preparing: SELECT count(0) FROM T_GivenInvoice 
+2018-06-07 14:40:06.838 |-DEBUG [http-nio-8000-exec-10] com.pay.mapper.GivenInvoiceMapper.findAll_COUNT [159] -| ==> Parameters: 
+2018-06-07 14:40:06.840 |-DEBUG [http-nio-8000-exec-10] com.pay.mapper.GivenInvoiceMapper.findAll_COUNT [159] -| <==      Total: 1
+2018-06-07 14:40:06.841 |-DEBUG [http-nio-8000-exec-10] com.pay.mapper.GivenInvoiceMapper.findAll [159] -| ==>  Preparing: SELECT TOP 10 * FROM (SELECT ROW_NUMBER() OVER ( ORDER BY kprq DESC) PAGE_ROW_NUMBER, * FROM T_GivenInvoice) AS PAGE_TABLE_ALIAS WHERE PAGE_ROW_NUMBER > 0 ORDER BY PAGE_ROW_NUMBER 
+2018-06-07 14:40:06.841 |-DEBUG [http-nio-8000-exec-10] com.pay.mapper.GivenInvoiceMapper.findAll [159] -| ==> Parameters: 
+2018-06-07 14:40:06.844 |-DEBUG [http-nio-8000-exec-10] com.pay.mapper.GivenInvoiceMapper.findAll [159] -| <==      Total: 10
+2018-06-07 14:40:07.503 |-DEBUG [http-nio-8000-exec-6] com.pay.mapper.InvoiceMapper.findAll_COUNT [159] -| ==>  Preparing: SELECT count(0) FROM T_Invoice a, T_PayInfo b, T_WhiteList c WHERE a.outTradeNo = b.outTradeNo AND b.remoteSysCode = c.remoteSysCode 
+2018-06-07 14:40:07.503 |-DEBUG [http-nio-8000-exec-6] com.pay.mapper.InvoiceMapper.findAll_COUNT [159] -| ==> Parameters: 
+2018-06-07 14:40:07.509 |-DEBUG [http-nio-8000-exec-6] com.pay.mapper.InvoiceMapper.findAll_COUNT [159] -| <==      Total: 1
+2018-06-07 14:40:07.510 |-DEBUG [http-nio-8000-exec-6] com.pay.mapper.InvoiceMapper.findAll [159] -| ==>  Preparing: SELECT TOP 10 *, remoteSysName FROM (SELECT ROW_NUMBER() OVER ( ORDER BY a.isDraw, a.createTime) PAGE_ROW_NUMBER, a.*, c.remoteSysName FROM T_Invoice a, T_PayInfo b, T_WhiteList c WHERE a.outTradeNo = b.outTradeNo AND b.remoteSysCode = c.remoteSysCode) AS PAGE_TABLE_ALIAS WHERE PAGE_ROW_NUMBER > 0 ORDER BY PAGE_ROW_NUMBER 
+2018-06-07 14:40:07.511 |-DEBUG [http-nio-8000-exec-6] com.pay.mapper.InvoiceMapper.findAll [159] -| ==> Parameters: 
+2018-06-07 14:40:07.520 |-DEBUG [http-nio-8000-exec-6] com.pay.mapper.InvoiceMapper.findAll [159] -| <==      Total: 10
+2018-06-07 14:52:36.472 |-INFO  [main] com.pay.PayApplication [48] -| Starting PayApplication on yzm with PID 13292 (D:\workspace2\sshapp-pro\pay\target\classes started by www78 in D:\workspace2\sshapp-pro\pay)
+2018-06-07 14:52:36.477 |-INFO  [main] com.pay.PayApplication [597] -| The following profiles are active: prod
+2018-06-07 14:52:36.590 |-INFO  [main] org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext [583] -| Refreshing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@79179359: startup date [Thu Jun 07 14:52:36 CST 2018]; root of context hierarchy
+2018-06-07 14:52:36.892 |-INFO  [background-preinit] org.hibernate.validator.internal.util.Version [30] -| HV000001: Hibernate Validator 5.3.5.Final
+2018-06-07 14:52:38.583 |-INFO  [main] org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker [325] -| Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$43d9e356] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2018-06-07 14:52:39.118 |-INFO  [main] org.springframework.boot.context.embedded.tomcat.TomcatEmbeddedServletContainer [89] -| Tomcat initialized with port(s): 8000 (http)
+2018-06-07 14:52:39.129 |-INFO  [main] org.apache.catalina.core.StandardService [179] -| Starting service [Tomcat]
+2018-06-07 14:52:39.130 |-INFO  [main] org.apache.catalina.core.StandardEngine [179] -| Starting Servlet Engine: Apache Tomcat/8.5.16
+2018-06-07 14:52:39.274 |-INFO  [localhost-startStop-1] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/pay] [179] -| Initializing Spring embedded WebApplicationContext
+2018-06-07 14:52:39.275 |-INFO  [localhost-startStop-1] org.springframework.web.context.ContextLoader [276] -| Root WebApplicationContext: initialization completed in 2685 ms
+2018-06-07 14:52:39.452 |-INFO  [localhost-startStop-1] org.springframework.boot.web.servlet.ServletRegistrationBean [190] -| Mapping servlet: 'dispatcherServlet' to [/]
+2018-06-07 14:52:39.460 |-INFO  [localhost-startStop-1] org.springframework.boot.web.servlet.FilterRegistrationBean [258] -| Mapping filter: 'characterEncodingFilter' to: [/*]
+2018-06-07 14:52:39.461 |-INFO  [localhost-startStop-1] org.springframework.boot.web.servlet.FilterRegistrationBean [258] -| Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2018-06-07 14:52:39.461 |-INFO  [localhost-startStop-1] org.springframework.boot.web.servlet.FilterRegistrationBean [258] -| Mapping filter: 'httpPutFormContentFilter' to: [/*]
+2018-06-07 14:52:39.461 |-INFO  [localhost-startStop-1] org.springframework.boot.web.servlet.FilterRegistrationBean [258] -| Mapping filter: 'requestContextFilter' to: [/*]
+2018-06-07 14:52:40.482 |-INFO  [main] org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [349] -| Building JPA container EntityManagerFactory for persistence unit 'default'
+2018-06-07 14:52:40.494 |-INFO  [main] org.hibernate.jpa.internal.util.LogHelper [31] -| HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2018-06-07 14:52:40.596 |-INFO  [main] org.hibernate.Version [37] -| HHH000412: Hibernate Core {5.0.12.Final}
+2018-06-07 14:52:40.598 |-INFO  [main] org.hibernate.cfg.Environment [213] -| HHH000206: hibernate.properties not found
+2018-06-07 14:52:40.599 |-INFO  [main] org.hibernate.cfg.Environment [317] -| HHH000021: Bytecode provider name : javassist
+2018-06-07 14:52:40.659 |-INFO  [main] org.hibernate.annotations.common.Version [66] -| HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2018-06-07 14:52:40.887 |-INFO  [main] org.hibernate.dialect.Dialect [156] -| HHH000400: Using dialect: org.hibernate.dialect.SQLServer2008Dialect
+2018-06-07 14:52:41.178 |-INFO  [main] org.hibernate.engine.jdbc.env.internal.LobCreatorBuilderImpl [98] -| HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+2018-06-07 14:52:41.675 |-INFO  [main] org.hibernate.tool.hbm2ddl.SchemaUpdate [105] -| HHH000228: Running hbm2ddl schema update
+2018-06-07 14:52:41.696 |-INFO  [main] org.hibernate.tool.schema.extract.internal.InformationExtractorJdbcDatabaseMetaDataImpl [365] -| HHH000262: Table not found: T_AppParam
+2018-06-07 14:52:41.734 |-INFO  [main] org.hibernate.tool.schema.extract.internal.InformationExtractorJdbcDatabaseMetaDataImpl [365] -| HHH000262: Table not found: T_GivenInvoice
+2018-06-07 14:52:41.851 |-INFO  [main] org.hibernate.tool.schema.extract.internal.InformationExtractorJdbcDatabaseMetaDataImpl [365] -| HHH000262: Table not found: T_Invoice
+2018-06-07 14:52:41.957 |-INFO  [main] org.hibernate.tool.schema.extract.internal.InformationExtractorJdbcDatabaseMetaDataImpl [365] -| HHH000262: Table not found: T_NotifyInfo
+2018-06-07 14:52:42.115 |-INFO  [main] org.hibernate.tool.schema.extract.internal.InformationExtractorJdbcDatabaseMetaDataImpl [365] -| HHH000262: Table not found: T_PayInfo
+2018-06-07 14:52:42.216 |-INFO  [main] org.hibernate.tool.schema.extract.internal.InformationExtractorJdbcDatabaseMetaDataImpl [365] -| HHH000262: Table not found: T_RefundInfo
+2018-06-07 14:52:42.384 |-INFO  [main] org.hibernate.tool.schema.extract.internal.InformationExtractorJdbcDatabaseMetaDataImpl [365] -| HHH000262: Table not found: T_Sms
+2018-06-07 14:52:42.452 |-INFO  [main] org.hibernate.tool.schema.extract.internal.InformationExtractorJdbcDatabaseMetaDataImpl [365] -| HHH000262: Table not found: T_User
+2018-06-07 14:52:42.500 |-INFO  [main] org.hibernate.tool.schema.extract.internal.InformationExtractorJdbcDatabaseMetaDataImpl [365] -| HHH000262: Table not found: T_WhiteList
+2018-06-07 14:52:42.533 |-INFO  [main] org.hibernate.tool.schema.extract.internal.InformationExtractorJdbcDatabaseMetaDataImpl [365] -| HHH000262: Table not found: T_AppParam
+2018-06-07 14:52:42.543 |-INFO  [main] org.hibernate.tool.schema.extract.internal.InformationExtractorJdbcDatabaseMetaDataImpl [365] -| HHH000262: Table not found: T_GivenInvoice
+2018-06-07 14:52:42.551 |-INFO  [main] org.hibernate.tool.schema.extract.internal.InformationExtractorJdbcDatabaseMetaDataImpl [365] -| HHH000262: Table not found: T_Invoice
+2018-06-07 14:52:42.560 |-INFO  [main] org.hibernate.tool.schema.extract.internal.InformationExtractorJdbcDatabaseMetaDataImpl [365] -| HHH000262: Table not found: T_NotifyInfo
+2018-06-07 14:52:42.568 |-INFO  [main] org.hibernate.tool.schema.extract.internal.InformationExtractorJdbcDatabaseMetaDataImpl [365] -| HHH000262: Table not found: T_PayInfo
+2018-06-07 14:52:42.578 |-INFO  [main] org.hibernate.tool.schema.extract.internal.InformationExtractorJdbcDatabaseMetaDataImpl [365] -| HHH000262: Table not found: T_RefundInfo
+2018-06-07 14:52:42.587 |-INFO  [main] org.hibernate.tool.schema.extract.internal.InformationExtractorJdbcDatabaseMetaDataImpl [365] -| HHH000262: Table not found: T_Sms
+2018-06-07 14:52:42.594 |-INFO  [main] org.hibernate.tool.schema.extract.internal.InformationExtractorJdbcDatabaseMetaDataImpl [365] -| HHH000262: Table not found: T_User
+2018-06-07 14:52:42.602 |-INFO  [main] org.hibernate.tool.schema.extract.internal.InformationExtractorJdbcDatabaseMetaDataImpl [365] -| HHH000262: Table not found: T_WhiteList
+2018-06-07 14:52:42.611 |-INFO  [main] org.hibernate.tool.schema.extract.internal.InformationExtractorJdbcDatabaseMetaDataImpl [365] -| HHH000262: Table not found: T_AppParam
+2018-06-07 14:52:42.618 |-INFO  [main] org.hibernate.tool.schema.extract.internal.InformationExtractorJdbcDatabaseMetaDataImpl [365] -| HHH000262: Table not found: T_GivenInvoice
+2018-06-07 14:52:42.626 |-INFO  [main] org.hibernate.tool.schema.extract.internal.InformationExtractorJdbcDatabaseMetaDataImpl [365] -| HHH000262: Table not found: T_Invoice
+2018-06-07 14:52:42.634 |-INFO  [main] org.hibernate.tool.schema.extract.internal.InformationExtractorJdbcDatabaseMetaDataImpl [365] -| HHH000262: Table not found: T_NotifyInfo
+2018-06-07 14:52:42.642 |-INFO  [main] org.hibernate.tool.schema.extract.internal.InformationExtractorJdbcDatabaseMetaDataImpl [365] -| HHH000262: Table not found: T_PayInfo
+2018-06-07 14:52:42.651 |-INFO  [main] org.hibernate.tool.schema.extract.internal.InformationExtractorJdbcDatabaseMetaDataImpl [365] -| HHH000262: Table not found: T_RefundInfo
+2018-06-07 14:52:42.658 |-INFO  [main] org.hibernate.tool.schema.extract.internal.InformationExtractorJdbcDatabaseMetaDataImpl [365] -| HHH000262: Table not found: T_Sms
+2018-06-07 14:52:42.665 |-INFO  [main] org.hibernate.tool.schema.extract.internal.InformationExtractorJdbcDatabaseMetaDataImpl [365] -| HHH000262: Table not found: T_User
+2018-06-07 14:52:42.673 |-INFO  [main] org.hibernate.tool.schema.extract.internal.InformationExtractorJdbcDatabaseMetaDataImpl [365] -| HHH000262: Table not found: T_WhiteList
+2018-06-07 14:52:42.713 |-INFO  [main] org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [379] -| Initialized JPA EntityManagerFactory for persistence unit 'default'
+2018-06-07 14:52:43.417 |-INFO  [main] org.springframework.web.servlet.view.freemarker.FreeMarkerConfigurer [127] -| ClassTemplateLoader for Spring macros added to FreeMarker configuration
+2018-06-07 14:52:43.926 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/alipay/notify],methods=[POST]}" onto public void com.pay.controller.AlipayController.notify(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws java.lang.Exception
+2018-06-07 14:52:43.927 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/alipay/close]}" onto public java.util.Map<java.lang.String, java.lang.Object> com.pay.controller.AlipayController.close(java.lang.String,java.lang.String)
+2018-06-07 14:52:43.927 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/alipay/query]}" onto public java.util.Map<java.lang.String, java.lang.Object> com.pay.controller.AlipayController.query(java.lang.String)
+2018-06-07 14:52:43.927 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/alipay/pay_test]}" onto public void com.pay.controller.AlipayController.doPost(java.lang.String,javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws javax.servlet.ServletException,java.io.IOException
+2018-06-07 14:52:43.928 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/alipay/refund]}" onto public java.util.Map<java.lang.String, java.lang.Object> com.pay.controller.AlipayController.refund(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String) throws java.lang.Exception
+2018-06-07 14:52:43.928 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/alipay/pay],methods=[POST]}" onto public void com.pay.controller.AlipayController.pay(java.lang.String,java.lang.String,java.lang.String,javax.servlet.http.HttpServletResponse) throws java.lang.Exception
+2018-06-07 14:52:43.928 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/alipay/pay2]}" onto public void com.pay.controller.AlipayController.pay(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,javax.servlet.http.HttpServletResponse) throws java.lang.Exception
+2018-06-07 14:52:43.928 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/alipay/my_notify]}" onto public java.util.Map<java.lang.String, java.lang.Object> com.pay.controller.AlipayController.myNotify(java.lang.String)
+2018-06-07 14:52:43.929 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/alipay/pay_supplier]}" onto public void com.pay.controller.AlipayController.paySupplier(java.lang.String,javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws java.lang.Exception
+2018-06-07 14:52:43.929 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/alipay/query_refund]}" onto public java.util.Map<java.lang.String, java.lang.Object> com.pay.controller.AlipayController.queryRefund(java.lang.String,java.lang.String) throws java.lang.Exception
+2018-06-07 14:52:43.929 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/alipay/download_bill]}" onto public java.util.Map<java.lang.String, java.lang.Object> com.pay.controller.AlipayController.downloadBill(java.lang.String,java.lang.String,javax.servlet.http.HttpServletResponse) throws java.lang.Exception
+2018-06-07 14:52:43.930 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/alipay/returnUrl]}" onto public org.springframework.web.servlet.ModelAndView com.pay.controller.AlipayController.returnUrl()
+2018-06-07 14:52:43.932 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/appParam/save],methods=[POST]}" onto public com.pay.vo.ResponseVO com.pay.controller.AppParamController.save(java.lang.Long,java.lang.String)
+2018-06-07 14:52:43.932 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/appParam/query_all],methods=[GET]}" onto public java.util.Map<java.lang.String, java.lang.Object> com.pay.controller.AppParamController.queryAll(java.lang.Integer,java.lang.Integer)
+2018-06-07 14:52:43.932 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/appParam/query_one],methods=[GET]}" onto public com.pay.vo.ResponseVO com.pay.controller.AppParamController.queryOne(java.lang.String)
+2018-06-07 14:52:43.934 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/common/index],methods=[GET]}" onto public org.springframework.web.servlet.ModelAndView com.pay.controller.CommonController.index(javax.servlet.http.HttpServletRequest)
+2018-06-07 14:52:43.934 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/common/show_login],methods=[GET]}" onto public org.springframework.web.servlet.ModelAndView com.pay.controller.CommonController.showLogin(javax.servlet.http.HttpServletRequest)
+2018-06-07 14:52:43.934 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/common/show_register],methods=[GET]}" onto public org.springframework.web.servlet.ModelAndView com.pay.controller.CommonController.showRegister(javax.servlet.http.HttpServletRequest)
+2018-06-07 14:52:43.934 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/common/register_by_email],methods=[POST]}" onto public com.pay.vo.ResponseVO com.pay.controller.CommonController.registerByEmail(com.pay.entity.User)
+2018-06-07 14:52:43.935 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/common/logout],methods=[GET]}" onto public void com.pay.controller.CommonController.logout(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws java.lang.Exception
+2018-06-07 14:52:43.935 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/common/navigate],methods=[GET]}" onto public org.springframework.web.servlet.ModelAndView com.pay.controller.CommonController.navigate(java.lang.String,javax.servlet.http.HttpServletRequest)
+2018-06-07 14:52:43.935 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/common/register_by_phone],methods=[POST]}" onto public com.pay.vo.ResponseVO com.pay.controller.CommonController.registerByPhone(com.pay.entity.User,javax.servlet.http.HttpServletRequest)
+2018-06-07 14:52:43.935 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/common/login],methods=[POST]}" onto public com.pay.vo.ResponseVO com.pay.controller.CommonController.login(com.pay.entity.User,javax.servlet.http.HttpServletRequest)
+2018-06-07 14:52:43.936 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/givenInvoice/save]}" onto public org.springframework.web.servlet.ModelAndView com.pay.controller.GivenInvoiceController.save(com.pay.entity.GivenInvoice)
+2018-06-07 14:52:43.936 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/givenInvoice/query_all]}" onto public java.util.Map<java.lang.String, java.lang.Object> com.pay.controller.GivenInvoiceController.queryAll(java.lang.Integer,java.lang.Integer,java.lang.String)
+2018-06-07 14:52:43.937 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/givenInvoice/modify]}" onto public org.springframework.web.servlet.ModelAndView com.pay.controller.GivenInvoiceController.modify(com.pay.entity.GivenInvoice)
+2018-06-07 14:52:43.937 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/]}" onto public java.lang.String com.pay.controller.IndexController.index()
+2018-06-07 14:52:43.938 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/invoice/toXml],methods=[POST]}" onto public void com.pay.controller.InvoiceController.generate(java.lang.String,javax.servlet.http.HttpServletResponse) throws java.lang.Exception
+2018-06-07 14:52:43.939 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/invoice/query_all],methods=[GET]}" onto public java.util.Map<java.lang.String, java.lang.Object> com.pay.controller.InvoiceController.queryAll(java.lang.Integer,java.lang.Integer,java.lang.String)
+2018-06-07 14:52:43.940 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/invoice/save_header],methods=[POST]}" onto public java.util.Map<java.lang.String, java.lang.Object> com.pay.controller.InvoiceController.saveHeader(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String) throws java.lang.Exception
+2018-06-07 14:52:43.941 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/invoice/toExcel],methods=[POST]}" onto public void com.pay.controller.InvoiceController.invoice2Word(java.lang.String,javax.servlet.http.HttpServletResponse) throws java.lang.Exception
+2018-06-07 14:52:43.941 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/invoice/unDraw_toExcel],methods=[POST]}" onto public void com.pay.controller.InvoiceController.unDraw2Excel(javax.servlet.http.HttpServletResponse) throws java.lang.Exception
+2018-06-07 14:52:43.941 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/invoice/importExcel],methods=[POST]}" onto public com.pay.vo.ResponseVO com.pay.controller.InvoiceController.importExcel(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws java.lang.Exception
+2018-06-07 14:52:43.942 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/payInfo/query_trade_success]}" onto public java.util.Map<java.lang.String, java.lang.Object> com.pay.controller.PayInfoController.queryTradeSuccess(java.lang.Integer,java.lang.Integer,com.pay.entity.PayInfo)
+2018-06-07 14:52:43.942 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/sms/send_code],methods=[POST]}" onto public com.pay.vo.ResponseVO com.pay.controller.SmsController.sendCode(java.lang.String)
+2018-06-07 14:52:43.943 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/user/save],methods=[POST]}" onto public org.springframework.web.servlet.ModelAndView com.pay.controller.UserController.save(com.pay.entity.User,org.apache.catalina.servlet4preview.http.HttpServletRequest)
+2018-06-07 14:52:43.943 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/user/query_by_username],methods=[GET]}" onto public com.pay.vo.ResponseVO com.pay.controller.UserController.queryByUsername(java.lang.String)
+2018-06-07 14:52:43.944 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/whiteList/delete],methods=[GET]}" onto public void com.pay.controller.WhiteListController.delete(java.lang.Long)
+2018-06-07 14:52:43.944 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/whiteList/save],methods=[POST]}" onto public org.springframework.web.servlet.ModelAndView com.pay.controller.WhiteListController.save(com.pay.entity.WhiteList)
+2018-06-07 14:52:43.945 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/whiteList/query_all],methods=[GET]}" onto public java.util.Map<java.lang.String, java.lang.Object> com.pay.controller.WhiteListController.queryAll(java.lang.Integer,java.lang.Integer,org.apache.catalina.servlet4preview.http.HttpServletRequest)
+2018-06-07 14:52:43.946 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/v2/api-docs],methods=[GET],produces=[application/json || application/hal+json]}" onto public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)
+2018-06-07 14:52:43.948 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/swagger-resources/configuration/ui]}" onto org.springframework.http.ResponseEntity<springfox.documentation.swagger.web.UiConfiguration> springfox.documentation.swagger.web.ApiResourceController.uiConfiguration()
+2018-06-07 14:52:43.949 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/swagger-resources]}" onto org.springframework.http.ResponseEntity<java.util.List<springfox.documentation.swagger.web.SwaggerResource>> springfox.documentation.swagger.web.ApiResourceController.swaggerResources()
+2018-06-07 14:52:43.950 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/swagger-resources/configuration/security]}" onto org.springframework.http.ResponseEntity<springfox.documentation.swagger.web.SecurityConfiguration> springfox.documentation.swagger.web.ApiResourceController.securityConfiguration()
+2018-06-07 14:52:43.952 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+2018-06-07 14:52:43.952 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2018-06-07 14:52:44.325 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter [534] -| Looking for @ControllerAdvice: org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@79179359: startup date [Thu Jun 07 14:52:36 CST 2018]; root of context hierarchy
+2018-06-07 14:52:44.390 |-INFO  [main] org.springframework.web.servlet.handler.SimpleUrlHandlerMapping [362] -| Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2018-06-07 14:52:44.391 |-INFO  [main] org.springframework.web.servlet.handler.SimpleUrlHandlerMapping [362] -| Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2018-06-07 14:52:44.417 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.ExceptionHandlerExceptionResolver [273] -| Detected @ExceptionHandler methods in globalControllerExceptionHandler
+2018-06-07 14:52:44.444 |-INFO  [main] org.springframework.web.servlet.handler.SimpleUrlHandlerMapping [362] -| Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2018-06-07 14:52:44.881 |-INFO  [main] org.springframework.jmx.export.annotation.AnnotationMBeanExporter [431] -| Registering beans for JMX exposure on startup
+2018-06-07 14:52:44.890 |-INFO  [main] org.springframework.context.support.DefaultLifecycleProcessor [343] -| Starting beans in phase 2147483647
+2018-06-07 14:52:44.891 |-INFO  [main] springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [120] -| Context refreshed
+2018-06-07 14:52:44.909 |-INFO  [main] springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [123] -| Found 1 custom documentation plugin(s)
+2018-06-07 14:52:44.922 |-INFO  [main] springfox.documentation.spring.web.scanners.ApiListingReferenceScanner [41] -| Scanning for api listing references
+2018-06-07 14:52:45.273 |-INFO  [main] springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator [40] -| Generating unique operation named: payUsingPOST_1
+2018-06-07 14:52:45.676 |-INFO  [main] springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator [40] -| Generating unique operation named: saveUsingPOST_1
+2018-06-07 14:52:45.726 |-INFO  [main] springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator [40] -| Generating unique operation named: saveUsingPOST_2
+2018-06-07 14:52:45.733 |-INFO  [main] springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator [40] -| Generating unique operation named: queryAllUsingGET_1
+2018-06-07 14:52:45.737 |-INFO  [main] springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator [40] -| Generating unique operation named: saveUsingPOST_3
+2018-06-07 14:52:45.793 |-INFO  [main] org.hibernate.hql.internal.QueryTranslatorFactoryInitiator [47] -| HHH000397: Using ASTQueryTranslatorFactory
+2018-06-07 14:52:45.892 |-INFO  [main] org.apache.coyote.http11.Http11NioProtocol [179] -| Initializing ProtocolHandler ["http-nio-8000"]
+2018-06-07 14:52:45.903 |-INFO  [main] org.apache.coyote.http11.Http11NioProtocol [179] -| Starting ProtocolHandler ["http-nio-8000"]
+2018-06-07 14:52:45.913 |-INFO  [main] org.apache.tomcat.util.net.NioSelectorPool [179] -| Using a shared selector for servlet write/read
+2018-06-07 14:52:45.929 |-INFO  [main] org.springframework.boot.context.embedded.tomcat.TomcatEmbeddedServletContainer [201] -| Tomcat started on port(s): 8000 (http)
+2018-06-07 14:52:45.935 |-INFO  [main] com.pay.PayApplication [57] -| Started PayApplication in 10.463 seconds (JVM running for 11.079)
+2018-06-07 14:53:23.562 |-INFO  [http-nio-8000-exec-2] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/pay] [179] -| Initializing Spring FrameworkServlet 'dispatcherServlet'
+2018-06-07 14:53:23.562 |-INFO  [http-nio-8000-exec-2] org.springframework.web.servlet.DispatcherServlet [489] -| FrameworkServlet 'dispatcherServlet': initialization started
+2018-06-07 14:53:23.592 |-INFO  [http-nio-8000-exec-2] org.springframework.web.servlet.DispatcherServlet [508] -| FrameworkServlet 'dispatcherServlet': initialization completed in 30 ms
+2018-06-07 14:53:26.337 |-INFO  [http-nio-8000-exec-3] org.apache.tomcat.util.http.parser.Cookie [179] -| A cookie header was received [40bd001563085fc35165329ea1ff5c5ecbdbbeef; JSESSIONID=9576EE37AA416D3EAF0B30F3CBF8EA4B; Idea-597f8618=3994a678-f712-4f8c-8349-95d1a34be096; _ga=GA1.1.875277425.1508403715; bdshare_firstime=1513332715028; PHPSESSID=kra4935n0btpp943piibsfb6r3] that contained an invalid cookie. That cookie will be ignored.Note: further occurrences of this error will be logged at DEBUG level.
+2018-06-07 14:53:29.029 |-DEBUG [http-nio-8000-exec-8] com.pay.mapper.GivenInvoiceMapper.findAll_COUNT [159] -| ==>  Preparing: SELECT count(0) FROM T_GivenInvoice 
+2018-06-07 14:53:29.035 |-DEBUG [http-nio-8000-exec-8] com.pay.mapper.GivenInvoiceMapper.findAll_COUNT [159] -| ==> Parameters: 
+2018-06-07 14:53:29.047 |-DEBUG [http-nio-8000-exec-8] com.pay.mapper.GivenInvoiceMapper.findAll_COUNT [159] -| <==      Total: 1
+2018-06-07 14:53:29.051 |-DEBUG [http-nio-8000-exec-8] com.pay.mapper.GivenInvoiceMapper.findAll [159] -| ==>  Preparing: SELECT TOP 10 * FROM (SELECT ROW_NUMBER() OVER ( ORDER BY kprq DESC) PAGE_ROW_NUMBER, * FROM T_GivenInvoice) AS PAGE_TABLE_ALIAS WHERE PAGE_ROW_NUMBER > 0 ORDER BY PAGE_ROW_NUMBER 
+2018-06-07 14:53:29.052 |-DEBUG [http-nio-8000-exec-8] com.pay.mapper.GivenInvoiceMapper.findAll [159] -| ==> Parameters: 
+2018-06-07 14:53:29.059 |-DEBUG [http-nio-8000-exec-8] com.pay.mapper.GivenInvoiceMapper.findAll [159] -| <==      Total: 10
+2018-06-07 14:53:29.834 |-DEBUG [http-nio-8000-exec-10] com.pay.mapper.InvoiceMapper.findAll_COUNT [159] -| ==>  Preparing: SELECT count(0) FROM T_Invoice a, T_PayInfo b, T_WhiteList c WHERE a.outTradeNo = b.outTradeNo AND b.remoteSysCode = c.remoteSysCode 
+2018-06-07 14:53:29.834 |-DEBUG [http-nio-8000-exec-10] com.pay.mapper.InvoiceMapper.findAll_COUNT [159] -| ==> Parameters: 
+2018-06-07 14:53:29.843 |-DEBUG [http-nio-8000-exec-10] com.pay.mapper.InvoiceMapper.findAll_COUNT [159] -| <==      Total: 1
+2018-06-07 14:53:29.844 |-DEBUG [http-nio-8000-exec-10] com.pay.mapper.InvoiceMapper.findAll [159] -| ==>  Preparing: SELECT TOP 10 *, remoteSysName FROM (SELECT ROW_NUMBER() OVER ( ORDER BY a.isDraw, a.createTime) PAGE_ROW_NUMBER, a.*, c.remoteSysName FROM T_Invoice a, T_PayInfo b, T_WhiteList c WHERE a.outTradeNo = b.outTradeNo AND b.remoteSysCode = c.remoteSysCode) AS PAGE_TABLE_ALIAS WHERE PAGE_ROW_NUMBER > 0 ORDER BY PAGE_ROW_NUMBER 
+2018-06-07 14:53:29.844 |-DEBUG [http-nio-8000-exec-10] com.pay.mapper.InvoiceMapper.findAll [159] -| ==> Parameters: 
+2018-06-07 14:53:29.857 |-DEBUG [http-nio-8000-exec-10] com.pay.mapper.InvoiceMapper.findAll [159] -| <==      Total: 10
+2018-06-07 14:53:31.022 |-DEBUG [http-nio-8000-exec-1] com.pay.mapper.GivenInvoiceMapper.findAll_COUNT [159] -| ==>  Preparing: SELECT count(0) FROM T_GivenInvoice 
+2018-06-07 14:53:31.022 |-DEBUG [http-nio-8000-exec-1] com.pay.mapper.GivenInvoiceMapper.findAll_COUNT [159] -| ==> Parameters: 
+2018-06-07 14:53:31.024 |-DEBUG [http-nio-8000-exec-1] com.pay.mapper.GivenInvoiceMapper.findAll_COUNT [159] -| <==      Total: 1
+2018-06-07 14:53:31.024 |-DEBUG [http-nio-8000-exec-1] com.pay.mapper.GivenInvoiceMapper.findAll [159] -| ==>  Preparing: SELECT TOP 10 * FROM (SELECT ROW_NUMBER() OVER ( ORDER BY kprq DESC) PAGE_ROW_NUMBER, * FROM T_GivenInvoice) AS PAGE_TABLE_ALIAS WHERE PAGE_ROW_NUMBER > 0 ORDER BY PAGE_ROW_NUMBER 
+2018-06-07 14:53:31.024 |-DEBUG [http-nio-8000-exec-1] com.pay.mapper.GivenInvoiceMapper.findAll [159] -| ==> Parameters: 
+2018-06-07 14:53:31.031 |-DEBUG [http-nio-8000-exec-1] com.pay.mapper.GivenInvoiceMapper.findAll [159] -| <==      Total: 10
+2018-06-07 14:53:33.419 |-DEBUG [http-nio-8000-exec-5] com.pay.mapper.InvoiceMapper.findAll_COUNT [159] -| ==>  Preparing: SELECT count(0) FROM T_Invoice a, T_PayInfo b, T_WhiteList c WHERE a.outTradeNo = b.outTradeNo AND b.remoteSysCode = c.remoteSysCode 
+2018-06-07 14:53:33.419 |-DEBUG [http-nio-8000-exec-5] com.pay.mapper.InvoiceMapper.findAll_COUNT [159] -| ==> Parameters: 
+2018-06-07 14:53:33.426 |-DEBUG [http-nio-8000-exec-5] com.pay.mapper.InvoiceMapper.findAll_COUNT [159] -| <==      Total: 1
+2018-06-07 14:53:33.427 |-DEBUG [http-nio-8000-exec-5] com.pay.mapper.InvoiceMapper.findAll [159] -| ==>  Preparing: SELECT TOP 10 *, remoteSysName FROM (SELECT ROW_NUMBER() OVER ( ORDER BY a.isDraw, a.createTime) PAGE_ROW_NUMBER, a.*, c.remoteSysName FROM T_Invoice a, T_PayInfo b, T_WhiteList c WHERE a.outTradeNo = b.outTradeNo AND b.remoteSysCode = c.remoteSysCode) AS PAGE_TABLE_ALIAS WHERE PAGE_ROW_NUMBER > 0 ORDER BY PAGE_ROW_NUMBER 
+2018-06-07 14:53:33.428 |-DEBUG [http-nio-8000-exec-5] com.pay.mapper.InvoiceMapper.findAll [159] -| ==> Parameters: 
+2018-06-07 14:53:33.440 |-DEBUG [http-nio-8000-exec-5] com.pay.mapper.InvoiceMapper.findAll [159] -| <==      Total: 10
+2018-06-07 15:36:52.104 |-INFO  [http-nio-8000-exec-8] com.pay.aspect.PayAspect [85] -| 【未登录拦截】 拦截方法：methodName = navigate
+2018-06-07 15:36:54.496 |-DEBUG [http-nio-8000-exec-3] com.pay.mapper.GivenInvoiceMapper.findAll_COUNT [159] -| ==>  Preparing: SELECT count(0) FROM T_GivenInvoice 
+2018-06-07 15:36:54.497 |-DEBUG [http-nio-8000-exec-3] com.pay.mapper.GivenInvoiceMapper.findAll_COUNT [159] -| ==> Parameters: 
+2018-06-07 15:36:54.499 |-DEBUG [http-nio-8000-exec-3] com.pay.mapper.GivenInvoiceMapper.findAll_COUNT [159] -| <==      Total: 1
+2018-06-07 15:36:54.500 |-DEBUG [http-nio-8000-exec-3] com.pay.mapper.GivenInvoiceMapper.findAll [159] -| ==>  Preparing: SELECT TOP 10 * FROM (SELECT ROW_NUMBER() OVER ( ORDER BY kprq DESC) PAGE_ROW_NUMBER, * FROM T_GivenInvoice) AS PAGE_TABLE_ALIAS WHERE PAGE_ROW_NUMBER > 0 ORDER BY PAGE_ROW_NUMBER 
+2018-06-07 15:36:54.501 |-DEBUG [http-nio-8000-exec-3] com.pay.mapper.GivenInvoiceMapper.findAll [159] -| ==> Parameters: 
+2018-06-07 15:36:54.505 |-DEBUG [http-nio-8000-exec-3] com.pay.mapper.GivenInvoiceMapper.findAll [159] -| <==      Total: 10
+2018-06-07 16:22:12.834 |-DEBUG [http-nio-8000-exec-1] com.pay.mapper.InvoiceMapper.findAll_COUNT [159] -| ==>  Preparing: SELECT count(0) FROM T_Invoice a, T_PayInfo b, T_WhiteList c WHERE a.outTradeNo = b.outTradeNo AND b.remoteSysCode = c.remoteSysCode 
+2018-06-07 16:22:12.836 |-DEBUG [http-nio-8000-exec-1] com.pay.mapper.InvoiceMapper.findAll_COUNT [159] -| ==> Parameters: 
+2018-06-07 16:22:12.843 |-DEBUG [http-nio-8000-exec-1] com.pay.mapper.InvoiceMapper.findAll_COUNT [159] -| <==      Total: 1
+2018-06-07 16:22:12.845 |-DEBUG [http-nio-8000-exec-1] com.pay.mapper.InvoiceMapper.findAll [159] -| ==>  Preparing: SELECT TOP 10 *, remoteSysName FROM (SELECT ROW_NUMBER() OVER ( ORDER BY a.isDraw, a.createTime) PAGE_ROW_NUMBER, a.*, c.remoteSysName FROM T_Invoice a, T_PayInfo b, T_WhiteList c WHERE a.outTradeNo = b.outTradeNo AND b.remoteSysCode = c.remoteSysCode) AS PAGE_TABLE_ALIAS WHERE PAGE_ROW_NUMBER > 0 ORDER BY PAGE_ROW_NUMBER 
+2018-06-07 16:22:12.845 |-DEBUG [http-nio-8000-exec-1] com.pay.mapper.InvoiceMapper.findAll [159] -| ==> Parameters: 
+2018-06-07 16:22:12.860 |-DEBUG [http-nio-8000-exec-1] com.pay.mapper.InvoiceMapper.findAll [159] -| <==      Total: 10
+2018-06-07 16:46:38.047 |-DEBUG [http-nio-8000-exec-9] com.pay.mapper.InvoiceMapper.findAll_COUNT [159] -| ==>  Preparing: SELECT count(0) FROM T_Invoice a, T_PayInfo b, T_WhiteList c WHERE a.outTradeNo = b.outTradeNo AND b.remoteSysCode = c.remoteSysCode 
+2018-06-07 16:46:38.048 |-DEBUG [http-nio-8000-exec-9] com.pay.mapper.InvoiceMapper.findAll_COUNT [159] -| ==> Parameters: 
+2018-06-07 16:46:38.054 |-DEBUG [http-nio-8000-exec-9] com.pay.mapper.InvoiceMapper.findAll_COUNT [159] -| <==      Total: 1
+2018-06-07 16:46:38.055 |-DEBUG [http-nio-8000-exec-9] com.pay.mapper.InvoiceMapper.findAll [159] -| ==>  Preparing: SELECT TOP 10 *, remoteSysName FROM (SELECT ROW_NUMBER() OVER ( ORDER BY a.isDraw, a.createTime) PAGE_ROW_NUMBER, a.*, c.remoteSysName FROM T_Invoice a, T_PayInfo b, T_WhiteList c WHERE a.outTradeNo = b.outTradeNo AND b.remoteSysCode = c.remoteSysCode) AS PAGE_TABLE_ALIAS WHERE PAGE_ROW_NUMBER > 0 ORDER BY PAGE_ROW_NUMBER 
+2018-06-07 16:46:38.055 |-DEBUG [http-nio-8000-exec-9] com.pay.mapper.InvoiceMapper.findAll [159] -| ==> Parameters: 
+2018-06-07 16:46:38.064 |-DEBUG [http-nio-8000-exec-9] com.pay.mapper.InvoiceMapper.findAll [159] -| <==      Total: 10
+2018-06-07 16:46:39.504 |-DEBUG [http-nio-8000-exec-2] com.pay.mapper.GivenInvoiceMapper.findAll_COUNT [159] -| ==>  Preparing: SELECT count(0) FROM T_GivenInvoice 
+2018-06-07 16:46:39.505 |-DEBUG [http-nio-8000-exec-2] com.pay.mapper.GivenInvoiceMapper.findAll_COUNT [159] -| ==> Parameters: 
+2018-06-07 16:46:39.506 |-DEBUG [http-nio-8000-exec-2] com.pay.mapper.GivenInvoiceMapper.findAll_COUNT [159] -| <==      Total: 1
+2018-06-07 16:46:39.507 |-DEBUG [http-nio-8000-exec-2] com.pay.mapper.GivenInvoiceMapper.findAll [159] -| ==>  Preparing: SELECT TOP 10 * FROM (SELECT ROW_NUMBER() OVER ( ORDER BY kprq DESC) PAGE_ROW_NUMBER, * FROM T_GivenInvoice) AS PAGE_TABLE_ALIAS WHERE PAGE_ROW_NUMBER > 0 ORDER BY PAGE_ROW_NUMBER 
+2018-06-07 16:46:39.508 |-DEBUG [http-nio-8000-exec-2] com.pay.mapper.GivenInvoiceMapper.findAll [159] -| ==> Parameters: 
+2018-06-07 16:46:39.513 |-DEBUG [http-nio-8000-exec-2] com.pay.mapper.GivenInvoiceMapper.findAll [159] -| <==      Total: 10

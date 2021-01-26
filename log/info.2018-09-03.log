@@ -1,0 +1,374 @@
+2018-09-03 13:58:13.367 |-INFO  [main] com.pay.PayApplication [48] -| Starting PayApplication on yzm with PID 20936 (D:\workspace2\sshapp-pro\pay\target\classes started by www78 in D:\workspace2\sshapp-pro\pay)
+2018-09-03 13:58:13.371 |-INFO  [main] com.pay.PayApplication [597] -| The following profiles are active: dev
+2018-09-03 13:58:13.418 |-INFO  [main] org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext [583] -| Refreshing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@3568f9d2: startup date [Mon Sep 03 13:58:13 CST 2018]; root of context hierarchy
+2018-09-03 13:58:13.600 |-INFO  [background-preinit] org.hibernate.validator.internal.util.Version [30] -| HV000001: Hibernate Validator 5.3.5.Final
+2018-09-03 13:58:15.237 |-INFO  [main] org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker [325] -| Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$b0cf267] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2018-09-03 13:58:15.827 |-INFO  [main] org.springframework.boot.context.embedded.tomcat.TomcatEmbeddedServletContainer [89] -| Tomcat initialized with port(s): 8008 (http)
+2018-09-03 13:58:15.839 |-INFO  [main] org.apache.catalina.core.StandardService [179] -| Starting service [Tomcat]
+2018-09-03 13:58:15.840 |-INFO  [main] org.apache.catalina.core.StandardEngine [179] -| Starting Servlet Engine: Apache Tomcat/8.5.16
+2018-09-03 13:58:15.975 |-INFO  [localhost-startStop-1] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/pay] [179] -| Initializing Spring embedded WebApplicationContext
+2018-09-03 13:58:15.975 |-INFO  [localhost-startStop-1] org.springframework.web.context.ContextLoader [276] -| Root WebApplicationContext: initialization completed in 2557 ms
+2018-09-03 13:58:16.141 |-INFO  [localhost-startStop-1] org.springframework.boot.web.servlet.ServletRegistrationBean [190] -| Mapping servlet: 'dispatcherServlet' to [/]
+2018-09-03 13:58:16.147 |-INFO  [localhost-startStop-1] org.springframework.boot.web.servlet.FilterRegistrationBean [258] -| Mapping filter: 'characterEncodingFilter' to: [/*]
+2018-09-03 13:58:16.147 |-INFO  [localhost-startStop-1] org.springframework.boot.web.servlet.FilterRegistrationBean [258] -| Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2018-09-03 13:58:16.148 |-INFO  [localhost-startStop-1] org.springframework.boot.web.servlet.FilterRegistrationBean [258] -| Mapping filter: 'httpPutFormContentFilter' to: [/*]
+2018-09-03 13:58:16.148 |-INFO  [localhost-startStop-1] org.springframework.boot.web.servlet.FilterRegistrationBean [258] -| Mapping filter: 'requestContextFilter' to: [/*]
+2018-09-03 13:58:20.151 |-INFO  [main] com.pay.PayApplication [48] -| Starting PayApplication on yzm with PID 16656 (D:\workspace2\sshapp-pro\pay\target\classes started by www78 in D:\workspace2\sshapp-pro\pay)
+2018-09-03 13:58:20.154 |-INFO  [main] com.pay.PayApplication [597] -| The following profiles are active: dev
+2018-09-03 13:58:20.194 |-INFO  [main] org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext [583] -| Refreshing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@21b2e768: startup date [Mon Sep 03 13:58:20 CST 2018]; root of context hierarchy
+2018-09-03 13:58:20.304 |-INFO  [background-preinit] org.hibernate.validator.internal.util.Version [30] -| HV000001: Hibernate Validator 5.3.5.Final
+2018-09-03 13:58:21.733 |-INFO  [main] org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker [325] -| Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$4098dc36] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2018-09-03 13:58:22.432 |-INFO  [main] org.springframework.boot.context.embedded.tomcat.TomcatEmbeddedServletContainer [89] -| Tomcat initialized with port(s): 8008 (http)
+2018-09-03 13:58:22.440 |-INFO  [main] org.apache.catalina.core.StandardService [179] -| Starting service [Tomcat]
+2018-09-03 13:58:22.441 |-INFO  [main] org.apache.catalina.core.StandardEngine [179] -| Starting Servlet Engine: Apache Tomcat/8.5.16
+2018-09-03 13:58:22.546 |-INFO  [localhost-startStop-1] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/pay] [179] -| Initializing Spring embedded WebApplicationContext
+2018-09-03 13:58:22.546 |-INFO  [localhost-startStop-1] org.springframework.web.context.ContextLoader [276] -| Root WebApplicationContext: initialization completed in 2352 ms
+2018-09-03 13:58:22.681 |-INFO  [localhost-startStop-1] org.springframework.boot.web.servlet.ServletRegistrationBean [190] -| Mapping servlet: 'dispatcherServlet' to [/]
+2018-09-03 13:58:22.685 |-INFO  [localhost-startStop-1] org.springframework.boot.web.servlet.FilterRegistrationBean [258] -| Mapping filter: 'characterEncodingFilter' to: [/*]
+2018-09-03 13:58:22.686 |-INFO  [localhost-startStop-1] org.springframework.boot.web.servlet.FilterRegistrationBean [258] -| Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2018-09-03 13:58:22.686 |-INFO  [localhost-startStop-1] org.springframework.boot.web.servlet.FilterRegistrationBean [258] -| Mapping filter: 'httpPutFormContentFilter' to: [/*]
+2018-09-03 13:58:22.686 |-INFO  [localhost-startStop-1] org.springframework.boot.web.servlet.FilterRegistrationBean [258] -| Mapping filter: 'requestContextFilter' to: [/*]
+2018-09-03 13:58:23.178 |-INFO  [main] org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [349] -| Building JPA container EntityManagerFactory for persistence unit 'default'
+2018-09-03 13:58:23.190 |-INFO  [main] org.hibernate.jpa.internal.util.LogHelper [31] -| HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2018-09-03 13:58:23.280 |-INFO  [main] org.hibernate.Version [37] -| HHH000412: Hibernate Core {5.0.12.Final}
+2018-09-03 13:58:23.281 |-INFO  [main] org.hibernate.cfg.Environment [213] -| HHH000206: hibernate.properties not found
+2018-09-03 13:58:23.282 |-INFO  [main] org.hibernate.cfg.Environment [317] -| HHH000021: Bytecode provider name : javassist
+2018-09-03 13:58:23.348 |-INFO  [main] org.hibernate.annotations.common.Version [66] -| HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2018-09-03 13:58:23.724 |-INFO  [main] org.hibernate.dialect.Dialect [156] -| HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-09-03 13:58:24.162 |-INFO  [main] org.hibernate.tool.hbm2ddl.SchemaUpdate [105] -| HHH000228: Running hbm2ddl schema update
+2018-09-03 13:58:24.806 |-INFO  [main] org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [379] -| Initialized JPA EntityManagerFactory for persistence unit 'default'
+2018-09-03 13:58:25.429 |-INFO  [main] org.springframework.web.servlet.view.freemarker.FreeMarkerConfigurer [127] -| ClassTemplateLoader for Spring macros added to FreeMarker configuration
+2018-09-03 13:58:25.846 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/alipay/notify],methods=[POST]}" onto public void com.pay.controller.AlipayController.notify(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws java.lang.Exception
+2018-09-03 13:58:25.847 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/alipay/close]}" onto public java.util.Map<java.lang.String, java.lang.Object> com.pay.controller.AlipayController.close(java.lang.String,java.lang.String)
+2018-09-03 13:58:25.848 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/alipay/query]}" onto public java.util.Map<java.lang.String, java.lang.Object> com.pay.controller.AlipayController.query(java.lang.String)
+2018-09-03 13:58:25.848 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/alipay/pay_test]}" onto public void com.pay.controller.AlipayController.doPost(java.lang.String,javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws javax.servlet.ServletException,java.io.IOException
+2018-09-03 13:58:25.848 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/alipay/returnUrl]}" onto public org.springframework.web.servlet.ModelAndView com.pay.controller.AlipayController.returnUrl()
+2018-09-03 13:58:25.849 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/alipay/pay],methods=[POST]}" onto public void com.pay.controller.AlipayController.pay(java.lang.String,java.lang.String,java.lang.String,javax.servlet.http.HttpServletResponse) throws java.lang.Exception
+2018-09-03 13:58:25.849 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/alipay/pay2]}" onto public void com.pay.controller.AlipayController.pay(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,javax.servlet.http.HttpServletResponse) throws java.lang.Exception
+2018-09-03 13:58:25.849 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/alipay/pay_supplier]}" onto public void com.pay.controller.AlipayController.paySupplier(java.lang.String,javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws java.lang.Exception
+2018-09-03 13:58:25.849 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/alipay/refund]}" onto public java.util.Map<java.lang.String, java.lang.Object> com.pay.controller.AlipayController.refund(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String) throws java.lang.Exception
+2018-09-03 13:58:25.850 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/alipay/query_refund]}" onto public java.util.Map<java.lang.String, java.lang.Object> com.pay.controller.AlipayController.queryRefund(java.lang.String,java.lang.String) throws java.lang.Exception
+2018-09-03 13:58:25.850 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/alipay/my_notify]}" onto public java.util.Map<java.lang.String, java.lang.Object> com.pay.controller.AlipayController.myNotify(java.lang.String)
+2018-09-03 13:58:25.851 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/alipay/download_bill]}" onto public java.util.Map<java.lang.String, java.lang.Object> com.pay.controller.AlipayController.downloadBill(java.lang.String,java.lang.String,javax.servlet.http.HttpServletResponse) throws java.lang.Exception
+2018-09-03 13:58:25.852 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/appParam/save],methods=[POST]}" onto public com.pay.vo.ResponseVO com.pay.controller.AppParamController.save(java.lang.Long,java.lang.String)
+2018-09-03 13:58:25.853 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/appParam/query_all],methods=[GET]}" onto public java.util.Map<java.lang.String, java.lang.Object> com.pay.controller.AppParamController.queryAll(java.lang.Integer,java.lang.Integer)
+2018-09-03 13:58:25.853 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/appParam/query_one],methods=[GET]}" onto public com.pay.vo.ResponseVO com.pay.controller.AppParamController.queryOne(java.lang.String)
+2018-09-03 13:58:25.855 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/common/index],methods=[GET]}" onto public org.springframework.web.servlet.ModelAndView com.pay.controller.CommonController.index(javax.servlet.http.HttpServletRequest)
+2018-09-03 13:58:25.855 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/common/login],methods=[POST]}" onto public com.pay.vo.ResponseVO com.pay.controller.CommonController.login(com.pay.entity.User,javax.servlet.http.HttpServletRequest)
+2018-09-03 13:58:25.855 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/common/show_login],methods=[GET]}" onto public org.springframework.web.servlet.ModelAndView com.pay.controller.CommonController.showLogin(javax.servlet.http.HttpServletRequest)
+2018-09-03 13:58:25.855 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/common/show_register],methods=[GET]}" onto public org.springframework.web.servlet.ModelAndView com.pay.controller.CommonController.showRegister(javax.servlet.http.HttpServletRequest)
+2018-09-03 13:58:25.856 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/common/register_by_email],methods=[POST]}" onto public com.pay.vo.ResponseVO com.pay.controller.CommonController.registerByEmail(com.pay.entity.User)
+2018-09-03 13:58:25.856 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/common/register_by_phone],methods=[POST]}" onto public com.pay.vo.ResponseVO com.pay.controller.CommonController.registerByPhone(com.pay.entity.User,javax.servlet.http.HttpServletRequest)
+2018-09-03 13:58:25.856 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/common/logout],methods=[GET]}" onto public void com.pay.controller.CommonController.logout(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws java.lang.Exception
+2018-09-03 13:58:25.856 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/common/navigate],methods=[GET]}" onto public org.springframework.web.servlet.ModelAndView com.pay.controller.CommonController.navigate(java.lang.String,javax.servlet.http.HttpServletRequest)
+2018-09-03 13:58:25.857 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/givenInvoice/save]}" onto public org.springframework.web.servlet.ModelAndView com.pay.controller.GivenInvoiceController.save(com.pay.entity.GivenInvoice)
+2018-09-03 13:58:25.857 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/givenInvoice/query_all]}" onto public java.util.Map<java.lang.String, java.lang.Object> com.pay.controller.GivenInvoiceController.queryAll(java.lang.Integer,java.lang.Integer,java.lang.String)
+2018-09-03 13:58:25.858 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/givenInvoice/modify]}" onto public org.springframework.web.servlet.ModelAndView com.pay.controller.GivenInvoiceController.modify(com.pay.entity.GivenInvoice)
+2018-09-03 13:58:25.858 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/]}" onto public java.lang.String com.pay.controller.IndexController.index()
+2018-09-03 13:58:25.859 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/invoice/toXml],methods=[POST]}" onto public void com.pay.controller.InvoiceController.generate(java.lang.String,javax.servlet.http.HttpServletResponse) throws java.lang.Exception
+2018-09-03 13:58:25.860 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/invoice/query_all],methods=[GET]}" onto public java.util.Map<java.lang.String, java.lang.Object> com.pay.controller.InvoiceController.queryAll(java.lang.Integer,java.lang.Integer,java.lang.String)
+2018-09-03 13:58:25.860 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/invoice/toExcel],methods=[POST]}" onto public void com.pay.controller.InvoiceController.invoice2Word(java.lang.String,javax.servlet.http.HttpServletResponse) throws java.lang.Exception
+2018-09-03 13:58:25.860 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/invoice/unDraw_toExcel],methods=[POST]}" onto public void com.pay.controller.InvoiceController.unDraw2Excel(javax.servlet.http.HttpServletResponse) throws java.lang.Exception
+2018-09-03 13:58:25.860 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/invoice/importExcel],methods=[POST]}" onto public com.pay.vo.ResponseVO com.pay.controller.InvoiceController.importExcel(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws java.lang.Exception
+2018-09-03 13:58:25.861 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/invoice/save_header],methods=[POST]}" onto public java.util.Map<java.lang.String, java.lang.Object> com.pay.controller.InvoiceController.saveHeader(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String) throws java.lang.Exception
+2018-09-03 13:58:25.861 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/payInfo/query_trade_success]}" onto public java.util.Map<java.lang.String, java.lang.Object> com.pay.controller.PayInfoController.queryTradeSuccess(java.lang.Integer,java.lang.Integer,com.pay.entity.PayInfo)
+2018-09-03 13:58:25.862 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/sms/send_code],methods=[POST]}" onto public com.pay.vo.ResponseVO com.pay.controller.SmsController.sendCode(java.lang.String)
+2018-09-03 13:58:25.862 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/user/save],methods=[POST]}" onto public org.springframework.web.servlet.ModelAndView com.pay.controller.UserController.save(com.pay.entity.User,org.apache.catalina.servlet4preview.http.HttpServletRequest)
+2018-09-03 13:58:25.863 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/user/query_by_username],methods=[GET]}" onto public com.pay.vo.ResponseVO com.pay.controller.UserController.queryByUsername(java.lang.String)
+2018-09-03 13:58:25.864 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/whiteList/delete],methods=[GET]}" onto public void com.pay.controller.WhiteListController.delete(java.lang.Long)
+2018-09-03 13:58:25.864 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/whiteList/save],methods=[POST]}" onto public org.springframework.web.servlet.ModelAndView com.pay.controller.WhiteListController.save(com.pay.entity.WhiteList)
+2018-09-03 13:58:25.864 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/whiteList/query_all],methods=[GET]}" onto public java.util.Map<java.lang.String, java.lang.Object> com.pay.controller.WhiteListController.queryAll(java.lang.Integer,java.lang.Integer,org.apache.catalina.servlet4preview.http.HttpServletRequest)
+2018-09-03 13:58:25.866 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/v2/api-docs],methods=[GET],produces=[application/json || application/hal+json]}" onto public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)
+2018-09-03 13:58:25.868 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/swagger-resources/configuration/security]}" onto org.springframework.http.ResponseEntity<springfox.documentation.swagger.web.SecurityConfiguration> springfox.documentation.swagger.web.ApiResourceController.securityConfiguration()
+2018-09-03 13:58:25.868 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/swagger-resources]}" onto org.springframework.http.ResponseEntity<java.util.List<springfox.documentation.swagger.web.SwaggerResource>> springfox.documentation.swagger.web.ApiResourceController.swaggerResources()
+2018-09-03 13:58:25.869 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/swagger-resources/configuration/ui]}" onto org.springframework.http.ResponseEntity<springfox.documentation.swagger.web.UiConfiguration> springfox.documentation.swagger.web.ApiResourceController.uiConfiguration()
+2018-09-03 13:58:25.870 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+2018-09-03 13:58:25.871 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2018-09-03 13:58:26.138 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter [534] -| Looking for @ControllerAdvice: org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@21b2e768: startup date [Mon Sep 03 13:58:20 CST 2018]; root of context hierarchy
+2018-09-03 13:58:26.189 |-INFO  [main] org.springframework.web.servlet.handler.SimpleUrlHandlerMapping [362] -| Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2018-09-03 13:58:26.190 |-INFO  [main] org.springframework.web.servlet.handler.SimpleUrlHandlerMapping [362] -| Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2018-09-03 13:58:26.205 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.ExceptionHandlerExceptionResolver [273] -| Detected @ExceptionHandler methods in globalControllerExceptionHandler
+2018-09-03 13:58:26.225 |-INFO  [main] org.springframework.web.servlet.handler.SimpleUrlHandlerMapping [362] -| Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2018-09-03 13:58:26.499 |-INFO  [main] org.springframework.jmx.export.annotation.AnnotationMBeanExporter [431] -| Registering beans for JMX exposure on startup
+2018-09-03 13:58:26.509 |-INFO  [main] org.springframework.context.support.DefaultLifecycleProcessor [343] -| Starting beans in phase 2147483647
+2018-09-03 13:58:26.510 |-INFO  [main] springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [120] -| Context refreshed
+2018-09-03 13:58:26.526 |-INFO  [main] springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [123] -| Found 1 custom documentation plugin(s)
+2018-09-03 13:58:26.538 |-INFO  [main] springfox.documentation.spring.web.scanners.ApiListingReferenceScanner [41] -| Scanning for api listing references
+2018-09-03 13:58:26.824 |-INFO  [main] springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator [40] -| Generating unique operation named: payUsingPOST_1
+2018-09-03 13:58:27.142 |-INFO  [main] springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator [40] -| Generating unique operation named: saveUsingPOST_1
+2018-09-03 13:58:27.184 |-INFO  [main] springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator [40] -| Generating unique operation named: saveUsingPOST_2
+2018-09-03 13:58:27.190 |-INFO  [main] springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator [40] -| Generating unique operation named: queryAllUsingGET_1
+2018-09-03 13:58:27.193 |-INFO  [main] springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator [40] -| Generating unique operation named: saveUsingPOST_3
+2018-09-03 13:58:27.233 |-INFO  [main] org.hibernate.hql.internal.QueryTranslatorFactoryInitiator [47] -| HHH000397: Using ASTQueryTranslatorFactory
+2018-09-03 13:58:27.334 |-INFO  [main] org.apache.coyote.http11.Http11NioProtocol [179] -| Initializing ProtocolHandler ["http-nio-8008"]
+2018-09-03 13:58:27.345 |-INFO  [main] org.apache.coyote.http11.Http11NioProtocol [179] -| Starting ProtocolHandler ["http-nio-8008"]
+2018-09-03 13:58:27.358 |-INFO  [main] org.apache.tomcat.util.net.NioSelectorPool [179] -| Using a shared selector for servlet write/read
+2018-09-03 13:58:27.374 |-INFO  [main] org.springframework.boot.context.embedded.tomcat.TomcatEmbeddedServletContainer [201] -| Tomcat started on port(s): 8008 (http)
+2018-09-03 13:58:27.380 |-INFO  [main] com.pay.PayApplication [57] -| Started PayApplication in 8.036 seconds (JVM running for 8.551)
+2018-09-03 14:06:13.869 |-INFO  [http-nio-8008-exec-1] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/pay] [179] -| Initializing Spring FrameworkServlet 'dispatcherServlet'
+2018-09-03 14:06:13.869 |-INFO  [http-nio-8008-exec-1] org.springframework.web.servlet.DispatcherServlet [489] -| FrameworkServlet 'dispatcherServlet': initialization started
+2018-09-03 14:06:13.888 |-INFO  [http-nio-8008-exec-1] org.springframework.web.servlet.DispatcherServlet [508] -| FrameworkServlet 'dispatcherServlet': initialization completed in 19 ms
+2018-09-03 14:12:45.349 |-INFO  [http-nio-8008-exec-5] com.pay.aspect.PayAspect [65] -| 【访客验证】 合法访问：ip = 192.168.1.131 ,port = 54062 ,remoteSysName = 供应商平台测试,methodName = pay ,args = [null, null, http://192.168.1.131:8090/run/interface/callback_pay_state, GYS2018090314124555, 0.01, 供应商平台耗材功能年费(1家医院)-苏州双银医疗器械有限公司, null, null, null, null, null, null, null, org.apache.catalina.connector.ResponseFacade@e2b770a] 
+2018-09-03 14:12:45.389 |-INFO  [http-nio-8008-exec-5] com.pay.service.AlipayService [146] -| 【支付请求参数】 bizContent = {
+  "out_trade_no": "GYS2018090314124555",
+  "total_amount": "0.01",
+  "subject": "供应商平台耗材功能年费(1家医院)-苏州双银医疗器械有限公司",
+  "timeout_express": "90m",
+  "goods_type": "0",
+  "product_code": "FAST_INSTANT_TRADE_PAY"
+}
+2018-09-03 14:12:45.727 |-INFO  [http-nio-8008-exec-2] com.pay.service.AlipayService [146] -| 【支付请求参数】 bizContent = {
+  "out_trade_no": "GYS2018090314124555",
+  "total_amount": "0.01",
+  "subject": "供应商平台耗材功能年费(1家医院)-苏州双银医疗器械有限公司",
+  "timeout_express": "90m",
+  "goods_type": "0",
+  "product_code": "FAST_INSTANT_TRADE_PAY"
+}
+2018-09-03 14:13:41.193 |-INFO  [http-nio-8008-exec-10] com.pay.aspect.PayAspect [65] -| 【访客验证】 合法访问：ip = 192.168.1.131 ,port = 54114 ,remoteSysName = 供应商平台测试,methodName = pay ,args = [null, null, http://192.168.1.131:8090/run/interface/callback_pay_state, GYS2018090314134155, 0.01, 供应商平台耗材功能年费(1家医院)-苏州双银医疗器械有限公司, null, null, null, null, null, null, null, org.apache.catalina.connector.ResponseFacade@e2b770a] 
+2018-09-03 14:13:41.200 |-INFO  [http-nio-8008-exec-10] com.pay.service.AlipayService [146] -| 【支付请求参数】 bizContent = {
+  "out_trade_no": "GYS2018090314134155",
+  "total_amount": "0.01",
+  "subject": "供应商平台耗材功能年费(1家医院)-苏州双银医疗器械有限公司",
+  "timeout_express": "90m",
+  "goods_type": "0",
+  "product_code": "FAST_INSTANT_TRADE_PAY"
+}
+2018-09-03 14:13:41.324 |-INFO  [http-nio-8008-exec-3] com.pay.service.AlipayService [146] -| 【支付请求参数】 bizContent = {
+  "out_trade_no": "GYS2018090314134155",
+  "total_amount": "0.01",
+  "subject": "供应商平台耗材功能年费(1家医院)-苏州双银医疗器械有限公司",
+  "timeout_express": "90m",
+  "goods_type": "0",
+  "product_code": "FAST_INSTANT_TRADE_PAY"
+}
+2018-09-03 14:14:16.071 |-INFO  [http-nio-8008-exec-5] com.pay.aspect.PayAspect [65] -| 【访客验证】 合法访问：ip = 192.168.1.131 ,port = 54144 ,remoteSysName = 供应商平台测试,methodName = pay ,args = [null, null, http://192.168.1.131:8090/run/interface/callback_pay_state, GYS2018090314141655, 0.01, 供应商平台耗材功能年费(1家医院)-苏州双银医疗器械有限公司, null, null, null, null, null, null, null, org.apache.catalina.connector.ResponseFacade@e2b770a] 
+2018-09-03 14:14:16.074 |-INFO  [http-nio-8008-exec-5] com.pay.service.AlipayService [146] -| 【支付请求参数】 bizContent = {
+  "out_trade_no": "GYS2018090314141655",
+  "total_amount": "0.01",
+  "subject": "供应商平台耗材功能年费(1家医院)-苏州双银医疗器械有限公司",
+  "timeout_express": "90m",
+  "goods_type": "0",
+  "product_code": "FAST_INSTANT_TRADE_PAY"
+}
+2018-09-03 14:14:16.134 |-INFO  [http-nio-8008-exec-2] com.pay.service.AlipayService [146] -| 【支付请求参数】 bizContent = {
+  "out_trade_no": "GYS2018090314141655",
+  "total_amount": "0.01",
+  "subject": "供应商平台耗材功能年费(1家医院)-苏州双银医疗器械有限公司",
+  "timeout_express": "90m",
+  "goods_type": "0",
+  "product_code": "FAST_INSTANT_TRADE_PAY"
+}
+2018-09-03 14:21:47.160 |-INFO  [http-nio-8008-exec-10] com.pay.aspect.PayAspect [65] -| 【访客验证】 合法访问：ip = 192.168.1.122 ,port = 53377 ,remoteSysName = 1,methodName = pay ,args = [null, null, http://192.168.1.122:8080/supply/interface/callback_pay_state, GYS20180903142142162162, 0.01, 供应商平台耗材功能年费(1家医院)-龙鼎医疗器械, null, null, null, null, null, null, null, org.apache.catalina.connector.ResponseFacade@139583fa] 
+2018-09-03 14:21:47.165 |-INFO  [http-nio-8008-exec-10] com.pay.service.AlipayService [146] -| 【支付请求参数】 bizContent = {
+  "out_trade_no": "GYS20180903142142162162",
+  "total_amount": "0.01",
+  "subject": "供应商平台耗材功能年费(1家医院)-龙鼎医疗器械",
+  "timeout_express": "90m",
+  "goods_type": "0",
+  "product_code": "FAST_INSTANT_TRADE_PAY"
+}
+2018-09-03 14:22:07.295 |-INFO  [http-nio-8008-exec-9] com.pay.aspect.PayAspect [65] -| 【访客验证】 合法访问：ip = 192.168.1.122 ,port = 53419 ,remoteSysName = 1,methodName = pay ,args = [null, null, http://192.168.1.122:8080/supply/interface/callback_pay_state, GYS20180903142203162162, 0.01, 供应商平台耗材功能年费(1家医院)-龙鼎医疗器械, null, null, null, null, null, null, null, org.apache.catalina.connector.ResponseFacade@139583fa] 
+2018-09-03 14:22:07.301 |-INFO  [http-nio-8008-exec-9] com.pay.service.AlipayService [146] -| 【支付请求参数】 bizContent = {
+  "out_trade_no": "GYS20180903142203162162",
+  "total_amount": "0.01",
+  "subject": "供应商平台耗材功能年费(1家医院)-龙鼎医疗器械",
+  "timeout_express": "90m",
+  "goods_type": "0",
+  "product_code": "FAST_INSTANT_TRADE_PAY"
+}
+2018-09-03 14:22:07.458 |-INFO  [http-nio-8008-exec-6] com.pay.service.AlipayService [146] -| 【支付请求参数】 bizContent = {
+  "out_trade_no": "GYS20180903142203162162",
+  "total_amount": "0.01",
+  "subject": "供应商平台耗材功能年费(1家医院)-龙鼎医疗器械",
+  "timeout_express": "90m",
+  "goods_type": "0",
+  "product_code": "FAST_INSTANT_TRADE_PAY"
+}
+2018-09-03 14:29:24.081 |-INFO  [http-nio-8008-exec-8] com.pay.aspect.PayAspect [65] -| 【访客验证】 合法访问：ip = 192.168.1.122 ,port = 54549 ,remoteSysName = 1,methodName = pay ,args = [null, null, http://192.168.1.122:8080/supply/interface/callback_pay_state, GYS2018090314291955, 0.01, 供应商平台耗材功能年费(1家医院)-苏州双银医疗器械有限公司, null, null, null, null, null, null, null, org.apache.catalina.connector.ResponseFacade@139583fa] 
+2018-09-03 14:29:24.084 |-INFO  [http-nio-8008-exec-8] com.pay.service.AlipayService [146] -| 【支付请求参数】 bizContent = {
+  "out_trade_no": "GYS2018090314291955",
+  "total_amount": "0.01",
+  "subject": "供应商平台耗材功能年费(1家医院)-苏州双银医疗器械有限公司",
+  "timeout_express": "90m",
+  "goods_type": "0",
+  "product_code": "FAST_INSTANT_TRADE_PAY"
+}
+2018-09-03 14:29:24.212 |-INFO  [http-nio-8008-exec-3] com.pay.service.AlipayService [146] -| 【支付请求参数】 bizContent = {
+  "out_trade_no": "GYS2018090314291955",
+  "total_amount": "0.01",
+  "subject": "供应商平台耗材功能年费(1家医院)-苏州双银医疗器械有限公司",
+  "timeout_express": "90m",
+  "goods_type": "0",
+  "product_code": "FAST_INSTANT_TRADE_PAY"
+}
+2018-09-03 14:34:34.215 |-INFO  [http-nio-8008-exec-4] com.pay.aspect.PayAspect [65] -| 【访客验证】 合法访问：ip = 192.168.1.122 ,port = 55305 ,remoteSysName = 1,methodName = pay ,args = [null, null, http://192.168.1.122:8080/supply/interface/callback_pay_state, GYS2018090314342955, 0.01, 供应商平台耗材功能年费(1家医院)-苏州双银医疗器械有限公司, null, null, null, null, null, null, null, org.apache.catalina.connector.ResponseFacade@139583fa] 
+2018-09-03 14:34:34.219 |-INFO  [http-nio-8008-exec-4] com.pay.service.AlipayService [146] -| 【支付请求参数】 bizContent = {
+  "out_trade_no": "GYS2018090314342955",
+  "total_amount": "0.01",
+  "subject": "供应商平台耗材功能年费(1家医院)-苏州双银医疗器械有限公司",
+  "timeout_express": "90m",
+  "goods_type": "0",
+  "product_code": "FAST_INSTANT_TRADE_PAY"
+}
+2018-09-03 14:34:34.349 |-INFO  [http-nio-8008-exec-8] com.pay.service.AlipayService [146] -| 【支付请求参数】 bizContent = {
+  "out_trade_no": "GYS2018090314342955",
+  "total_amount": "0.01",
+  "subject": "供应商平台耗材功能年费(1家医院)-苏州双银医疗器械有限公司",
+  "timeout_express": "90m",
+  "goods_type": "0",
+  "product_code": "FAST_INSTANT_TRADE_PAY"
+}
+2018-09-03 14:43:07.403 |-INFO  [http-nio-8008-exec-1] com.pay.aspect.PayAspect [65] -| 【访客验证】 合法访问：ip = 192.168.1.122 ,port = 56349 ,remoteSysName = 1,methodName = pay ,args = [null, null, http://192.168.1.122:8080/supply/interface/callback_pay_state, GYS2018090314430355, 0.01, 供应商平台耗材功能年费(1家医院)-苏州双银医疗器械有限公司, null, null, null, null, null, null, null, org.apache.catalina.connector.ResponseFacade@139583fa] 
+2018-09-03 14:43:07.406 |-INFO  [http-nio-8008-exec-1] com.pay.service.AlipayService [146] -| 【支付请求参数】 bizContent = {
+  "out_trade_no": "GYS2018090314430355",
+  "total_amount": "0.01",
+  "subject": "供应商平台耗材功能年费(1家医院)-苏州双银医疗器械有限公司",
+  "timeout_express": "90m",
+  "goods_type": "0",
+  "product_code": "FAST_INSTANT_TRADE_PAY"
+}
+2018-09-03 14:43:07.581 |-INFO  [http-nio-8008-exec-2] com.pay.service.AlipayService [146] -| 【支付请求参数】 bizContent = {
+  "out_trade_no": "GYS2018090314430355",
+  "total_amount": "0.01",
+  "subject": "供应商平台耗材功能年费(1家医院)-苏州双银医疗器械有限公司",
+  "timeout_express": "90m",
+  "goods_type": "0",
+  "product_code": "FAST_INSTANT_TRADE_PAY"
+}
+2018-09-03 14:44:19.481 |-INFO  [http-nio-8008-exec-8] com.pay.aspect.PayAspect [65] -| 【访客验证】 合法访问：ip = 192.168.1.122 ,port = 56540 ,remoteSysName = 1,methodName = pay ,args = [null, null, http://192.168.1.122:8080/supply/interface/callback_pay_state, GYS2018090314435755, 0.01, 供应商平台耗材功能年费(1家医院)-苏州双银医疗器械有限公司, null, null, null, null, null, null, null, org.apache.catalina.connector.ResponseFacade@139583fa] 
+2018-09-03 14:44:19.483 |-INFO  [http-nio-8008-exec-8] com.pay.service.AlipayService [146] -| 【支付请求参数】 bizContent = {
+  "out_trade_no": "GYS2018090314435755",
+  "total_amount": "0.01",
+  "subject": "供应商平台耗材功能年费(1家医院)-苏州双银医疗器械有限公司",
+  "timeout_express": "90m",
+  "goods_type": "0",
+  "product_code": "FAST_INSTANT_TRADE_PAY"
+}
+2018-09-03 14:44:52.974 |-INFO  [http-nio-8008-exec-6] com.pay.service.AlipayService [146] -| 【支付请求参数】 bizContent = {
+  "out_trade_no": "GYS2018090314435755",
+  "total_amount": "0.01",
+  "subject": "供应商平台耗材功能年费(1家医院)-苏州双银医疗器械有限公司",
+  "timeout_express": "90m",
+  "goods_type": "0",
+  "product_code": "FAST_INSTANT_TRADE_PAY"
+}
+2018-09-03 14:46:23.825 |-INFO  [http-nio-8008-exec-2] com.pay.aspect.PayAspect [65] -| 【访客验证】 合法访问：ip = 192.168.1.122 ,port = 56875 ,remoteSysName = 1,methodName = pay ,args = [null, null, http://192.168.1.122:8080/supply/interface/callback_pay_state, GYS201809031446176767, 0.01, 供应商平台耗材功能年费(1家医院)-南京英甲科技有限公司, null, null, null, null, null, null, null, org.apache.catalina.connector.ResponseFacade@139583fa] 
+2018-09-03 14:46:23.830 |-INFO  [http-nio-8008-exec-2] com.pay.service.AlipayService [146] -| 【支付请求参数】 bizContent = {
+  "out_trade_no": "GYS201809031446176767",
+  "total_amount": "0.01",
+  "subject": "供应商平台耗材功能年费(1家医院)-南京英甲科技有限公司",
+  "timeout_express": "90m",
+  "goods_type": "0",
+  "product_code": "FAST_INSTANT_TRADE_PAY"
+}
+2018-09-03 14:46:23.993 |-INFO  [http-nio-8008-exec-4] com.pay.service.AlipayService [146] -| 【支付请求参数】 bizContent = {
+  "out_trade_no": "GYS201809031446176767",
+  "total_amount": "0.01",
+  "subject": "供应商平台耗材功能年费(1家医院)-南京英甲科技有限公司",
+  "timeout_express": "90m",
+  "goods_type": "0",
+  "product_code": "FAST_INSTANT_TRADE_PAY"
+}
+2018-09-03 14:49:53.380 |-INFO  [http-nio-8008-exec-9] com.pay.aspect.PayAspect [65] -| 【访客验证】 合法访问：ip = 192.168.1.122 ,port = 57333 ,remoteSysName = 1,methodName = pay ,args = [null, null, http://192.168.1.122:8080/supply/interface/callback_pay_state, GYS201809031449446767, 0.01, 供应商平台耗材功能年费(1家医院)-南京英甲科技有限公司, null, null, null, null, null, null, null, org.apache.catalina.connector.ResponseFacade@139583fa] 
+2018-09-03 14:49:53.382 |-INFO  [http-nio-8008-exec-9] com.pay.service.AlipayService [146] -| 【支付请求参数】 bizContent = {
+  "out_trade_no": "GYS201809031449446767",
+  "total_amount": "0.01",
+  "subject": "供应商平台耗材功能年费(1家医院)-南京英甲科技有限公司",
+  "timeout_express": "90m",
+  "goods_type": "0",
+  "product_code": "FAST_INSTANT_TRADE_PAY"
+}
+2018-09-03 14:50:31.379 |-INFO  [http-nio-8008-exec-6] com.pay.service.AlipayService [146] -| 【支付请求参数】 bizContent = {
+  "out_trade_no": "GYS201809031449446767",
+  "total_amount": "0.01",
+  "subject": "供应商平台耗材功能年费(1家医院)-南京英甲科技有限公司",
+  "timeout_express": "90m",
+  "goods_type": "0",
+  "product_code": "FAST_INSTANT_TRADE_PAY"
+}
+2018-09-03 14:51:20.338 |-INFO  [http-nio-8008-exec-1] com.pay.service.AlipayService [146] -| 【支付请求参数】 bizContent = {
+  "out_trade_no": "GYS201809031449446767",
+  "total_amount": "0.01",
+  "subject": "供应商平台耗材功能年费(1家医院)-南京英甲科技有限公司",
+  "timeout_express": "90m",
+  "goods_type": "0",
+  "product_code": "FAST_INSTANT_TRADE_PAY"
+}
+2018-09-03 15:19:03.473 |-INFO  [http-nio-8008-exec-7] com.pay.service.AlipayService [146] -| 【支付请求参数】 bizContent = {
+  "out_trade_no": "GYS201809031449446767",
+  "total_amount": "0.01",
+  "subject": "供应商平台耗材功能年费(1家医院)-南京英甲科技有限公司",
+  "timeout_express": "90m",
+  "goods_type": "0",
+  "product_code": "FAST_INSTANT_TRADE_PAY"
+}
+2018-09-03 16:42:09.094 |-INFO  [http-nio-8008-exec-4] com.pay.aspect.PayAspect [65] -| 【访客验证】 合法访问：ip = 192.168.1.131 ,port = 57700 ,remoteSysName = 供应商平台测试,methodName = pay ,args = [null, null, http://192.168.1.131:8090/run/interface/callback_pay_state, GYS20180903164210162162, 0.01, 供应商平台耗材功能年费(1家医院)-龙鼎医疗器械, null, null, null, null, null, null, null, org.apache.catalina.connector.ResponseFacade@2de270ea] 
+2018-09-03 16:42:09.096 |-INFO  [http-nio-8008-exec-4] com.pay.service.AlipayService [146] -| 【支付请求参数】 bizContent = {
+  "out_trade_no": "GYS20180903164210162162",
+  "total_amount": "0.01",
+  "subject": "供应商平台耗材功能年费(1家医院)-龙鼎医疗器械",
+  "timeout_express": "90m",
+  "goods_type": "0",
+  "product_code": "FAST_INSTANT_TRADE_PAY"
+}
+2018-09-03 16:42:09.219 |-INFO  [http-nio-8008-exec-9] com.pay.service.AlipayService [146] -| 【支付请求参数】 bizContent = {
+  "out_trade_no": "GYS20180903164210162162",
+  "total_amount": "0.01",
+  "subject": "供应商平台耗材功能年费(1家医院)-龙鼎医疗器械",
+  "timeout_express": "90m",
+  "goods_type": "0",
+  "product_code": "FAST_INSTANT_TRADE_PAY"
+}
+2018-09-03 16:43:36.954 |-INFO  [pool-2-thread-1] com.pay.service.AlipayService [250] -| 【异步通知客户端】 开始通知 notifyUrl = http://192.168.1.131:8090/run/interface/callback_pay_state
+2018-09-03 16:43:37.191 |-WARN  [pool-2-thread-1] org.apache.commons.httpclient.HttpMethodBase [682] -| Going to buffer response body of large or unknown size. Using getResponseBodyAsStream instead is recommended.
+2018-09-03 17:18:19.564 |-INFO  [http-nio-8008-exec-8] com.pay.aspect.PayAspect [65] -| 【访客验证】 合法访问：ip = 192.168.1.131 ,port = 58145 ,remoteSysName = 供应商平台测试,methodName = pay ,args = [null, null, http://192.168.1.131:8090/run/interface/callback_pay_state, GYS20180903171820162162, 0.01, 供应商平台耗材功能年费(1家医院)-龙鼎医疗器械, null, null, null, null, null, null, null, org.apache.catalina.connector.ResponseFacade@2de270ea] 
+2018-09-03 17:18:19.569 |-INFO  [http-nio-8008-exec-8] com.pay.service.AlipayService [146] -| 【支付请求参数】 bizContent = {
+  "out_trade_no": "GYS20180903171820162162",
+  "total_amount": "0.01",
+  "subject": "供应商平台耗材功能年费(1家医院)-龙鼎医疗器械",
+  "timeout_express": "90m",
+  "goods_type": "0",
+  "product_code": "FAST_INSTANT_TRADE_PAY"
+}
+2018-09-03 17:18:19.794 |-INFO  [http-nio-8008-exec-3] com.pay.service.AlipayService [146] -| 【支付请求参数】 bizContent = {
+  "out_trade_no": "GYS20180903171820162162",
+  "total_amount": "0.01",
+  "subject": "供应商平台耗材功能年费(1家医院)-龙鼎医疗器械",
+  "timeout_express": "90m",
+  "goods_type": "0",
+  "product_code": "FAST_INSTANT_TRADE_PAY"
+}
+2018-09-03 17:21:58.101 |-INFO  [pool-2-thread-2] com.pay.service.AlipayService [250] -| 【异步通知客户端】 开始通知 notifyUrl = http://192.168.1.131:8090/run/interface/callback_pay_state
+2018-09-03 17:21:58.210 |-WARN  [pool-2-thread-2] org.apache.commons.httpclient.HttpMethodBase [682] -| Going to buffer response body of large or unknown size. Using getResponseBodyAsStream instead is recommended.
+2018-09-03 17:23:17.905 |-INFO  [http-nio-8008-exec-8] com.pay.service.AlipayService [146] -| 【支付请求参数】 bizContent = {
+  "out_trade_no": "GYS201809031449446767",
+  "total_amount": "0.01",
+  "subject": "供应商平台耗材功能年费(1家医院)-南京英甲科技有限公司",
+  "timeout_express": "90m",
+  "goods_type": "0",
+  "product_code": "FAST_INSTANT_TRADE_PAY"
+}
+2018-09-03 17:25:18.854 |-INFO  [http-nio-8008-exec-3] com.pay.service.AlipayService [146] -| 【支付请求参数】 bizContent = {
+  "out_trade_no": "GYS201809031449446767",
+  "total_amount": "0.01",
+  "subject": "供应商平台耗材功能年费(1家医院)-南京英甲科技有限公司",
+  "timeout_express": "90m",
+  "goods_type": "0",
+  "product_code": "FAST_INSTANT_TRADE_PAY"
+}
+2018-09-03 17:37:11.530 |-INFO  [pool-2-thread-3] com.pay.service.AlipayService [250] -| 【异步通知客户端】 开始通知 notifyUrl = http://192.168.1.131:8090/run/interface/callback_pay_state
+2018-09-03 17:37:11.623 |-WARN  [pool-2-thread-3] org.apache.commons.httpclient.HttpMethodBase [682] -| Going to buffer response body of large or unknown size. Using getResponseBodyAsStream instead is recommended.
+2018-09-03 17:37:42.516 |-INFO  [pool-2-thread-4] com.pay.service.AlipayService [250] -| 【异步通知客户端】 开始通知 notifyUrl = http://192.168.1.131:8090/run/interface/callback_pay_state
+2018-09-03 17:37:42.584 |-WARN  [pool-2-thread-4] org.apache.commons.httpclient.HttpMethodBase [682] -| Going to buffer response body of large or unknown size. Using getResponseBodyAsStream instead is recommended.
+2018-09-03 17:38:19.167 |-INFO  [pool-2-thread-5] com.pay.service.AlipayService [250] -| 【异步通知客户端】 开始通知 notifyUrl = http://192.168.1.131:8090/run/interface/callback_pay_state
+2018-09-03 17:38:19.242 |-WARN  [pool-2-thread-5] org.apache.commons.httpclient.HttpMethodBase [682] -| Going to buffer response body of large or unknown size. Using getResponseBodyAsStream instead is recommended.
+2018-09-03 17:46:20.594 |-INFO  [pool-2-thread-6] com.pay.service.AlipayService [250] -| 【异步通知客户端】 开始通知 notifyUrl = http://192.168.1.122:8080/supply/interface/callback_pay_state
+2018-09-03 17:53:04.357 |-INFO  [pool-2-thread-7] com.pay.service.AlipayService [250] -| 【异步通知客户端】 开始通知 notifyUrl = http://192.168.1.122:8080/supply/interface/callback_pay_state
+2018-09-03 17:58:14.675 |-INFO  [pool-2-thread-8] com.pay.service.AlipayService [250] -| 【异步通知客户端】 开始通知 notifyUrl = http://192.168.1.122:8080/supply/interface/callback_pay_state
+2018-09-03 18:07:44.080 |-INFO  [pool-2-thread-9] com.pay.service.AlipayService [250] -| 【异步通知客户端】 开始通知 notifyUrl = http://192.168.1.122:8080/supply/interface/callback_pay_state
+2018-09-03 18:09:15.881 |-INFO  [pool-2-thread-10] com.pay.service.AlipayService [250] -| 【异步通知客户端】 开始通知 notifyUrl = http://192.168.1.122:8080/supply/interface/callback_pay_state
+2018-09-03 18:10:03.209 |-INFO  [pool-2-thread-1] com.pay.service.AlipayService [250] -| 【异步通知客户端】 开始通知 notifyUrl = http://192.168.1.122:8080/supply/interface/callback_pay_state
+2018-09-03 18:14:24.886 |-INFO  [pool-2-thread-2] com.pay.service.AlipayService [250] -| 【异步通知客户端】 开始通知 notifyUrl = http://192.168.1.122:8080/supply/interface/callback_pay_state

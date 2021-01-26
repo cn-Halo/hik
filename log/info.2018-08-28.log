@@ -1,0 +1,17 @@
+2018-08-28 09:09:42.067 |-INFO  [http-nio-8008-exec-1] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/pay] [179] -| Initializing Spring FrameworkServlet 'dispatcherServlet'
+2018-08-28 09:09:42.072 |-INFO  [http-nio-8008-exec-1] org.springframework.web.servlet.DispatcherServlet [489] -| FrameworkServlet 'dispatcherServlet': initialization started
+2018-08-28 09:09:42.111 |-INFO  [http-nio-8008-exec-1] org.springframework.web.servlet.DispatcherServlet [508] -| FrameworkServlet 'dispatcherServlet': initialization completed in 39 ms
+2018-08-28 09:09:42.167 |-INFO  [http-nio-8008-exec-3] org.apache.tomcat.util.http.parser.Cookie [179] -| A cookie header was received [c3686f6f155c9fc1fadf40b813468813c4407e86] that contained an invalid cookie. That cookie will be ignored.Note: further occurrences of this error will be logged at DEBUG level.
+2018-08-28 11:51:29.860 |-INFO  [http-nio-8008-exec-2] org.apache.coyote.http11.Http11Processor [181] -| Error parsing HTTP request header
+ Note: further occurrences of HTTP header parsing errors will be logged at DEBUG level.
+java.lang.IllegalArgumentException: Invalid character found in method name. HTTP method names must be tokens
+	at org.apache.coyote.http11.Http11InputBuffer.parseRequestLine(Http11InputBuffer.java:422)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:683)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1455)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:745)

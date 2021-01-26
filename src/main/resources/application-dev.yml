@@ -1,0 +1,39 @@
+server:
+  port: 9999
+  context-path: /hik
+  tomcat:
+    uri-encoding: UTF-8
+
+spring:
+
+  datasource:
+    driver-class-name: net.sourceforge.jtds.jdbc.Driver
+    url: jdbc:jtds:sqlserver://localhost:1433/hik
+    username: sa
+    password: 123
+
+  jpa:
+    hibernate:
+      ddl-auto: update
+      naming:
+        physical-strategy: org.hibernate.boot.model.naming.PhysicalNamingStrategyStandardImpl
+    show-sql: true
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.SQLServer2008Dialect
+        format-sql: true
+
+
+logging:
+  level:
+    com.pay.mapper: DEBUG
+
+# 鼓楼实验小学
+danwei: \u9f13\u697c\u5b9e\u73b0\u5c0f\u5b66
+personType:
+  teacher: 5b377e4c-636b-413e-b994-91638a7206cb #老师
+  administrative: bcfad062-8f2e-417c-b4bc-37dc069e4971 #行政人员
+  security: d69f770d-df39-49c7-9b7d-ecf63575b6b3 #安保人员
+
+
+

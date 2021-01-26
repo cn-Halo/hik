@@ -1,0 +1,147 @@
+2017-12-28 09:38:58.491 |-INFO  [http-nio-8000-exec-1] org.apache.tomcat.util.http.parser.Cookie [179] -| A cookie header was received [40bd001563085fc35165329ea1ff5c5ecbdbbeef; JSESSIONID=AC3797BBE1581936BAF0B7CF6FEEA1D1; Idea-597f8618=3994a678-f712-4f8c-8349-95d1a34be096; _ga=GA1.1.875277425.1508403715; ys-OOUsername=s%3AAdmin; ys-OOPassword=s%3A12345; ys-check=b%3A1; bdshare_firstime=1513332715028] that contained an invalid cookie. That cookie will be ignored.Note: further occurrences of this error will be logged at DEBUG level.
+2017-12-28 09:38:58.525 |-INFO  [http-nio-8000-exec-1] com.pay.aspect.PayAspect [85] -| 【未登录拦截】 拦截方法：methodName = navigate
+2017-12-28 13:22:58.137 |-INFO  [http-nio-8000-exec-4] com.pay.aspect.PayAspect [85] -| 【未登录拦截】 拦截方法：methodName = navigate
+2017-12-28 13:22:59.166 |-INFO  [http-nio-8000-exec-3] com.pay.aspect.PayAspect [85] -| 【未登录拦截】 拦截方法：methodName = navigate
+2017-12-28 13:32:16.703 |-INFO  [http-nio-8000-exec-8] com.pay.aspect.PayAspect [85] -| 【未登录拦截】 拦截方法：methodName = navigate
+2017-12-28 13:32:17.805 |-INFO  [http-nio-8000-exec-5] com.pay.aspect.PayAspect [85] -| 【未登录拦截】 拦截方法：methodName = navigate
+2017-12-28 13:32:18.091 |-INFO  [http-nio-8000-exec-4] com.pay.aspect.PayAspect [85] -| 【未登录拦截】 拦截方法：methodName = navigate
+2017-12-28 13:32:19.364 |-INFO  [http-nio-8000-exec-6] com.pay.aspect.PayAspect [85] -| 【未登录拦截】 拦截方法：methodName = navigate
+2017-12-28 13:32:19.578 |-INFO  [http-nio-8000-exec-7] com.pay.aspect.PayAspect [85] -| 【未登录拦截】 拦截方法：methodName = navigate
+2017-12-28 13:32:19.781 |-INFO  [http-nio-8000-exec-8] com.pay.aspect.PayAspect [85] -| 【未登录拦截】 拦截方法：methodName = navigate
+2017-12-28 13:32:19.958 |-INFO  [http-nio-8000-exec-5] com.pay.aspect.PayAspect [85] -| 【未登录拦截】 拦截方法：methodName = navigate
+2017-12-28 13:32:20.143 |-INFO  [http-nio-8000-exec-4] com.pay.aspect.PayAspect [85] -| 【未登录拦截】 拦截方法：methodName = navigate
+2017-12-28 13:32:20.336 |-INFO  [http-nio-8000-exec-6] com.pay.aspect.PayAspect [85] -| 【未登录拦截】 拦截方法：methodName = navigate
+2017-12-28 13:32:20.525 |-INFO  [http-nio-8000-exec-7] com.pay.aspect.PayAspect [85] -| 【未登录拦截】 拦截方法：methodName = navigate
+2017-12-28 13:32:20.729 |-INFO  [http-nio-8000-exec-8] com.pay.aspect.PayAspect [85] -| 【未登录拦截】 拦截方法：methodName = navigate
+2017-12-28 13:32:20.897 |-INFO  [http-nio-8000-exec-5] com.pay.aspect.PayAspect [85] -| 【未登录拦截】 拦截方法：methodName = navigate
+2017-12-28 13:32:21.110 |-INFO  [http-nio-8000-exec-4] com.pay.aspect.PayAspect [85] -| 【未登录拦截】 拦截方法：methodName = navigate
+2017-12-28 13:32:21.336 |-INFO  [http-nio-8000-exec-6] com.pay.aspect.PayAspect [85] -| 【未登录拦截】 拦截方法：methodName = navigate
+2017-12-28 13:32:22.601 |-INFO  [http-nio-8000-exec-7] com.pay.aspect.PayAspect [85] -| 【未登录拦截】 拦截方法：methodName = navigate
+2017-12-28 13:32:22.783 |-INFO  [http-nio-8000-exec-9] com.pay.aspect.PayAspect [85] -| 【未登录拦截】 拦截方法：methodName = navigate
+2017-12-28 13:32:22.988 |-INFO  [http-nio-8000-exec-8] com.pay.aspect.PayAspect [85] -| 【未登录拦截】 拦截方法：methodName = navigate
+2017-12-28 13:32:23.212 |-INFO  [http-nio-8000-exec-2] com.pay.aspect.PayAspect [85] -| 【未登录拦截】 拦截方法：methodName = navigate
+2017-12-28 13:32:23.412 |-INFO  [http-nio-8000-exec-4] com.pay.aspect.PayAspect [85] -| 【未登录拦截】 拦截方法：methodName = navigate
+2017-12-28 13:32:23.612 |-INFO  [http-nio-8000-exec-10] com.pay.aspect.PayAspect [85] -| 【未登录拦截】 拦截方法：methodName = navigate
+2017-12-28 13:32:23.763 |-INFO  [http-nio-8000-exec-9] com.pay.aspect.PayAspect [85] -| 【未登录拦截】 拦截方法：methodName = navigate
+2017-12-28 13:32:23.978 |-INFO  [http-nio-8000-exec-8] com.pay.aspect.PayAspect [85] -| 【未登录拦截】 拦截方法：methodName = navigate
+2017-12-28 13:32:24.148 |-INFO  [http-nio-8000-exec-2] com.pay.aspect.PayAspect [85] -| 【未登录拦截】 拦截方法：methodName = navigate
+2017-12-28 13:32:24.335 |-INFO  [http-nio-8000-exec-4] com.pay.aspect.PayAspect [85] -| 【未登录拦截】 拦截方法：methodName = navigate
+2017-12-28 13:32:24.508 |-INFO  [http-nio-8000-exec-10] com.pay.aspect.PayAspect [85] -| 【未登录拦截】 拦截方法：methodName = navigate
+2017-12-28 13:32:24.707 |-INFO  [http-nio-8000-exec-9] com.pay.aspect.PayAspect [85] -| 【未登录拦截】 拦截方法：methodName = navigate
+2017-12-28 13:32:24.882 |-INFO  [http-nio-8000-exec-8] com.pay.aspect.PayAspect [85] -| 【未登录拦截】 拦截方法：methodName = navigate
+2017-12-28 13:32:41.108 |-INFO  [http-nio-8000-exec-2] com.pay.aspect.PayAspect [85] -| 【未登录拦截】 拦截方法：methodName = navigate
+2017-12-28 13:32:41.280 |-INFO  [http-nio-8000-exec-4] com.pay.aspect.PayAspect [85] -| 【未登录拦截】 拦截方法：methodName = navigate
+2017-12-28 13:32:41.455 |-INFO  [http-nio-8000-exec-10] com.pay.aspect.PayAspect [85] -| 【未登录拦截】 拦截方法：methodName = navigate
+2017-12-28 13:33:00.086 |-INFO  [http-nio-8000-exec-8] com.pay.aspect.PayAspect [85] -| 【未登录拦截】 拦截方法：methodName = navigate
+2017-12-28 13:33:00.260 |-INFO  [http-nio-8000-exec-2] com.pay.aspect.PayAspect [85] -| 【未登录拦截】 拦截方法：methodName = navigate
+2017-12-28 13:36:04.632 |-INFO  [http-nio-8000-exec-7] com.pay.aspect.PayAspect [85] -| 【未登录拦截】 拦截方法：methodName = navigate
+2017-12-28 13:36:04.796 |-INFO  [http-nio-8000-exec-3] com.pay.aspect.PayAspect [85] -| 【未登录拦截】 拦截方法：methodName = navigate
+2017-12-28 13:36:04.974 |-INFO  [http-nio-8000-exec-1] com.pay.aspect.PayAspect [85] -| 【未登录拦截】 拦截方法：methodName = navigate
+2017-12-28 13:37:42.093 |-DEBUG [http-nio-8000-exec-2] com.pay.mapper.GivenInvoiceMapper.findAll_COUNT [159] -| ==>  Preparing: SELECT count(0) FROM T_GivenInvoice 
+2017-12-28 13:37:42.094 |-DEBUG [http-nio-8000-exec-2] com.pay.mapper.GivenInvoiceMapper.findAll_COUNT [159] -| ==> Parameters: 
+2017-12-28 13:37:42.096 |-DEBUG [http-nio-8000-exec-2] com.pay.mapper.GivenInvoiceMapper.findAll_COUNT [159] -| <==      Total: 1
+2017-12-28 13:37:42.097 |-DEBUG [http-nio-8000-exec-2] com.pay.mapper.GivenInvoiceMapper.findAll [159] -| ==>  Preparing: SELECT TOP 10 * FROM (SELECT ROW_NUMBER() OVER ( ORDER BY kprq DESC) PAGE_ROW_NUMBER, * FROM T_GivenInvoice) AS PAGE_TABLE_ALIAS WHERE PAGE_ROW_NUMBER > 0 ORDER BY PAGE_ROW_NUMBER 
+2017-12-28 13:37:42.097 |-DEBUG [http-nio-8000-exec-2] com.pay.mapper.GivenInvoiceMapper.findAll [159] -| ==> Parameters: 
+2017-12-28 13:37:42.099 |-DEBUG [http-nio-8000-exec-2] com.pay.mapper.GivenInvoiceMapper.findAll [159] -| <==      Total: 1
+2017-12-28 13:37:43.700 |-DEBUG [http-nio-8000-exec-5] com.pay.mapper.GivenInvoiceMapper.findAll_COUNT [159] -| ==>  Preparing: SELECT count(0) FROM T_GivenInvoice 
+2017-12-28 13:37:43.700 |-DEBUG [http-nio-8000-exec-5] com.pay.mapper.GivenInvoiceMapper.findAll_COUNT [159] -| ==> Parameters: 
+2017-12-28 13:37:43.702 |-DEBUG [http-nio-8000-exec-5] com.pay.mapper.GivenInvoiceMapper.findAll_COUNT [159] -| <==      Total: 1
+2017-12-28 13:37:43.702 |-DEBUG [http-nio-8000-exec-5] com.pay.mapper.GivenInvoiceMapper.findAll [159] -| ==>  Preparing: SELECT TOP 10 * FROM (SELECT ROW_NUMBER() OVER ( ORDER BY kprq DESC) PAGE_ROW_NUMBER, * FROM T_GivenInvoice) AS PAGE_TABLE_ALIAS WHERE PAGE_ROW_NUMBER > 0 ORDER BY PAGE_ROW_NUMBER 
+2017-12-28 13:37:43.702 |-DEBUG [http-nio-8000-exec-5] com.pay.mapper.GivenInvoiceMapper.findAll [159] -| ==> Parameters: 
+2017-12-28 13:37:43.708 |-DEBUG [http-nio-8000-exec-5] com.pay.mapper.GivenInvoiceMapper.findAll [159] -| <==      Total: 1
+2017-12-28 13:37:46.281 |-DEBUG [http-nio-8000-exec-5] com.pay.mapper.GivenInvoiceMapper.findAll_COUNT [159] -| ==>  Preparing: SELECT count(0) FROM T_GivenInvoice 
+2017-12-28 13:37:46.281 |-DEBUG [http-nio-8000-exec-5] com.pay.mapper.GivenInvoiceMapper.findAll_COUNT [159] -| ==> Parameters: 
+2017-12-28 13:37:46.283 |-DEBUG [http-nio-8000-exec-5] com.pay.mapper.GivenInvoiceMapper.findAll_COUNT [159] -| <==      Total: 1
+2017-12-28 13:37:46.283 |-DEBUG [http-nio-8000-exec-5] com.pay.mapper.GivenInvoiceMapper.findAll [159] -| ==>  Preparing: SELECT TOP 10 * FROM (SELECT ROW_NUMBER() OVER ( ORDER BY kprq DESC) PAGE_ROW_NUMBER, * FROM T_GivenInvoice) AS PAGE_TABLE_ALIAS WHERE PAGE_ROW_NUMBER > 0 ORDER BY PAGE_ROW_NUMBER 
+2017-12-28 13:37:46.284 |-DEBUG [http-nio-8000-exec-5] com.pay.mapper.GivenInvoiceMapper.findAll [159] -| ==> Parameters: 
+2017-12-28 13:37:46.286 |-DEBUG [http-nio-8000-exec-5] com.pay.mapper.GivenInvoiceMapper.findAll [159] -| <==      Total: 1
+2017-12-28 13:41:49.707 |-DEBUG [http-nio-8000-exec-5] com.pay.mapper.GivenInvoiceMapper.findAll_COUNT [159] -| ==>  Preparing: SELECT count(0) FROM T_GivenInvoice 
+2017-12-28 13:41:49.708 |-DEBUG [http-nio-8000-exec-5] com.pay.mapper.GivenInvoiceMapper.findAll_COUNT [159] -| ==> Parameters: 
+2017-12-28 13:41:49.709 |-DEBUG [http-nio-8000-exec-5] com.pay.mapper.GivenInvoiceMapper.findAll_COUNT [159] -| <==      Total: 1
+2017-12-28 13:41:49.710 |-DEBUG [http-nio-8000-exec-5] com.pay.mapper.GivenInvoiceMapper.findAll [159] -| ==>  Preparing: SELECT TOP 10 * FROM (SELECT ROW_NUMBER() OVER ( ORDER BY kprq DESC) PAGE_ROW_NUMBER, * FROM T_GivenInvoice) AS PAGE_TABLE_ALIAS WHERE PAGE_ROW_NUMBER > 0 ORDER BY PAGE_ROW_NUMBER 
+2017-12-28 13:41:49.710 |-DEBUG [http-nio-8000-exec-5] com.pay.mapper.GivenInvoiceMapper.findAll [159] -| ==> Parameters: 
+2017-12-28 13:41:49.713 |-DEBUG [http-nio-8000-exec-5] com.pay.mapper.GivenInvoiceMapper.findAll [159] -| <==      Total: 1
+2017-12-28 13:43:09.245 |-DEBUG [http-nio-8000-exec-9] com.pay.mapper.InvoiceMapper.findAll_COUNT [159] -| ==>  Preparing: SELECT count(0) FROM T_Invoice a, T_PayInfo b, T_WhiteList c WHERE a.outTradeNo = b.outTradeNo AND b.remoteSysCode = c.remoteSysCode 
+2017-12-28 13:43:09.245 |-DEBUG [http-nio-8000-exec-9] com.pay.mapper.InvoiceMapper.findAll_COUNT [159] -| ==> Parameters: 
+2017-12-28 13:43:09.252 |-DEBUG [http-nio-8000-exec-9] com.pay.mapper.InvoiceMapper.findAll_COUNT [159] -| <==      Total: 1
+2017-12-28 13:43:09.252 |-DEBUG [http-nio-8000-exec-9] com.pay.mapper.InvoiceMapper.findAll [159] -| ==>  Preparing: SELECT TOP 10 *, remoteSysName FROM (SELECT ROW_NUMBER() OVER ( ORDER BY a.isDraw, a.createTime) PAGE_ROW_NUMBER, a.*, c.remoteSysName FROM T_Invoice a, T_PayInfo b, T_WhiteList c WHERE a.outTradeNo = b.outTradeNo AND b.remoteSysCode = c.remoteSysCode) AS PAGE_TABLE_ALIAS WHERE PAGE_ROW_NUMBER > 0 ORDER BY PAGE_ROW_NUMBER 
+2017-12-28 13:43:09.252 |-DEBUG [http-nio-8000-exec-9] com.pay.mapper.InvoiceMapper.findAll [159] -| ==> Parameters: 
+2017-12-28 13:43:09.261 |-DEBUG [http-nio-8000-exec-9] com.pay.mapper.InvoiceMapper.findAll [159] -| <==      Total: 10
+2017-12-28 13:43:09.676 |-DEBUG [http-nio-8000-exec-3] com.pay.mapper.InvoiceMapper.findAll_COUNT [159] -| ==>  Preparing: SELECT count(0) FROM T_Invoice a, T_PayInfo b, T_WhiteList c WHERE a.outTradeNo = b.outTradeNo AND b.remoteSysCode = c.remoteSysCode 
+2017-12-28 13:43:09.676 |-DEBUG [http-nio-8000-exec-3] com.pay.mapper.InvoiceMapper.findAll_COUNT [159] -| ==> Parameters: 
+2017-12-28 13:43:09.683 |-DEBUG [http-nio-8000-exec-3] com.pay.mapper.InvoiceMapper.findAll_COUNT [159] -| <==      Total: 1
+2017-12-28 13:43:09.684 |-DEBUG [http-nio-8000-exec-3] com.pay.mapper.InvoiceMapper.findAll [159] -| ==>  Preparing: SELECT TOP 10 *, remoteSysName FROM (SELECT ROW_NUMBER() OVER ( ORDER BY a.isDraw, a.createTime) PAGE_ROW_NUMBER, a.*, c.remoteSysName FROM T_Invoice a, T_PayInfo b, T_WhiteList c WHERE a.outTradeNo = b.outTradeNo AND b.remoteSysCode = c.remoteSysCode) AS PAGE_TABLE_ALIAS WHERE PAGE_ROW_NUMBER > 0 ORDER BY PAGE_ROW_NUMBER 
+2017-12-28 13:43:09.684 |-DEBUG [http-nio-8000-exec-3] com.pay.mapper.InvoiceMapper.findAll [159] -| ==> Parameters: 
+2017-12-28 13:43:09.692 |-DEBUG [http-nio-8000-exec-3] com.pay.mapper.InvoiceMapper.findAll [159] -| <==      Total: 10
+2017-12-28 13:44:00.746 |-DEBUG [http-nio-8000-exec-8] com.pay.mapper.InvoiceMapper.findAll_COUNT [159] -| ==>  Preparing: SELECT count(0) FROM T_Invoice a, T_PayInfo b, T_WhiteList c WHERE a.outTradeNo = b.outTradeNo AND b.remoteSysCode = c.remoteSysCode 
+2017-12-28 13:44:00.747 |-DEBUG [http-nio-8000-exec-8] com.pay.mapper.InvoiceMapper.findAll_COUNT [159] -| ==> Parameters: 
+2017-12-28 13:44:00.753 |-DEBUG [http-nio-8000-exec-8] com.pay.mapper.InvoiceMapper.findAll_COUNT [159] -| <==      Total: 1
+2017-12-28 13:44:00.754 |-DEBUG [http-nio-8000-exec-8] com.pay.mapper.InvoiceMapper.findAll [159] -| ==>  Preparing: SELECT TOP 10 *, remoteSysName FROM (SELECT ROW_NUMBER() OVER ( ORDER BY a.isDraw, a.createTime) PAGE_ROW_NUMBER, a.*, c.remoteSysName FROM T_Invoice a, T_PayInfo b, T_WhiteList c WHERE a.outTradeNo = b.outTradeNo AND b.remoteSysCode = c.remoteSysCode) AS PAGE_TABLE_ALIAS WHERE PAGE_ROW_NUMBER > 0 ORDER BY PAGE_ROW_NUMBER 
+2017-12-28 13:44:00.754 |-DEBUG [http-nio-8000-exec-8] com.pay.mapper.InvoiceMapper.findAll [159] -| ==> Parameters: 
+2017-12-28 13:44:00.762 |-DEBUG [http-nio-8000-exec-8] com.pay.mapper.InvoiceMapper.findAll [159] -| <==      Total: 10
+2017-12-28 13:44:01.359 |-DEBUG [http-nio-8000-exec-7] com.pay.mapper.GivenInvoiceMapper.findAll_COUNT [159] -| ==>  Preparing: SELECT count(0) FROM T_GivenInvoice 
+2017-12-28 13:44:01.359 |-DEBUG [http-nio-8000-exec-7] com.pay.mapper.GivenInvoiceMapper.findAll_COUNT [159] -| ==> Parameters: 
+2017-12-28 13:44:01.362 |-DEBUG [http-nio-8000-exec-7] com.pay.mapper.GivenInvoiceMapper.findAll_COUNT [159] -| <==      Total: 1
+2017-12-28 13:44:01.362 |-DEBUG [http-nio-8000-exec-7] com.pay.mapper.GivenInvoiceMapper.findAll [159] -| ==>  Preparing: SELECT TOP 10 * FROM (SELECT ROW_NUMBER() OVER ( ORDER BY kprq DESC) PAGE_ROW_NUMBER, * FROM T_GivenInvoice) AS PAGE_TABLE_ALIAS WHERE PAGE_ROW_NUMBER > 0 ORDER BY PAGE_ROW_NUMBER 
+2017-12-28 13:44:01.362 |-DEBUG [http-nio-8000-exec-7] com.pay.mapper.GivenInvoiceMapper.findAll [159] -| ==> Parameters: 
+2017-12-28 13:44:01.364 |-DEBUG [http-nio-8000-exec-7] com.pay.mapper.GivenInvoiceMapper.findAll [159] -| <==      Total: 1
+2017-12-28 13:44:02.478 |-DEBUG [http-nio-8000-exec-4] com.pay.mapper.GivenInvoiceMapper.findAll_COUNT [159] -| ==>  Preparing: SELECT count(0) FROM T_GivenInvoice 
+2017-12-28 13:44:02.478 |-DEBUG [http-nio-8000-exec-4] com.pay.mapper.GivenInvoiceMapper.findAll_COUNT [159] -| ==> Parameters: 
+2017-12-28 13:44:02.480 |-DEBUG [http-nio-8000-exec-4] com.pay.mapper.GivenInvoiceMapper.findAll_COUNT [159] -| <==      Total: 1
+2017-12-28 13:44:02.480 |-DEBUG [http-nio-8000-exec-4] com.pay.mapper.GivenInvoiceMapper.findAll [159] -| ==>  Preparing: SELECT TOP 10 * FROM (SELECT ROW_NUMBER() OVER ( ORDER BY kprq DESC) PAGE_ROW_NUMBER, * FROM T_GivenInvoice) AS PAGE_TABLE_ALIAS WHERE PAGE_ROW_NUMBER > 0 ORDER BY PAGE_ROW_NUMBER 
+2017-12-28 13:44:02.480 |-DEBUG [http-nio-8000-exec-4] com.pay.mapper.GivenInvoiceMapper.findAll [159] -| ==> Parameters: 
+2017-12-28 13:44:02.482 |-DEBUG [http-nio-8000-exec-4] com.pay.mapper.GivenInvoiceMapper.findAll [159] -| <==      Total: 1
+2017-12-28 13:44:03.722 |-DEBUG [http-nio-8000-exec-3] com.pay.mapper.InvoiceMapper.findAll_COUNT [159] -| ==>  Preparing: SELECT count(0) FROM T_Invoice a, T_PayInfo b, T_WhiteList c WHERE a.outTradeNo = b.outTradeNo AND b.remoteSysCode = c.remoteSysCode 
+2017-12-28 13:44:03.722 |-DEBUG [http-nio-8000-exec-3] com.pay.mapper.InvoiceMapper.findAll_COUNT [159] -| ==> Parameters: 
+2017-12-28 13:44:03.729 |-DEBUG [http-nio-8000-exec-3] com.pay.mapper.InvoiceMapper.findAll_COUNT [159] -| <==      Total: 1
+2017-12-28 13:44:03.729 |-DEBUG [http-nio-8000-exec-3] com.pay.mapper.InvoiceMapper.findAll [159] -| ==>  Preparing: SELECT TOP 10 *, remoteSysName FROM (SELECT ROW_NUMBER() OVER ( ORDER BY a.isDraw, a.createTime) PAGE_ROW_NUMBER, a.*, c.remoteSysName FROM T_Invoice a, T_PayInfo b, T_WhiteList c WHERE a.outTradeNo = b.outTradeNo AND b.remoteSysCode = c.remoteSysCode) AS PAGE_TABLE_ALIAS WHERE PAGE_ROW_NUMBER > 0 ORDER BY PAGE_ROW_NUMBER 
+2017-12-28 13:44:03.730 |-DEBUG [http-nio-8000-exec-3] com.pay.mapper.InvoiceMapper.findAll [159] -| ==> Parameters: 
+2017-12-28 13:44:03.737 |-DEBUG [http-nio-8000-exec-3] com.pay.mapper.InvoiceMapper.findAll [159] -| <==      Total: 10
+2017-12-28 13:44:04.093 |-DEBUG [http-nio-8000-exec-2] com.pay.mapper.GivenInvoiceMapper.findAll_COUNT [159] -| ==>  Preparing: SELECT count(0) FROM T_GivenInvoice 
+2017-12-28 13:44:04.094 |-DEBUG [http-nio-8000-exec-2] com.pay.mapper.GivenInvoiceMapper.findAll_COUNT [159] -| ==> Parameters: 
+2017-12-28 13:44:04.096 |-DEBUG [http-nio-8000-exec-2] com.pay.mapper.GivenInvoiceMapper.findAll_COUNT [159] -| <==      Total: 1
+2017-12-28 13:44:04.096 |-DEBUG [http-nio-8000-exec-2] com.pay.mapper.GivenInvoiceMapper.findAll [159] -| ==>  Preparing: SELECT TOP 10 * FROM (SELECT ROW_NUMBER() OVER ( ORDER BY kprq DESC) PAGE_ROW_NUMBER, * FROM T_GivenInvoice) AS PAGE_TABLE_ALIAS WHERE PAGE_ROW_NUMBER > 0 ORDER BY PAGE_ROW_NUMBER 
+2017-12-28 13:44:04.096 |-DEBUG [http-nio-8000-exec-2] com.pay.mapper.GivenInvoiceMapper.findAll [159] -| ==> Parameters: 
+2017-12-28 13:44:04.098 |-DEBUG [http-nio-8000-exec-2] com.pay.mapper.GivenInvoiceMapper.findAll [159] -| <==      Total: 1
+2017-12-28 13:44:05.295 |-DEBUG [http-nio-8000-exec-5] com.pay.mapper.InvoiceMapper.findAll_COUNT [159] -| ==>  Preparing: SELECT count(0) FROM T_Invoice a, T_PayInfo b, T_WhiteList c WHERE a.outTradeNo = b.outTradeNo AND b.remoteSysCode = c.remoteSysCode 
+2017-12-28 13:44:05.296 |-DEBUG [http-nio-8000-exec-5] com.pay.mapper.InvoiceMapper.findAll_COUNT [159] -| ==> Parameters: 
+2017-12-28 13:44:05.302 |-DEBUG [http-nio-8000-exec-5] com.pay.mapper.InvoiceMapper.findAll_COUNT [159] -| <==      Total: 1
+2017-12-28 13:44:05.302 |-DEBUG [http-nio-8000-exec-5] com.pay.mapper.InvoiceMapper.findAll [159] -| ==>  Preparing: SELECT TOP 10 *, remoteSysName FROM (SELECT ROW_NUMBER() OVER ( ORDER BY a.isDraw, a.createTime) PAGE_ROW_NUMBER, a.*, c.remoteSysName FROM T_Invoice a, T_PayInfo b, T_WhiteList c WHERE a.outTradeNo = b.outTradeNo AND b.remoteSysCode = c.remoteSysCode) AS PAGE_TABLE_ALIAS WHERE PAGE_ROW_NUMBER > 0 ORDER BY PAGE_ROW_NUMBER 
+2017-12-28 13:44:05.303 |-DEBUG [http-nio-8000-exec-5] com.pay.mapper.InvoiceMapper.findAll [159] -| ==> Parameters: 
+2017-12-28 13:44:05.311 |-DEBUG [http-nio-8000-exec-5] com.pay.mapper.InvoiceMapper.findAll [159] -| <==      Total: 10
+2017-12-28 13:45:09.625 |-DEBUG [http-nio-8000-exec-10] com.pay.mapper.GivenInvoiceMapper.findAll_COUNT [159] -| ==>  Preparing: SELECT count(0) FROM T_GivenInvoice 
+2017-12-28 13:45:09.625 |-DEBUG [http-nio-8000-exec-10] com.pay.mapper.GivenInvoiceMapper.findAll_COUNT [159] -| ==> Parameters: 
+2017-12-28 13:45:09.638 |-DEBUG [http-nio-8000-exec-10] com.pay.mapper.GivenInvoiceMapper.findAll_COUNT [159] -| <==      Total: 1
+2017-12-28 13:45:09.638 |-DEBUG [http-nio-8000-exec-10] com.pay.mapper.GivenInvoiceMapper.findAll [159] -| ==>  Preparing: SELECT TOP 10 * FROM (SELECT ROW_NUMBER() OVER ( ORDER BY kprq DESC) PAGE_ROW_NUMBER, * FROM T_GivenInvoice) AS PAGE_TABLE_ALIAS WHERE PAGE_ROW_NUMBER > 0 ORDER BY PAGE_ROW_NUMBER 
+2017-12-28 13:45:09.638 |-DEBUG [http-nio-8000-exec-10] com.pay.mapper.GivenInvoiceMapper.findAll [159] -| ==> Parameters: 
+2017-12-28 13:45:09.641 |-DEBUG [http-nio-8000-exec-10] com.pay.mapper.GivenInvoiceMapper.findAll [159] -| <==      Total: 1
+2017-12-28 13:45:09.882 |-DEBUG [http-nio-8000-exec-4] com.pay.mapper.InvoiceMapper.findAll_COUNT [159] -| ==>  Preparing: SELECT count(0) FROM T_Invoice a, T_PayInfo b, T_WhiteList c WHERE a.outTradeNo = b.outTradeNo AND b.remoteSysCode = c.remoteSysCode 
+2017-12-28 13:45:09.882 |-DEBUG [http-nio-8000-exec-4] com.pay.mapper.InvoiceMapper.findAll_COUNT [159] -| ==> Parameters: 
+2017-12-28 13:45:09.889 |-DEBUG [http-nio-8000-exec-4] com.pay.mapper.InvoiceMapper.findAll_COUNT [159] -| <==      Total: 1
+2017-12-28 13:45:09.889 |-DEBUG [http-nio-8000-exec-4] com.pay.mapper.InvoiceMapper.findAll [159] -| ==>  Preparing: SELECT TOP 10 *, remoteSysName FROM (SELECT ROW_NUMBER() OVER ( ORDER BY a.isDraw, a.createTime) PAGE_ROW_NUMBER, a.*, c.remoteSysName FROM T_Invoice a, T_PayInfo b, T_WhiteList c WHERE a.outTradeNo = b.outTradeNo AND b.remoteSysCode = c.remoteSysCode) AS PAGE_TABLE_ALIAS WHERE PAGE_ROW_NUMBER > 0 ORDER BY PAGE_ROW_NUMBER 
+2017-12-28 13:45:09.890 |-DEBUG [http-nio-8000-exec-4] com.pay.mapper.InvoiceMapper.findAll [159] -| ==> Parameters: 
+2017-12-28 13:45:09.899 |-DEBUG [http-nio-8000-exec-4] com.pay.mapper.InvoiceMapper.findAll [159] -| <==      Total: 10
+2017-12-28 14:08:20.955 |-DEBUG [http-nio-8000-exec-3] com.pay.mapper.InvoiceMapper.findAll_COUNT [159] -| ==>  Preparing: SELECT count(0) FROM T_Invoice a, T_PayInfo b, T_WhiteList c WHERE a.outTradeNo = b.outTradeNo AND b.remoteSysCode = c.remoteSysCode 
+2017-12-28 14:08:20.956 |-DEBUG [http-nio-8000-exec-3] com.pay.mapper.InvoiceMapper.findAll_COUNT [159] -| ==> Parameters: 
+2017-12-28 14:08:20.962 |-DEBUG [http-nio-8000-exec-3] com.pay.mapper.InvoiceMapper.findAll_COUNT [159] -| <==      Total: 1
+2017-12-28 14:08:20.963 |-DEBUG [http-nio-8000-exec-3] com.pay.mapper.InvoiceMapper.findAll [159] -| ==>  Preparing: SELECT TOP 10 *, remoteSysName FROM (SELECT ROW_NUMBER() OVER ( ORDER BY a.isDraw, a.createTime) PAGE_ROW_NUMBER, a.*, c.remoteSysName FROM T_Invoice a, T_PayInfo b, T_WhiteList c WHERE a.outTradeNo = b.outTradeNo AND b.remoteSysCode = c.remoteSysCode) AS PAGE_TABLE_ALIAS WHERE PAGE_ROW_NUMBER > 0 ORDER BY PAGE_ROW_NUMBER 
+2017-12-28 14:08:20.963 |-DEBUG [http-nio-8000-exec-3] com.pay.mapper.InvoiceMapper.findAll [159] -| ==> Parameters: 
+2017-12-28 14:08:20.972 |-DEBUG [http-nio-8000-exec-3] com.pay.mapper.InvoiceMapper.findAll [159] -| <==      Total: 10
+2017-12-28 14:08:21.625 |-DEBUG [http-nio-8000-exec-2] com.pay.mapper.GivenInvoiceMapper.findAll_COUNT [159] -| ==>  Preparing: SELECT count(0) FROM T_GivenInvoice 
+2017-12-28 14:08:21.626 |-DEBUG [http-nio-8000-exec-2] com.pay.mapper.GivenInvoiceMapper.findAll_COUNT [159] -| ==> Parameters: 
+2017-12-28 14:08:21.628 |-DEBUG [http-nio-8000-exec-2] com.pay.mapper.GivenInvoiceMapper.findAll_COUNT [159] -| <==      Total: 1
+2017-12-28 14:08:21.628 |-DEBUG [http-nio-8000-exec-2] com.pay.mapper.GivenInvoiceMapper.findAll [159] -| ==>  Preparing: SELECT TOP 10 * FROM (SELECT ROW_NUMBER() OVER ( ORDER BY kprq DESC) PAGE_ROW_NUMBER, * FROM T_GivenInvoice) AS PAGE_TABLE_ALIAS WHERE PAGE_ROW_NUMBER > 0 ORDER BY PAGE_ROW_NUMBER 
+2017-12-28 14:08:21.628 |-DEBUG [http-nio-8000-exec-2] com.pay.mapper.GivenInvoiceMapper.findAll [159] -| ==> Parameters: 
+2017-12-28 14:08:21.630 |-DEBUG [http-nio-8000-exec-2] com.pay.mapper.GivenInvoiceMapper.findAll [159] -| <==      Total: 1
+2017-12-28 14:11:15.791 |-DEBUG [http-nio-8000-exec-7] com.pay.mapper.GivenInvoiceMapper.findAll_COUNT [159] -| ==>  Preparing: SELECT count(0) FROM T_GivenInvoice 
+2017-12-28 14:11:15.791 |-DEBUG [http-nio-8000-exec-7] com.pay.mapper.GivenInvoiceMapper.findAll_COUNT [159] -| ==> Parameters: 
+2017-12-28 14:11:15.792 |-DEBUG [http-nio-8000-exec-7] com.pay.mapper.GivenInvoiceMapper.findAll_COUNT [159] -| <==      Total: 1
+2017-12-28 14:11:15.793 |-DEBUG [http-nio-8000-exec-7] com.pay.mapper.GivenInvoiceMapper.findAll [159] -| ==>  Preparing: SELECT TOP 10 * FROM (SELECT ROW_NUMBER() OVER ( ORDER BY kprq DESC) PAGE_ROW_NUMBER, * FROM T_GivenInvoice) AS PAGE_TABLE_ALIAS WHERE PAGE_ROW_NUMBER > 0 ORDER BY PAGE_ROW_NUMBER 
+2017-12-28 14:11:15.793 |-DEBUG [http-nio-8000-exec-7] com.pay.mapper.GivenInvoiceMapper.findAll [159] -| ==> Parameters: 
+2017-12-28 14:11:15.795 |-DEBUG [http-nio-8000-exec-7] com.pay.mapper.GivenInvoiceMapper.findAll [159] -| <==      Total: 1
+2017-12-28 14:11:18.490 |-DEBUG [http-nio-8000-exec-9] com.pay.mapper.GivenInvoiceMapper.findAll_COUNT [159] -| ==>  Preparing: SELECT count(0) FROM T_GivenInvoice 
+2017-12-28 14:11:18.491 |-DEBUG [http-nio-8000-exec-9] com.pay.mapper.GivenInvoiceMapper.findAll_COUNT [159] -| ==> Parameters: 
+2017-12-28 14:11:18.492 |-DEBUG [http-nio-8000-exec-9] com.pay.mapper.GivenInvoiceMapper.findAll_COUNT [159] -| <==      Total: 1
+2017-12-28 14:11:18.493 |-DEBUG [http-nio-8000-exec-9] com.pay.mapper.GivenInvoiceMapper.findAll [159] -| ==>  Preparing: SELECT TOP 10 * FROM (SELECT ROW_NUMBER() OVER ( ORDER BY kprq DESC) PAGE_ROW_NUMBER, * FROM T_GivenInvoice) AS PAGE_TABLE_ALIAS WHERE PAGE_ROW_NUMBER > 0 ORDER BY PAGE_ROW_NUMBER 
+2017-12-28 14:11:18.493 |-DEBUG [http-nio-8000-exec-9] com.pay.mapper.GivenInvoiceMapper.findAll [159] -| ==> Parameters: 
+2017-12-28 14:11:18.494 |-DEBUG [http-nio-8000-exec-9] com.pay.mapper.GivenInvoiceMapper.findAll [159] -| <==      Total: 1

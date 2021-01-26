@@ -1,0 +1,44 @@
+@startuml
+actor Client #red
+participant "Pay" as A
+participant "Alipay" as B
+== 统一收单下单并支付页面接口 ==
+Client->A: 发起支付请求：/pay2 or /pay
+A->B: 封装参数调用alipay.trade.page.pay
+B->A:返回支付表单form
+A->Client:响应支付表单form
+Client->B: 用户扫码支付成功
+B->A:异步通知支付结果
+A->Client:Client传值了notifyUrl？异步通知支付结果：不通知，自行查询
+|||
+== 统一收单线下交易查询接口 ==
+Client->A:查询订单：/query
+A->B:调用alipay.trade.query
+B->A:返回alipayTradeQueryResponse
+A->Client:返回queryInfo
+|||
+== 统一收单交易退款接口 ==
+Client->A:请求退款：/refund
+A->B:调用alipay.trade.refund
+B->A:返回alipayTradeRefundResponse
+A->Client:返回是否success
+|||
+== 统一收单交易退款查询接口 ==
+Client->A:退款查询：/query_refund
+A->B:调用alipay.trade.fastpay.refund.query
+B->A:返回alipayTradeFastpayRefundQueryResponse
+A->Client:返回是否success
+|||
+== 统一收单交易关闭接口 ==
+Client->A:关闭订单：/close
+A->B:调用alipay.trade.close
+B->A:返回alipayTradeCloseResponse
+A->Client:返回是否success
+|||
+== 查询对账单下载地址 ==
+Client->A:下载账单：/download_bill
+A->B:调用alipay.data.dataservice.bill.downloadurl.query
+B->A:返回账单下载地址
+A->Client:返回文件流
+
+@enduml

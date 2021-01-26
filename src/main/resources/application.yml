@@ -1,0 +1,10 @@
+spring:
+  profiles:
+    active: prod
+
+  swagger:
+    base-package: com.hik
+    enabled: true
+
+
+

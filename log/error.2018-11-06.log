@@ -1,0 +1,156 @@
+2018-11-06 11:05:21.662 |-ERROR [http-nio-8008-exec-2] com.pay.exception.GlobalControllerExceptionHandler [71] -| 统一异常处理: Required String parameter 'outTradeNo' is not present org.springframework.web.bind.MissingServletRequestParameterException: Required String parameter 'outTradeNo' is not present
+	at org.springframework.web.method.annotation.RequestParamMethodArgumentResolver.handleMissingValue(RequestParamMethodArgumentResolver.java:198)
+	at org.springframework.web.method.annotation.AbstractNamedValueMethodArgumentResolver.resolveArgument(AbstractNamedValueMethodArgumentResolver.java:109)
+	at org.springframework.web.method.support.HandlerMethodArgumentResolverComposite.resolveArgument(HandlerMethodArgumentResolverComposite.java:121)
+	at org.springframework.web.method.support.InvocableHandlerMethod.getMethodArgumentValues(InvocableHandlerMethod.java:158)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:128)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:97)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:827)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:738)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:85)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:967)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:901)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:970)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:872)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:661)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:846)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:99)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.HttpPutFormContentFilter.doFilterInternal(HttpPutFormContentFilter.java:105)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:81)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:197)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:478)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:80)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:799)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1455)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:745)
+ 
+2018-11-06 11:06:02.445 |-ERROR [http-nio-8008-exec-8] com.pay.exception.GlobalControllerExceptionHandler [71] -| 统一异常处理: Required String parameter 'outTradeNo' is not present org.springframework.web.bind.MissingServletRequestParameterException: Required String parameter 'outTradeNo' is not present
+	at org.springframework.web.method.annotation.RequestParamMethodArgumentResolver.handleMissingValue(RequestParamMethodArgumentResolver.java:198)
+	at org.springframework.web.method.annotation.AbstractNamedValueMethodArgumentResolver.resolveArgument(AbstractNamedValueMethodArgumentResolver.java:109)
+	at org.springframework.web.method.support.HandlerMethodArgumentResolverComposite.resolveArgument(HandlerMethodArgumentResolverComposite.java:121)
+	at org.springframework.web.method.support.InvocableHandlerMethod.getMethodArgumentValues(InvocableHandlerMethod.java:158)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:128)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:97)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:827)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:738)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:85)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:967)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:901)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:970)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:872)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:661)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:846)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:99)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.HttpPutFormContentFilter.doFilterInternal(HttpPutFormContentFilter.java:105)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:81)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:197)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:478)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:80)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:799)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1455)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:745)
+ 
+2018-11-06 11:07:47.264 |-ERROR [http-nio-8008-exec-9] sdk.biz.err [266] -| ErrorScene^_^40004^_^ACQ.TRADE_HAS_CLOSE^_^null^_^Windows 8.1^_^2018-11-06 11:07:47^_^ProtocalMustParams:charset=UTF-8&method=alipay.trade.refund&sign=amZWjOxI6SlZ7Wf+SYwy5Um0ggQM4equs0DaNwjH9BM0gouuZOspBHsuIJgOPT+ocF5wa4MTVeUgdvvZYRHr0DWyhTI5jmRiLufXS6YqcZPMKoFF5D14vE/J6oAdqVZGe31QlrQ10Z02gGaIXDPMZ6ERdTjs2V9pQWSFhsU46nWSKDIZapELhm7/34flK8KeshzRNsTpl0GDHXR2R1pflml3kEHkfArqG9aR79hErGNbKC2v18FIj6vmugJOdYz23ACA4iYTL9vFd6D0GnhV0dpBmI1UqlwBn95stRtLUH/f+3+LjNvyfhBm0pYx8Bgioc9gkJNWGe5/Hfg44y5uKw==&version=1.0&app_id=2017081008129491&sign_type=RSA2&timestamp=2018-11-06 11:07:47^_^ProtocalOptParams:alipay_sdk=alipay-sdk-java-dynamicVersionNo&format=json^_^ApplicationParams:biz_content={"out_trade_no":"1541473278849","trade_no":"2018110622001495101011470961","refund_amount":"0.01","out_request_no":"298fd6de3db0435dbb128f2087e07c0a"}^_^Body:{"alipay_trade_refund_response":{"code":"40004","msg":"Business Failed","sub_code":"ACQ.TRADE_HAS_CLOSE","sub_msg":"交易已经关闭","refund_fee":"0.00","send_back_fee":"0.00"},"sign":"M9xSibY9boJ/hD+6W4wE/IEUehzg4lHuFplWrn7EU05vdlhEQ/G4VrlcMPrasvIs70j1YksTwn158NKKUJ37Wx3zdi4y9jvADsfBqDg6pRMCEat+EZJ5ICdsEIvP+93BnM0T3jhGh/0jEyRbUeM94SyY1yaEfA2kspwkH7q/N9gNRF2k7G2dgiV2vgQxt/8E7O4QCMIkMgap1k6fcxh9ONRMUHKWEs3GoMCdVnh1rj7HZyqOMW9RirsAJ3apTC7QzzKcQjeLU+JqQr6Mt3AAwb0epd6CpBjBxfZFwbrne2/NdfQ+OyUWpEEb4eXdKGlclMsFYwJ0W+CRLZkeEKcjDw=="}
+2018-11-06 11:07:47.296 |-ERROR [http-nio-8008-exec-9] com.pay.service.AlipayService [349] -| 【退款失败】 refundInfo = {
+  "id": 43,
+  "appId": "2017081008129491",
+  "method": "alipay.trade.refund",
+  "format": "json",
+  "charset": "UTF-8",
+  "signType": "RSA2",
+  "sign": "M9xSibY9boJ/hD+6W4wE/IEUehzg4lHuFplWrn7EU05vdlhEQ/G4VrlcMPrasvIs70j1YksTwn158NKKUJ37Wx3zdi4y9jvADsfBqDg6pRMCEat+EZJ5ICdsEIvP+93BnM0T3jhGh/0jEyRbUeM94SyY1yaEfA2kspwkH7q/N9gNRF2k7G2dgiV2vgQxt/8E7O4QCMIkMgap1k6fcxh9ONRMUHKWEs3GoMCdVnh1rj7HZyqOMW9RirsAJ3apTC7QzzKcQjeLU+JqQr6Mt3AAwb0epd6CpBjBxfZFwbrne2/NdfQ+OyUWpEEb4eXdKGlclMsFYwJ0W+CRLZkeEKcjDw\u003d\u003d",
+  "timestamp": "Nov 6, 2018 11:07:47 AM",
+  "version": "1.0",
+  "bizContent": "{\"out_trade_no\":\"1541473278849\",\"trade_no\":\"2018110622001495101011470961\",\"refund_amount\":\"0.01\",\"out_request_no\":\"298fd6de3db0435dbb128f2087e07c0a\"}",
+  "outTradeNo": "1541473278849",
+  "tradeNo": "2018110622001495101011470961",
+  "refundAmount": "0.01",
+  "outRequestNo": "298fd6de3db0435dbb128f2087e07c0a",
+  "code": "40004",
+  "msg": "Business Failed",
+  "subCode": "ACQ.TRADE_HAS_CLOSE",
+  "subMsg": "交易已经关闭",
+  "refundFee": "0.00",
+  "sendBackFee": "0.00"
+}
+2018-11-06 11:07:59.500 |-ERROR [http-nio-8008-exec-5] sdk.biz.err [266] -| ErrorScene^_^40004^_^ACQ.TRADE_HAS_CLOSE^_^null^_^Windows 8.1^_^2018-11-06 11:07:59^_^ProtocalMustParams:charset=UTF-8&method=alipay.trade.refund&sign=CkIjq9Ua7qg1dBpx4MUDWDJ1U1Bg7iFfAREF4nZsDT1uwg7mDk/FvxekNHQpE8VxDF7QZ4o3LYdYYnQwDVP/Z815Kbdjbk1QeOSzwK77QD+SPDUHN8jG/BfIsiu4NkmcrwPky+NitOtz/3nnRq6HGIKzM6sHLibehJdkJSe5RyCDd9y0eewoYqLw/fmb2DwMvzQ01wH3YWYq5V+K5i5IXHPTeMbAShQS4oHYqFoXlLu/vdGpRsk9zqpXSRVi6tVOlubTn5wsvYfhvgd5TEiHoOi4rh7hp5axDVVoAqwEe5aGBnNUrGU323GX5rWieZnbKRH4G55ShLceXLPRJ0xbgw==&version=1.0&app_id=2017081008129491&sign_type=RSA2&timestamp=2018-11-06 11:07:59^_^ProtocalOptParams:alipay_sdk=alipay-sdk-java-dynamicVersionNo&format=json^_^ApplicationParams:biz_content={"out_trade_no":"1541473278849","trade_no":"2018110622001495101011470961","refund_amount":"0.01","out_request_no":"567130137f24417fa2826ab37fb7f144"}^_^Body:{"alipay_trade_refund_response":{"code":"40004","msg":"Business Failed","sub_code":"ACQ.TRADE_HAS_CLOSE","sub_msg":"交易已经关闭","refund_fee":"0.00","send_back_fee":"0.00"},"sign":"M9xSibY9boJ/hD+6W4wE/IEUehzg4lHuFplWrn7EU05vdlhEQ/G4VrlcMPrasvIs70j1YksTwn158NKKUJ37Wx3zdi4y9jvADsfBqDg6pRMCEat+EZJ5ICdsEIvP+93BnM0T3jhGh/0jEyRbUeM94SyY1yaEfA2kspwkH7q/N9gNRF2k7G2dgiV2vgQxt/8E7O4QCMIkMgap1k6fcxh9ONRMUHKWEs3GoMCdVnh1rj7HZyqOMW9RirsAJ3apTC7QzzKcQjeLU+JqQr6Mt3AAwb0epd6CpBjBxfZFwbrne2/NdfQ+OyUWpEEb4eXdKGlclMsFYwJ0W+CRLZkeEKcjDw=="}
+2018-11-06 11:07:59.516 |-ERROR [http-nio-8008-exec-5] com.pay.service.AlipayService [349] -| 【退款失败】 refundInfo = {
+  "id": 44,
+  "appId": "2017081008129491",
+  "method": "alipay.trade.refund",
+  "format": "json",
+  "charset": "UTF-8",
+  "signType": "RSA2",
+  "sign": "M9xSibY9boJ/hD+6W4wE/IEUehzg4lHuFplWrn7EU05vdlhEQ/G4VrlcMPrasvIs70j1YksTwn158NKKUJ37Wx3zdi4y9jvADsfBqDg6pRMCEat+EZJ5ICdsEIvP+93BnM0T3jhGh/0jEyRbUeM94SyY1yaEfA2kspwkH7q/N9gNRF2k7G2dgiV2vgQxt/8E7O4QCMIkMgap1k6fcxh9ONRMUHKWEs3GoMCdVnh1rj7HZyqOMW9RirsAJ3apTC7QzzKcQjeLU+JqQr6Mt3AAwb0epd6CpBjBxfZFwbrne2/NdfQ+OyUWpEEb4eXdKGlclMsFYwJ0W+CRLZkeEKcjDw\u003d\u003d",
+  "timestamp": "Nov 6, 2018 11:07:59 AM",
+  "version": "1.0",
+  "bizContent": "{\"out_trade_no\":\"1541473278849\",\"trade_no\":\"2018110622001495101011470961\",\"refund_amount\":\"0.01\",\"out_request_no\":\"567130137f24417fa2826ab37fb7f144\"}",
+  "outTradeNo": "1541473278849",
+  "tradeNo": "2018110622001495101011470961",
+  "refundAmount": "0.01",
+  "outRequestNo": "567130137f24417fa2826ab37fb7f144",
+  "code": "40004",
+  "msg": "Business Failed",
+  "subCode": "ACQ.TRADE_HAS_CLOSE",
+  "subMsg": "交易已经关闭",
+  "refundFee": "0.00",
+  "sendBackFee": "0.00"
+}

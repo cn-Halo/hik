@@ -1,0 +1,47 @@
+2018-11-15 08:51:31.995 |-INFO  [http-nio-8008-exec-6] com.pay.aspect.PayAspect [85] -| 【未登录拦截】 拦截方法：methodName = navigate
+2018-11-15 14:19:17.422 |-INFO  [http-nio-8008-exec-8] com.pay.aspect.PayAspect [65] -| 【访客验证】 合法访问：ip = 192.168.1.122 ,port = 63024 ,remoteSysName = 1,methodName = pay ,args = [null, null, http://192.168.1.122:8080/supply/interface/callback_pay_state, GYS20181115141923162162, 0.01, 供应商平台耗材功能年费(1家医院)-龙鼎医疗器械, null, null, null, null, null, null, null, org.apache.catalina.connector.ResponseFacade@1613323b] 
+2018-11-15 14:19:17.435 |-INFO  [http-nio-8008-exec-8] com.pay.service.AlipayService [148] -| 【支付请求参数】 bizContent = {
+  "out_trade_no": "GYS20181115141923162162",
+  "total_amount": "0.01",
+  "subject": "供应商平台耗材功能年费(1家医院)-龙鼎医疗器械",
+  "timeout_express": "90m",
+  "goods_type": "0",
+  "product_code": "FAST_INSTANT_TRADE_PAY"
+}
+2018-11-15 14:19:17.728 |-INFO  [http-nio-8008-exec-1] com.pay.service.AlipayService [148] -| 【支付请求参数】 bizContent = {
+  "out_trade_no": "GYS20181115141923162162",
+  "total_amount": "0.01",
+  "subject": "供应商平台耗材功能年费(1家医院)-龙鼎医疗器械",
+  "timeout_express": "90m",
+  "goods_type": "0",
+  "product_code": "FAST_INSTANT_TRADE_PAY"
+}
+2018-11-15 14:52:59.496 |-INFO  [http-nio-8008-exec-1] com.pay.service.AlipayService [148] -| 【支付请求参数】 bizContent = {
+  "out_trade_no": "GYS20181115141923162162",
+  "total_amount": "0.01",
+  "subject": "供应商平台耗材功能年费(1家医院)-龙鼎医疗器械",
+  "timeout_express": "90m",
+  "goods_type": "0",
+  "product_code": "FAST_INSTANT_TRADE_PAY"
+}
+2018-11-15 16:03:28.754 |-INFO  [http-nio-8008-exec-3] com.pay.service.AlipayService [148] -| 【支付请求参数】 bizContent = {
+  "out_trade_no": "GYS20181115141923162162",
+  "total_amount": "0.01",
+  "subject": "供应商平台耗材功能年费(1家医院)-龙鼎医疗器械",
+  "timeout_express": "90m",
+  "goods_type": "0",
+  "product_code": "FAST_INSTANT_TRADE_PAY"
+}
+2018-11-15 21:40:04.148 |-INFO  [http-nio-8008-exec-13] org.apache.coyote.http11.Http11Processor [181] -| Error parsing HTTP request header
+ Note: further occurrences of HTTP header parsing errors will be logged at DEBUG level.
+java.lang.IllegalArgumentException: Invalid character found in method name. HTTP method names must be tokens
+	at org.apache.coyote.http11.Http11InputBuffer.parseRequestLine(Http11InputBuffer.java:422)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:683)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1455)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:745)

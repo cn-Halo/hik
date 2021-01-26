@@ -1,0 +1,41 @@
+2018-09-04 04:23:21.104 |-INFO  [http-nio-8008-exec-6] org.apache.coyote.http11.Http11Processor [181] -| Error parsing HTTP request header
+ Note: further occurrences of HTTP header parsing errors will be logged at DEBUG level.
+java.lang.IllegalArgumentException: Invalid character found in method name. HTTP method names must be tokens
+	at org.apache.coyote.http11.Http11InputBuffer.parseRequestLine(Http11InputBuffer.java:422)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:683)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1455)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:745)
+2018-09-04 09:49:51.325 |-INFO  [http-nio-8008-exec-10] com.pay.aspect.PayAspect [65] -| 【访客验证】 合法访问：ip = 192.168.1.131 ,port = 60898 ,remoteSysName = 供应商平台测试,methodName = pay ,args = [null, null, http://192.168.1.131:8090/run/interface/callback_pay_state, GYS201809040949524949, 0.01, 供应商平台耗材功能年费(1家医院)-无锡橙果医疗器械贸易有限公司, null, null, null, null, null, null, null, org.apache.catalina.connector.ResponseFacade@139583fa] 
+2018-09-04 09:49:51.335 |-INFO  [http-nio-8008-exec-10] com.pay.service.AlipayService [146] -| 【支付请求参数】 bizContent = {
+  "out_trade_no": "GYS201809040949524949",
+  "total_amount": "0.01",
+  "subject": "供应商平台耗材功能年费(1家医院)-无锡橙果医疗器械贸易有限公司",
+  "timeout_express": "90m",
+  "goods_type": "0",
+  "product_code": "FAST_INSTANT_TRADE_PAY"
+}
+2018-09-04 09:49:59.269 |-INFO  [http-nio-8008-exec-8] com.pay.aspect.PayAspect [65] -| 【访客验证】 合法访问：ip = 192.168.1.131 ,port = 60901 ,remoteSysName = 供应商平台测试,methodName = pay ,args = [null, null, http://192.168.1.131:8090/run/interface/callback_pay_state, GYS201809040950004949, 0.01, 供应商平台耗材功能年费(1家医院)-无锡橙果医疗器械贸易有限公司, null, null, null, null, null, null, null, org.apache.catalina.connector.ResponseFacade@139583fa] 
+2018-09-04 09:49:59.275 |-INFO  [http-nio-8008-exec-8] com.pay.service.AlipayService [146] -| 【支付请求参数】 bizContent = {
+  "out_trade_no": "GYS201809040950004949",
+  "total_amount": "0.01",
+  "subject": "供应商平台耗材功能年费(1家医院)-无锡橙果医疗器械贸易有限公司",
+  "timeout_express": "90m",
+  "goods_type": "0",
+  "product_code": "FAST_INSTANT_TRADE_PAY"
+}
+2018-09-04 09:49:59.751 |-INFO  [http-nio-8008-exec-5] com.pay.service.AlipayService [146] -| 【支付请求参数】 bizContent = {
+  "out_trade_no": "GYS201809040950004949",
+  "total_amount": "0.01",
+  "subject": "供应商平台耗材功能年费(1家医院)-无锡橙果医疗器械贸易有限公司",
+  "timeout_express": "90m",
+  "goods_type": "0",
+  "product_code": "FAST_INSTANT_TRADE_PAY"
+}
+2018-09-04 09:50:16.258 |-INFO  [pool-2-thread-3] com.pay.service.AlipayService [250] -| 【异步通知客户端】 开始通知 notifyUrl = http://192.168.1.131:8090/run/interface/callback_pay_state
+2018-09-04 09:50:16.814 |-WARN  [pool-2-thread-3] org.apache.commons.httpclient.HttpMethodBase [682] -| Going to buffer response body of large or unknown size. Using getResponseBodyAsStream instead is recommended.

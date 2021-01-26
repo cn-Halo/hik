@@ -1,0 +1,262 @@
+2017-10-30 11:10:15.999 |-INFO  [http-nio-8008-exec-1] com.pay.aspect.PayAspect [65] -| 【访客验证】 合法访问：ip = 58.216.212.154 ,port = 10231 ,remoteSysName = 外网,methodName = pay ,args = [null, null, null, FS1509021965935, 60000.0, 常州市第二人民医院年费, null, null, null, null, null, null, null, org.apache.catalina.connector.ResponseFacade@400fe80] 
+2017-10-30 11:10:16.010 |-INFO  [http-nio-8008-exec-1] com.pay.service.AlipayService [135] -| 【支付请求参数】 bizContent = {
+  "out_trade_no": "FS1509021965935",
+  "total_amount": "60000.0",
+  "subject": "常州市第二人民医院年费",
+  "timeout_express": "90m",
+  "goods_type": "0",
+  "product_code": "FAST_INSTANT_TRADE_PAY"
+}
+2017-10-30 11:10:57.899 |-INFO  [http-nio-8008-exec-2] com.pay.aspect.PayAspect [65] -| 【访客验证】 合法访问：ip = 58.216.212.154 ,port = 10231 ,remoteSysName = 外网,methodName = pay ,args = [null, null, null, FS1509021965935, 60000.0, 常州市第二人民医院年费, null, null, null, null, null, null, null, org.apache.catalina.connector.ResponseFacade@400fe80] 
+2017-10-30 11:10:57.901 |-INFO  [http-nio-8008-exec-2] com.pay.service.AlipayService [135] -| 【支付请求参数】 bizContent = {
+  "out_trade_no": "FS1509021965935",
+  "total_amount": "60000.0",
+  "subject": "常州市第二人民医院年费",
+  "timeout_express": "90m",
+  "goods_type": "0",
+  "product_code": "FAST_INSTANT_TRADE_PAY"
+}
+2017-10-30 11:11:05.364 |-INFO  [http-nio-8008-exec-3] com.pay.aspect.PayAspect [65] -| 【访客验证】 合法访问：ip = 58.216.212.154 ,port = 10231 ,remoteSysName = 外网,methodName = pay ,args = [null, null, null, FS1509021965935, 60000.0, 常州市第二人民医院年费, null, null, null, null, null, null, null, org.apache.catalina.connector.ResponseFacade@400fe80] 
+2017-10-30 11:11:05.366 |-INFO  [http-nio-8008-exec-3] com.pay.service.AlipayService [135] -| 【支付请求参数】 bizContent = {
+  "out_trade_no": "FS1509021965935",
+  "total_amount": "60000.0",
+  "subject": "常州市第二人民医院年费",
+  "timeout_express": "90m",
+  "goods_type": "0",
+  "product_code": "FAST_INSTANT_TRADE_PAY"
+}
+2017-10-30 14:52:37.915 |-WARN  [http-nio-8008-exec-9] org.springframework.web.servlet.mvc.method.annotation.ExceptionHandlerExceptionResolver [391] -| Failed to invoke @ExceptionHandler method: public com.alibaba.fastjson.JSONObject com.pay.exception.GlobalControllerExceptionHandler.handleException(java.lang.Exception)
+org.apache.catalina.connector.ClientAbortException: java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+	at org.apache.catalina.connector.OutputBuffer.doFlush(OutputBuffer.java:321)
+	at org.apache.catalina.connector.OutputBuffer.flush(OutputBuffer.java:284)
+	at org.apache.catalina.connector.CoyoteOutputStream.flush(CoyoteOutputStream.java:118)
+	at com.fasterxml.jackson.core.json.UTF8JsonGenerator.flush(UTF8JsonGenerator.java:1054)
+	at com.fasterxml.jackson.databind.ObjectWriter.writeValue(ObjectWriter.java:953)
+	at org.springframework.http.converter.json.AbstractJackson2HttpMessageConverter.writeInternal(AbstractJackson2HttpMessageConverter.java:286)
+	at org.springframework.http.converter.AbstractGenericHttpMessageConverter.write(AbstractGenericHttpMessageConverter.java:106)
+	at org.springframework.web.servlet.mvc.method.annotation.AbstractMessageConverterMethodProcessor.writeWithMessageConverters(AbstractMessageConverterMethodProcessor.java:231)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestResponseBodyMethodProcessor.handleReturnValue(RequestResponseBodyMethodProcessor.java:174)
+	at org.springframework.web.method.support.HandlerMethodReturnValueHandlerComposite.handleReturnValue(HandlerMethodReturnValueHandlerComposite.java:81)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:113)
+	at org.springframework.web.servlet.mvc.method.annotation.ExceptionHandlerExceptionResolver.doResolveHandlerMethodException(ExceptionHandlerExceptionResolver.java:380)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodExceptionResolver.doResolveException(AbstractHandlerMethodExceptionResolver.java:59)
+	at org.springframework.web.servlet.handler.AbstractHandlerExceptionResolver.resolveException(AbstractHandlerExceptionResolver.java:136)
+	at org.springframework.web.servlet.handler.HandlerExceptionResolverComposite.resolveException(HandlerExceptionResolverComposite.java:74)
+	at org.springframework.web.servlet.DispatcherServlet.processHandlerException(DispatcherServlet.java:1222)
+	at org.springframework.web.servlet.DispatcherServlet.processDispatchResult(DispatcherServlet.java:1034)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:984)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:901)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:970)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:872)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:661)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:846)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:99)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.HttpPutFormContentFilter.doFilterInternal(HttpPutFormContentFilter.java:105)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:81)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:197)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:478)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:80)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:799)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1455)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+	at sun.nio.ch.SocketDispatcher.write0(Native Method)
+	at sun.nio.ch.SocketDispatcher.write(SocketDispatcher.java:51)
+	at sun.nio.ch.IOUtil.writeFromNativeBuffer(IOUtil.java:93)
+	at sun.nio.ch.IOUtil.write(IOUtil.java:65)
+	at sun.nio.ch.SocketChannelImpl.write(SocketChannelImpl.java:471)
+	at org.apache.tomcat.util.net.NioChannel.write(NioChannel.java:134)
+	at org.apache.tomcat.util.net.NioBlockingSelector.write(NioBlockingSelector.java:101)
+	at org.apache.tomcat.util.net.NioSelectorPool.write(NioSelectorPool.java:157)
+	at org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper.doWrite(NioEndpoint.java:1259)
+	at org.apache.tomcat.util.net.SocketWrapperBase.doWrite(SocketWrapperBase.java:670)
+	at org.apache.tomcat.util.net.SocketWrapperBase.flushBlocking(SocketWrapperBase.java:607)
+	at org.apache.tomcat.util.net.SocketWrapperBase.flush(SocketWrapperBase.java:597)
+	at org.apache.coyote.http11.Http11OutputBuffer.flushBuffer(Http11OutputBuffer.java:581)
+	at org.apache.coyote.http11.Http11OutputBuffer.flush(Http11OutputBuffer.java:272)
+	at org.apache.coyote.http11.Http11Processor.flush(Http11Processor.java:1511)
+	at org.apache.coyote.AbstractProcessor.action(AbstractProcessor.java:282)
+	at org.apache.coyote.Response.action(Response.java:173)
+	at org.apache.catalina.connector.OutputBuffer.doFlush(OutputBuffer.java:317)
+	... 60 common frames omitted
+2017-10-30 14:56:39.362 |-INFO  [http-nio-8008-exec-7] com.pay.aspect.PayAspect [65] -| 【访客验证】 合法访问：ip = 58.216.212.154 ,port = 10633 ,remoteSysName = 外网,methodName = pay ,args = [null, null, null, FS1509021965935, 60000.0, 常州市第二人民医院年费, null, null, null, null, null, null, null, org.apache.catalina.connector.ResponseFacade@400fe80] 
+2017-10-30 14:56:39.364 |-INFO  [http-nio-8008-exec-7] com.pay.service.AlipayService [135] -| 【支付请求参数】 bizContent = {
+  "out_trade_no": "FS1509021965935",
+  "total_amount": "60000.0",
+  "subject": "常州市第二人民医院年费",
+  "timeout_express": "90m",
+  "goods_type": "0",
+  "product_code": "FAST_INSTANT_TRADE_PAY"
+}
+2017-10-30 14:56:44.229 |-INFO  [http-nio-8008-exec-10] com.pay.aspect.PayAspect [65] -| 【访客验证】 合法访问：ip = 58.216.212.154 ,port = 10633 ,remoteSysName = 外网,methodName = pay ,args = [null, null, null, FS1509021965935, 60000.0, 常州市第二人民医院年费, null, null, null, null, null, null, null, org.apache.catalina.connector.ResponseFacade@400fe80] 
+2017-10-30 14:56:44.230 |-INFO  [http-nio-8008-exec-10] com.pay.service.AlipayService [135] -| 【支付请求参数】 bizContent = {
+  "out_trade_no": "FS1509021965935",
+  "total_amount": "60000.0",
+  "subject": "常州市第二人民医院年费",
+  "timeout_express": "90m",
+  "goods_type": "0",
+  "product_code": "FAST_INSTANT_TRADE_PAY"
+}
+2017-10-30 15:03:51.228 |-INFO  [http-nio-8008-exec-9] com.pay.aspect.PayAspect [65] -| 【访客验证】 合法访问：ip = 58.216.212.154 ,port = 11597 ,remoteSysName = 外网,methodName = pay ,args = [null, null, null, FS1509021965935, 0.01, 常州市第二人民医院年费, null, null, null, null, null, null, null, org.apache.catalina.connector.ResponseFacade@400fe80] 
+2017-10-30 15:03:51.230 |-INFO  [http-nio-8008-exec-9] com.pay.service.AlipayService [135] -| 【支付请求参数】 bizContent = {
+  "out_trade_no": "FS1509021965935",
+  "total_amount": "0.01",
+  "subject": "常州市第二人民医院年费",
+  "timeout_express": "90m",
+  "goods_type": "0",
+  "product_code": "FAST_INSTANT_TRADE_PAY"
+}
+2017-10-30 15:24:48.938 |-INFO  [http-nio-8008-exec-5] org.apache.tomcat.util.http.parser.Cookie [179] -| A cookie header was received [356a192b7913b04c54574d18c28d46e6395428ab; JSESSIONID=9E1079DBD1D40C7FD76EAA5690B94C9D] that contained an invalid cookie. That cookie will be ignored.Note: further occurrences of this error will be logged at DEBUG level.
+2017-10-30 15:24:48.940 |-INFO  [http-nio-8008-exec-5] com.pay.aspect.PayAspect [85] -| 【未登录拦截】 拦截方法：methodName = navigate
+2017-10-30 15:39:27.520 |-INFO  [main] com.pay.PayApplication [48] -| Starting PayApplication on yzm with PID 13808 (D:\workspace2\sshapp-pro\pay\target\classes started by www78 in D:\workspace2\sshapp-pro\pay)
+2017-10-30 15:39:27.526 |-INFO  [main] com.pay.PayApplication [597] -| The following profiles are active: dev
+2017-10-30 15:39:27.585 |-INFO  [main] org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext [583] -| Refreshing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@7f132176: startup date [Mon Oct 30 15:39:27 CST 2017]; root of context hierarchy
+2017-10-30 15:39:27.722 |-INFO  [background-preinit] org.hibernate.validator.internal.util.Version [30] -| HV000001: Hibernate Validator 5.3.5.Final
+2017-10-30 15:39:28.873 |-INFO  [main] org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker [325] -| Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$15cdd725] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2017-10-30 15:39:29.319 |-INFO  [main] org.springframework.boot.context.embedded.tomcat.TomcatEmbeddedServletContainer [89] -| Tomcat initialized with port(s): 8008 (http)
+2017-10-30 15:39:29.327 |-INFO  [main] org.apache.catalina.core.StandardService [179] -| Starting service [Tomcat]
+2017-10-30 15:39:29.328 |-INFO  [main] org.apache.catalina.core.StandardEngine [179] -| Starting Servlet Engine: Apache Tomcat/8.5.16
+2017-10-30 15:39:29.407 |-INFO  [localhost-startStop-1] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/alipay] [179] -| Initializing Spring embedded WebApplicationContext
+2017-10-30 15:39:29.407 |-INFO  [localhost-startStop-1] org.springframework.web.context.ContextLoader [276] -| Root WebApplicationContext: initialization completed in 1823 ms
+2017-10-30 15:39:29.557 |-INFO  [localhost-startStop-1] org.springframework.boot.web.servlet.ServletRegistrationBean [190] -| Mapping servlet: 'dispatcherServlet' to [/]
+2017-10-30 15:39:29.562 |-INFO  [localhost-startStop-1] org.springframework.boot.web.servlet.FilterRegistrationBean [258] -| Mapping filter: 'characterEncodingFilter' to: [/*]
+2017-10-30 15:39:29.563 |-INFO  [localhost-startStop-1] org.springframework.boot.web.servlet.FilterRegistrationBean [258] -| Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2017-10-30 15:39:29.563 |-INFO  [localhost-startStop-1] org.springframework.boot.web.servlet.FilterRegistrationBean [258] -| Mapping filter: 'httpPutFormContentFilter' to: [/*]
+2017-10-30 15:39:29.563 |-INFO  [localhost-startStop-1] org.springframework.boot.web.servlet.FilterRegistrationBean [258] -| Mapping filter: 'requestContextFilter' to: [/*]
+2017-10-30 15:39:30.093 |-INFO  [main] org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [349] -| Building JPA container EntityManagerFactory for persistence unit 'default'
+2017-10-30 15:39:30.103 |-INFO  [main] org.hibernate.jpa.internal.util.LogHelper [31] -| HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2017-10-30 15:39:30.155 |-INFO  [main] org.hibernate.Version [37] -| HHH000412: Hibernate Core {5.0.12.Final}
+2017-10-30 15:39:30.156 |-INFO  [main] org.hibernate.cfg.Environment [213] -| HHH000206: hibernate.properties not found
+2017-10-30 15:39:30.157 |-INFO  [main] org.hibernate.cfg.Environment [317] -| HHH000021: Bytecode provider name : javassist
+2017-10-30 15:39:30.211 |-INFO  [main] org.hibernate.annotations.common.Version [66] -| HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2017-10-30 15:39:30.415 |-INFO  [main] org.hibernate.dialect.Dialect [156] -| HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2017-10-30 15:39:30.866 |-INFO  [main] org.hibernate.tool.hbm2ddl.SchemaUpdate [105] -| HHH000228: Running hbm2ddl schema update
+2017-10-30 15:39:32.224 |-INFO  [main] org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [379] -| Initialized JPA EntityManagerFactory for persistence unit 'default'
+2017-10-30 15:39:32.701 |-INFO  [main] org.springframework.web.servlet.view.freemarker.FreeMarkerConfigurer [127] -| ClassTemplateLoader for Spring macros added to FreeMarker configuration
+2017-10-30 15:39:33.130 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/notify],methods=[POST]}" onto public void com.pay.controller.AlipayController.notify(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws java.lang.Exception
+2017-10-30 15:39:33.132 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/close]}" onto public java.util.Map<java.lang.String, java.lang.Object> com.pay.controller.AlipayController.close(java.lang.String,java.lang.String)
+2017-10-30 15:39:33.132 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/query]}" onto public java.util.Map<java.lang.String, java.lang.Object> com.pay.controller.AlipayController.query(java.lang.String)
+2017-10-30 15:39:33.133 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/pay_test]}" onto public void com.pay.controller.AlipayController.doPost(java.lang.String,javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws javax.servlet.ServletException,java.io.IOException
+2017-10-30 15:39:33.133 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/returnUrl]}" onto public org.springframework.web.servlet.ModelAndView com.pay.controller.AlipayController.returnUrl()
+2017-10-30 15:39:33.133 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/pay],methods=[POST]}" onto public void com.pay.controller.AlipayController.pay(java.lang.String,java.lang.String,java.lang.String,javax.servlet.http.HttpServletResponse) throws java.lang.Exception
+2017-10-30 15:39:33.134 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/pay2]}" onto public void com.pay.controller.AlipayController.pay(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,javax.servlet.http.HttpServletResponse) throws java.lang.Exception
+2017-10-30 15:39:33.134 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/download_bill]}" onto public java.util.Map<java.lang.String, java.lang.Object> com.pay.controller.AlipayController.downloadBill(java.lang.String,java.lang.String,javax.servlet.http.HttpServletResponse) throws java.lang.Exception
+2017-10-30 15:39:33.134 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/refund]}" onto public java.util.Map<java.lang.String, java.lang.Object> com.pay.controller.AlipayController.refund(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String) throws java.lang.Exception
+2017-10-30 15:39:33.135 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/my_notify]}" onto public java.util.Map<java.lang.String, java.lang.Object> com.pay.controller.AlipayController.myNotify(java.lang.String)
+2017-10-30 15:39:33.135 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/query_refund]}" onto public java.util.Map<java.lang.String, java.lang.Object> com.pay.controller.AlipayController.queryRefund(java.lang.String,java.lang.String) throws java.lang.Exception
+2017-10-30 15:39:33.135 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/pay_supplier]}" onto public void com.pay.controller.AlipayController.paySupplier(java.lang.String,javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws java.lang.Exception
+2017-10-30 15:39:33.138 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/common/index],methods=[GET]}" onto public org.springframework.web.servlet.ModelAndView com.pay.controller.CommonController.index(javax.servlet.http.HttpServletRequest)
+2017-10-30 15:39:33.138 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/common/login],methods=[POST]}" onto public com.pay.vo.ResponseVO com.pay.controller.CommonController.login(com.pay.entity.User,javax.servlet.http.HttpServletRequest)
+2017-10-30 15:39:33.138 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/common/show_login],methods=[GET]}" onto public org.springframework.web.servlet.ModelAndView com.pay.controller.CommonController.showLogin(javax.servlet.http.HttpServletRequest)
+2017-10-30 15:39:33.139 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/common/show_register],methods=[GET]}" onto public org.springframework.web.servlet.ModelAndView com.pay.controller.CommonController.showRegister(javax.servlet.http.HttpServletRequest)
+2017-10-30 15:39:33.139 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/common/register_by_email],methods=[POST]}" onto public com.pay.vo.ResponseVO com.pay.controller.CommonController.registerByEmail(com.pay.entity.User)
+2017-10-30 15:39:33.139 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/common/register_by_phone],methods=[POST]}" onto public com.pay.vo.ResponseVO com.pay.controller.CommonController.registerByPhone(com.pay.entity.User,javax.servlet.http.HttpServletRequest)
+2017-10-30 15:39:33.140 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/common/logout],methods=[GET]}" onto public void com.pay.controller.CommonController.logout(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws java.lang.Exception
+2017-10-30 15:39:33.140 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/common/navigate],methods=[GET]}" onto public org.springframework.web.servlet.ModelAndView com.pay.controller.CommonController.navigate(java.lang.String,javax.servlet.http.HttpServletRequest)
+2017-10-30 15:39:33.141 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/invoice/toXml],methods=[POST]}" onto public void com.pay.controller.InvoiceController.generate(java.lang.String,javax.servlet.http.HttpServletResponse) throws java.lang.Exception
+2017-10-30 15:39:33.141 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/invoice/save_header],methods=[POST]}" onto public java.util.Map<java.lang.String, java.lang.Object> com.pay.controller.InvoiceController.saveHeader(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)
+2017-10-30 15:39:33.142 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/invoice/toExcel],methods=[POST]}" onto public void com.pay.controller.InvoiceController.invoice2Word(java.lang.String,javax.servlet.http.HttpServletResponse) throws java.lang.Exception
+2017-10-30 15:39:33.142 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/invoice/query_all],methods=[GET]}" onto public java.util.Map<java.lang.String, java.lang.Object> com.pay.controller.InvoiceController.queryAll(java.lang.Integer,java.lang.Integer,org.apache.catalina.servlet4preview.http.HttpServletRequest)
+2017-10-30 15:39:33.142 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/invoice/unDraw_toExcel],methods=[POST]}" onto public void com.pay.controller.InvoiceController.unDraw2Excel(javax.servlet.http.HttpServletResponse) throws java.lang.Exception
+2017-10-30 15:39:33.143 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/payInfo/query_trade_success]}" onto public java.util.Map<java.lang.String, java.lang.Object> com.pay.controller.PayInfoController.queryTradeSuccess(java.lang.Integer,java.lang.Integer,java.lang.String)
+2017-10-30 15:39:33.143 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/sms/send_code],methods=[POST]}" onto public com.pay.vo.ResponseVO com.pay.controller.SmsController.sendCode(java.lang.String)
+2017-10-30 15:39:33.144 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/whiteList/delete],methods=[GET]}" onto public void com.pay.controller.WhiteListController.delete(java.lang.Long)
+2017-10-30 15:39:33.144 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/whiteList/save],methods=[POST]}" onto public org.springframework.web.servlet.ModelAndView com.pay.controller.WhiteListController.save(com.pay.entity.WhiteList)
+2017-10-30 15:39:33.145 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/whiteList/query_all],methods=[GET]}" onto public java.util.Map<java.lang.String, java.lang.Object> com.pay.controller.WhiteListController.queryAll(java.lang.Integer,java.lang.Integer,org.apache.catalina.servlet4preview.http.HttpServletRequest)
+2017-10-30 15:39:33.145 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/v2/api-docs],methods=[GET],produces=[application/json || application/hal+json]}" onto public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)
+2017-10-30 15:39:33.148 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/swagger-resources/configuration/ui]}" onto org.springframework.http.ResponseEntity<springfox.documentation.swagger.web.UiConfiguration> springfox.documentation.swagger.web.ApiResourceController.uiConfiguration()
+2017-10-30 15:39:33.149 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/swagger-resources]}" onto org.springframework.http.ResponseEntity<java.util.List<springfox.documentation.swagger.web.SwaggerResource>> springfox.documentation.swagger.web.ApiResourceController.swaggerResources()
+2017-10-30 15:39:33.149 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/swagger-resources/configuration/security]}" onto org.springframework.http.ResponseEntity<springfox.documentation.swagger.web.SecurityConfiguration> springfox.documentation.swagger.web.ApiResourceController.securityConfiguration()
+2017-10-30 15:39:33.152 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+2017-10-30 15:39:33.153 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] -| Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2017-10-30 15:39:33.446 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter [534] -| Looking for @ControllerAdvice: org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@7f132176: startup date [Mon Oct 30 15:39:27 CST 2017]; root of context hierarchy
+2017-10-30 15:39:33.497 |-INFO  [main] org.springframework.web.servlet.handler.SimpleUrlHandlerMapping [362] -| Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2017-10-30 15:39:33.497 |-INFO  [main] org.springframework.web.servlet.handler.SimpleUrlHandlerMapping [362] -| Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2017-10-30 15:39:33.515 |-INFO  [main] org.springframework.web.servlet.mvc.method.annotation.ExceptionHandlerExceptionResolver [273] -| Detected @ExceptionHandler methods in globalControllerExceptionHandler
+2017-10-30 15:39:33.537 |-INFO  [main] org.springframework.web.servlet.handler.SimpleUrlHandlerMapping [362] -| Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2017-10-30 15:39:33.900 |-INFO  [main] org.springframework.jmx.export.annotation.AnnotationMBeanExporter [431] -| Registering beans for JMX exposure on startup
+2017-10-30 15:39:33.908 |-INFO  [main] org.springframework.context.support.DefaultLifecycleProcessor [343] -| Starting beans in phase 2147483647
+2017-10-30 15:39:33.908 |-INFO  [main] springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [120] -| Context refreshed
+2017-10-30 15:39:33.922 |-INFO  [main] springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [123] -| Found 1 custom documentation plugin(s)
+2017-10-30 15:39:33.936 |-INFO  [main] springfox.documentation.spring.web.scanners.ApiListingReferenceScanner [41] -| Scanning for api listing references
+2017-10-30 15:39:34.227 |-INFO  [main] springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator [40] -| Generating unique operation named: payUsingPOST_1
+2017-10-30 15:39:34.588 |-INFO  [main] org.apache.coyote.http11.Http11NioProtocol [179] -| Initializing ProtocolHandler ["http-nio-8008"]
+2017-10-30 15:39:34.597 |-INFO  [main] org.apache.coyote.http11.Http11NioProtocol [179] -| Starting ProtocolHandler ["http-nio-8008"]
+2017-10-30 15:39:34.609 |-INFO  [main] org.apache.tomcat.util.net.NioSelectorPool [179] -| Using a shared selector for servlet write/read
+2017-10-30 15:39:34.622 |-INFO  [main] org.springframework.boot.context.embedded.tomcat.TomcatEmbeddedServletContainer [201] -| Tomcat started on port(s): 8008 (http)
+2017-10-30 15:39:34.626 |-INFO  [main] com.pay.PayApplication [57] -| Started PayApplication in 7.841 seconds (JVM running for 8.349)
+2017-10-30 15:50:15.722 |-INFO  [http-nio-8008-exec-2] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/alipay] [179] -| Initializing Spring FrameworkServlet 'dispatcherServlet'
+2017-10-30 15:50:15.722 |-INFO  [http-nio-8008-exec-2] org.springframework.web.servlet.DispatcherServlet [489] -| FrameworkServlet 'dispatcherServlet': initialization started
+2017-10-30 15:50:15.745 |-INFO  [http-nio-8008-exec-2] org.springframework.web.servlet.DispatcherServlet [508] -| FrameworkServlet 'dispatcherServlet': initialization completed in 22 ms
+2017-10-30 15:50:15.790 |-INFO  [http-nio-8008-exec-2] org.hibernate.hql.internal.QueryTranslatorFactoryInitiator [47] -| HHH000397: Using ASTQueryTranslatorFactory
+2017-10-30 15:50:15.895 |-INFO  [http-nio-8008-exec-2] com.pay.aspect.PayAspect [65] -| 【访客验证】 合法访问：ip = 58.216.212.154 ,port = 4154 ,remoteSysName = 外网,methodName = pay ,args = [null, null, null, FS1509021965935, 0.01, 常州市第二人民医院年费, null, null, null, null, null, null, null, org.apache.catalina.connector.ResponseFacade@f395e5e] 
+2017-10-30 15:50:15.914 |-INFO  [http-nio-8008-exec-2] com.pay.service.AlipayService [135] -| 【支付请求参数】 bizContent = {
+  "out_trade_no": "FS1509021965935",
+  "total_amount": "0.01",
+  "subject": "常州市第二人民医院年费",
+  "timeout_express": "90m",
+  "goods_type": "0",
+  "product_code": "FAST_INSTANT_TRADE_PAY"
+}
+2017-10-30 15:51:51.396 |-INFO  [http-nio-8008-exec-4] com.pay.aspect.PayAspect [65] -| 【访客验证】 合法访问：ip = 58.216.212.154 ,port = 4390 ,remoteSysName = 外网,methodName = pay ,args = [null, null, null, FS1509022004406, 0.01, 常州市第二人民医院年费, null, null, null, null, null, null, null, org.apache.catalina.connector.ResponseFacade@f395e5e] 
+2017-10-30 15:51:51.398 |-INFO  [http-nio-8008-exec-4] com.pay.service.AlipayService [135] -| 【支付请求参数】 bizContent = {
+  "out_trade_no": "FS1509022004406",
+  "total_amount": "0.01",
+  "subject": "常州市第二人民医院年费",
+  "timeout_express": "90m",
+  "goods_type": "0",
+  "product_code": "FAST_INSTANT_TRADE_PAY"
+}
+2017-10-30 15:56:31.006 |-INFO  [http-nio-8008-exec-10] com.pay.aspect.PayAspect [65] -| 【访客验证】 合法访问：ip = 58.216.212.154 ,port = 5062 ,remoteSysName = 外网,methodName = pay ,args = [null, null, null, FS1509022012531, 0.01, 常州市第二人民医院年费, null, null, null, null, null, null, null, org.apache.catalina.connector.ResponseFacade@f395e5e] 
+2017-10-30 15:56:31.007 |-INFO  [http-nio-8008-exec-10] com.pay.service.AlipayService [135] -| 【支付请求参数】 bizContent = {
+  "out_trade_no": "FS1509022012531",
+  "total_amount": "0.01",
+  "subject": "常州市第二人民医院年费",
+  "timeout_express": "90m",
+  "goods_type": "0",
+  "product_code": "FAST_INSTANT_TRADE_PAY"
+}
+2017-10-30 15:59:00.071 |-INFO  [http-nio-8008-exec-3] org.apache.tomcat.util.http.parser.Cookie [179] -| A cookie header was received [356a192b7913b04c54574d18c28d46e6395428ab; JSESSIONID=38493BF504035971EC534B66B57D3892] that contained an invalid cookie. That cookie will be ignored.Note: further occurrences of this error will be logged at DEBUG level.
+2017-10-30 15:59:00.078 |-INFO  [http-nio-8008-exec-3] com.pay.aspect.PayAspect [85] -| 【未登录拦截】 拦截方法：methodName = navigate
+2017-10-30 16:43:03.538 |-INFO  [http-nio-8008-exec-8] com.pay.aspect.PayAspect [85] -| 【未登录拦截】 拦截方法：methodName = navigate
+2017-10-30 17:08:54.014 |-INFO  [http-nio-8008-exec-5] com.pay.aspect.PayAspect [65] -| 【访客验证】 合法访问：ip = 58.216.212.154 ,port = 1067 ,remoteSysName = 外网,methodName = pay ,args = [null, null, null, PRO15093524060723204000001, 300.0, 常州市第二人民医院年费, null, null, null, null, null, null, null, org.apache.catalina.connector.ResponseFacade@52614671] 
+2017-10-30 17:08:54.016 |-INFO  [http-nio-8008-exec-5] com.pay.service.AlipayService [135] -| 【支付请求参数】 bizContent = {
+  "out_trade_no": "PRO15093524060723204000001",
+  "total_amount": "300.0",
+  "subject": "常州市第二人民医院年费",
+  "timeout_express": "90m",
+  "goods_type": "0",
+  "product_code": "FAST_INSTANT_TRADE_PAY"
+}
+2017-10-30 22:47:25.184 |-INFO  [http-nio-8008-exec-3] com.pay.aspect.PayAspect [85] -| 【未登录拦截】 拦截方法：methodName = navigate
